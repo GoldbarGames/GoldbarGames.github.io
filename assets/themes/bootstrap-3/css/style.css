@@ -21,6 +21,9 @@ h1, h2, h3, h4 {
   background-color: #fdcd60;
 }
 
+td{
+  text-align: center;
+}
 
 
 /* posts index */

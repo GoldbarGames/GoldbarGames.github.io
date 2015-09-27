@@ -75,15 +75,8 @@ Where X = l,c,r,a
 Where Y = name of the sprite
 Where Z = effect number
 
-Example 1:
-
-ld c,$but_defa1,24
-;loads the center, Battler's default sprite, effect 24
-
-Example 2:
-
-ld l,$bea_nakua1,25
-;loads the left, Beatrice's crying sprite, effect 25
+`ld c,$but_defa1,24      ;loads the center, Battler's default sprite, effect 24`
+`ld l,$bea_nakua1,25      ;loads the left, Beatrice's crying sprite, effect 25`
 
 The abbreviations for the arguments are simple too.
 
@@ -103,8 +96,6 @@ That's all there is to it.
 As an interesting side-note, EP1-5 all used a different kind of sprite-loading system, in which a $ would be placed before the sprite name (i.e. ld c,$but_waraia1,24).
 
 You can also clear sprites by using cl instead of ld. The format is the same otherwise.
-
-
 
 # Displaying Text
 Now we'll add text, enclosed with
