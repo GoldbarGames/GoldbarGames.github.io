@@ -5,7 +5,7 @@ description: ""
 ---
 {% include JB/setup %}
 
-#Background
+###Background
 NScripter is a Japanese game engine by Naoki Takahashi designed for creating visual novels for Windows. NScripter dominated the early Japanese visual novel market, including hits such as Tsukihime, HaniHani, Narcissu, Saya no Uta, and Higurashi No Naku Koro Ni. Developer of Higurashi, 07th Expansion, continues to use Nscripter for their games, and this particular tutorial focuses on their sound novel Umineko no Naku Koro Ni.
 
 The original Nscripter is closed-source. ONScripter is short for open-source NScripter, and is popular among localization groups. For instance, the English translation group Witch-Hunt used ONScripter-EN -- the English branch of ONScripter -- when translating Umineko.  PONScripter is a different branch of ONScripter designed to accommodate non-English languages and characters. Currently, both ONScripter-EN and PONScripter are maintained by [Uncle Mion](http://unclemion.com/onscripter/).
@@ -14,7 +14,7 @@ I learned how to program in ONScripter by experimenting with Umineko's code; som
 
 This tutorial series was written in response to the requests I have received asking how to code in ONScripter. Many Umineko fans wish to make their own gameboards using images and music from the original game, and this is most easily accomplished by editing the game itself. Specifically, this tutorial explains how to work within 07th Expansion's framework of code, and is not a general-purpose ONScripter tutorial, which I may write at some later date.
 
-#Required Tools
+###Required Tools
 The required tools are as follows:
 
 * Umineko EP8

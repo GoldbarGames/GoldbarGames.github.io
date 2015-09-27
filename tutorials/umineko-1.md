@@ -5,13 +5,13 @@ description: ""
 ---
 {% include JB/setup %}
 
-# Extracting the Code
+### Extracting the Code
 
 Run NSDEC.exe (with admin privileges) in the same directory as your nscript.dat. The game script will be output to a file called "result.txt", which we will want to rename to "0.txt" for testing purposes. The "0.txt" file overrides the nscript.dat, so ONScripter.exe will read our modified version of the code instead of the original Umineko.
 
 Similarly, running NSAOUT.exe in the same directory as your arc.nsa will extract all of the sprites and backgrounds to a folder called "arc". You will want to reference this folder frequently, as it will be hard at first to recall every filename of every image.
 
-# Starting the Game
+### Starting the Game
 
 How do we know where the game starts in the code? There is actually a lot of code above and below the game's script, but there is one easy way to tell. In order for our game to run, we need to tell ONScripter where to begin the game. This section is called the **game block**. On the other hand, we might want to define some variables and functions before the game actually starts, and this section is called the **definition block**. In the definition block, our variables consist of two types: strings and integers. We define a string using the dollar sign ($) and an integer using the percent sign (&). Functions are defined using the keyword **defsub**.
 
@@ -25,7 +25,7 @@ Adding a semicolon in front of a command will turn it into a **comment**. The mo
 
 The title screen is a bit too advanced to be editing right now, so let's make sure this line is commented out, and start with something simpler.
 
-# Loading Backgrounds
+### Loading Backgrounds
 This is how you insert a background:
 
 `bg X,Y`
@@ -66,7 +66,7 @@ One effect number that I have found incredible use for is, in fact, 0.
 0 is a special effect number that actually does not do anything except prepare for the next time an effect number shows up. So if you want to load two things at the same time with the same effect, you would give Sprite A effect 0 and Sprite B effect 22.
 This would load Sprite A and Sprite B at the exact same time using effect 22.
 
-# Loading Sprites
+### Loading Sprites
 Speaking of sprites, inserting those is also simple.
 
 `ld X,Y,Z`
@@ -97,7 +97,7 @@ As an interesting side-note, EP1-5 all used a different kind of sprite-loading s
 
 You can also clear sprites by using cl instead of ld. The format is the same otherwise.
 
-# Displaying Text
+### Displaying Text
 Now we'll add text, enclosed with
 
 ` ` = used to denote English characters inside, rather than Japanese (for spacing purposes)
@@ -111,7 +111,7 @@ One important piece of code is "wait"
 `wait X`
 Where X = the time in milliseconds that you want the game to wait.
 
-# Sound Effects and Music
+### Sound Effects and Music
 
 Last but not least, sound effects (se), music effects(?) (me), and background music (bgm)
 (I’m still not sure if ME stands for music effect, but I don’t know what else would make sense. It’s a term created entirely by 07th Expansion and isn’t built into ONScripter.)
