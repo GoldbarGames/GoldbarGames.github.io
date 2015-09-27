@@ -21,11 +21,6 @@ h1, h2, h3, h4 {
   background-color: #fdcd60;
 }
 
-td{
-  text-align: center;
-}
-
-
 /* posts index */
 .post > h3.title {
   position: relative;
@@ -83,4 +78,19 @@ td{
 
 iframe {
   max-width: 100%;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+table, th, td {
+	border: 1px solid gray;
+  margin: inherit;
+  margin-bottom: 2em;
+  font-size: 16px;
+}
+
+td {
+  padding: 6px;
 }
