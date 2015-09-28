@@ -6,7 +6,7 @@
       {% if page.title %}
         {{ page.title }} - 
       {% endif %}
-      {{ site.title }}
+      {{ site.name }}
     </title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
@@ -44,7 +44,7 @@
               <span class="icon-bar"></span>
             </a>
 
-            <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+            <a class="brand" href="{{ HOME_PATH }}">{{ site.name }}</a>
 
             <div class="nav-collapse">
               <ul class="nav">
