@@ -91,6 +91,7 @@ table, th, td {
   font-size: 16px;
 }
 
-td {
+table td {
   padding: 6px;
+  text-align: left;
 }
