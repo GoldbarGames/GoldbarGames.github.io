@@ -374,7 +374,6 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	visibility: hidden;
 	.bio-photo {
 		max-width: 110px;
 		@include rounded(150px);

@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Goldbar Games
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Kinjo Goldbar
+  avatar: kinjo-portrait-avatar.jpg
+  bio: "Team Lead"
+  email: kinjogoldbar@gmail.com
   disqus-shortname: goldbargames
-  twitter: #username
-  facebook: #username
+  twitter: Kinjo_Goldbar
+  facebook: GoldbarGames
   google:
     plus: #username
     analytics: UA-52344030-1
@@ -40,18 +40,18 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: AntonStrickland
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
-  tumblr: #username
+  tumblr: Kinjo-Goldbar
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: Kinjo-Goldbar
   dribbble: #username
-  youtube: #username
+  youtube: seagullcrazy
   soundcloud: #username
   weibo: #username
   flickr: #username
