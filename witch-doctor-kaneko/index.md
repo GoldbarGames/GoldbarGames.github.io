@@ -7,5 +7,7 @@ comments: true
 excerpt:
 tags: []
 image:
-  feature: wdk_banner.jpg
+  feature:
 ---
+
+![Witch Doctor Kaneko](/images/wdk_banner.jpg)
