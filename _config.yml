@@ -46,16 +46,17 @@ owner:
   xing: #username
   instagram: #username
   lastfm: #username
-  tumblr: Kinjo-Goldbar
+  tumblr: #Kinjo-Goldbar
   pinterest: #username
   foursquare: #username
-  steam: Kinjo-Goldbar
+  steam: #Kinjo-Goldbar
   dribbble: #username
   youtube: seagullcrazy
   soundcloud: #username
   weibo: #username
   flickr: #username
   codepen: #username
+  itchio: Kinjo-Goldbar
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

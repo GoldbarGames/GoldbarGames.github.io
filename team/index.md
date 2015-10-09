@@ -19,12 +19,12 @@ If you are interested in joining us, feel free to consider applying. You may con
 
 We are currently looking for:
 
-* Scenario writers
-* 2D sprite artists
-* 2D background artists
-* 3D modelers
-* Animators
+* 2D Sprite Artists
+* 2D Background Artists
+* 3D Modelers
 * Music Composers
+* Scenario Writers
+* Video Animators/Editors
 * Vocal Talent
 
 
