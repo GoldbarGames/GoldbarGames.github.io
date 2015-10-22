@@ -2,9 +2,9 @@
 layout: post
 title: 3D Map Generator
 modified:
-categories:
+categories: detective-butler
 comments: true
-excerpt:
+excerpt: We've been working on a 3D Map Generator to create 3D maps for Detective Butler.
 tags: []
 image:
   feature:

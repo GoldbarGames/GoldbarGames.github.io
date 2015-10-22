@@ -2,9 +2,9 @@
 layout: post
 title: Kinjo's Jekyll Adventure
 modified:
-categories:
+categories: general
 comments: true
-excerpt:
+excerpt: Kinjo talks about his exciting new website.
 tags: []
 image:
   feature:

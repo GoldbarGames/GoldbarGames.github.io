@@ -2,9 +2,9 @@
 layout: post
 title: The Return of Detective Butler
 modified:
-categories:
+categories: detective-butler
 comments: true
-excerpt:
+excerpt: Kinjo announces his elevator pitch for Detective Butler 2 (this time, with less elevator).
 tags: []
 image:
   feature:

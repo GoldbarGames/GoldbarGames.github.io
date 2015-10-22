@@ -2,9 +2,9 @@
 layout: post
 title: Visual Novel, or Adventure Game?
 modified:
-categories:
+categories: detective-butler
 comments: true
-excerpt:
+excerpt: What exactly defines a visual novel apart from adventure games?
 tags: []
 image:
   feature:

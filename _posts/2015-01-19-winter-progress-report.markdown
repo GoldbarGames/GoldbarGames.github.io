@@ -2,9 +2,9 @@
 layout: post
 title: Winter Progress Report
 modified:
-categories:
+categories: general
 comments: true
-excerpt:
+excerpt: Kinjo explains a few things he got done over winter break.
 tags: []
 image:
   feature:

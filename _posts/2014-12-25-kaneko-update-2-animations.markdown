@@ -2,9 +2,9 @@
 layout: post
 title: Kaneko Update 2 - Animations
 modified:
-categories:
+categories: witch-doctor-kaneko
 comments: true
-excerpt:
+excerpt: We've acquired a talented sprite artist for Witch Doctor Kaneko.
 tags: []
 image:
   feature:

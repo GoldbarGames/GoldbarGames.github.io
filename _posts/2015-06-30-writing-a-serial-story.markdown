@@ -2,9 +2,9 @@
 layout: post
 title: Writing a Serial Story
 modified:
-categories:
+categories: detective-butler
 comments: true
-excerpt:
+excerpt: How does writing a serial narrative differ from a contained story?
 tags: []
 image:
   feature:

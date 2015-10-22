@@ -2,9 +2,9 @@
 layout: post
 title: Kaneko Update 0 - Introduction
 modified:
-categories:
+categories: witch-doctor-kaneko
 comments: true
-excerpt:
+excerpt: Introducing our new game concept, Witch Doctor Kaneko!
 tags: []
 image:
   feature:

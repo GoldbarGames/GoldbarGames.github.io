@@ -2,9 +2,9 @@
 layout: post
 title: Meeting 07th Expansion
 modified:
-categories:
+categories: general
 comments: true
-excerpt:
+excerpt: Kinjo writes his thoughts about meeting his biggest inspiration.
 tags: []
 image:
   feature:

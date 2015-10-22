@@ -2,9 +2,9 @@
 layout: post
 title: Creating Visual Novels
 modified:
-categories:
+categories: general
 comments: true
-excerpt:
+excerpt: Our first panel was a major success, and we look forward to doing more.
 tags: []
 image:
   feature:

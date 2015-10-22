@@ -2,9 +2,9 @@
 layout: post
 title: Kaneko Update 1 - The Spellbook
 modified:
-categories:
+categories: witch-doctor-kaneko
 comments: true
-excerpt:
+excerpt: We'll talk about the basic gameplay design behind Kaneko's Spellbook
 tags: []
 image:
   feature:

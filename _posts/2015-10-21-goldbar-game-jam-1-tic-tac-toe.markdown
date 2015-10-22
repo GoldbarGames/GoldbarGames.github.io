@@ -2,9 +2,9 @@
 layout: post
 title: Goldbar Game Jam 1 - Tic-Tac-Toe
 modified:
-categories:
+categories: goldbar-game-jam
 comments: true
-excerpt:
+excerpt: Announcing the results of the first Goldbar Game Jam.
 tags: []
 image:
   feature:

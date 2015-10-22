@@ -2,9 +2,9 @@
 layout: post
 title: Closed Room Blitz - Arena
 modified:
-categories:
+categories: seacats
 comments: true
-excerpt:
+excerpt: Enter the arena of truth to solve your friends' mysteries while defending your own!
 tags: []
 image:
   feature:

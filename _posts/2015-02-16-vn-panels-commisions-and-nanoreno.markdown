@@ -2,9 +2,9 @@
 layout: post
 title: VN Panels, Commisions, and NaNoReNo
 modified:
-categories:
+categories: general
 comments: true
-excerpt:
+excerpt: General announcements regarding just about everything.
 tags: []
 image:
   feature:
