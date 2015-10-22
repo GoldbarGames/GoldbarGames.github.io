@@ -32,7 +32,37 @@ Basically, the purpose of the 3D Map Generator is to take in a text file as inpu
 
 Each step probably took between 1-3 days. Overall, the system took the entirety of September to get into a useful state. Currently, it's useful for creating rooms of buildings and mountainous landscapes. Given a text file, it takes maybe at most five minutes to create a 3D map which can be used as a background. All aspects of the 3D map can also be edited manually in the Unity editor after being generated, in case there's something else you want to add, remove, or modify.
 
-[Here is an example of a map.](/files/map-example.txt) Yes, that's all it is. [Here is what it looks like in-game.](/images/map-example.jpg)
+Here is an example of a map:
+
+~~~
+//You need this blank line at the top, and an extra . at the end of every row.
+*******...........
+*.....*...........
+*.....*...........
+*.....*...........
+*.....*...........
+*.....*****d*****.
+*...............*.
+*...............*.
+*...............*.
+*...............*.
+*...............*.
+*************..**.
+*************..**.
+**.........**..**.
+**.........**..**.
+******d*****....*.
+*..........*....*.
+*..........*....*.
+*..........d....*.
+*..........*....*.
+*..........*....*.
+*************..**.
+~~~
+
+Yes, that's all. And here is what it looks like in-game:
+
+![map-example](/images/map-example.jpg)
 
 Note that tile texture and height use their own individual files, and so each tile's texture and height can be unique. The final image shows multiple textures, as well as doors (represented by 'd' in the input file) that automatically rotate to align with each wall.
 
