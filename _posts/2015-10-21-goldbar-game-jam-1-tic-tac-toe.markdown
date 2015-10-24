@@ -17,6 +17,6 @@ I really wanted to participate in game jams such as SuNoFes and Yuri Jam. Unfort
 
 It's all about working on small steps over a long period of time. Eventually, they do add up. So for our first game jam, we decided to do a very simple Tic-Tac-Toe game. The rules to this game are incredibly simple and finite, which makes it easy to program. At this time we've invested very few hours total into the programming and artwork. If it takes too long to finish, we'll just move on to bigger and better things.
 
-[You can play our entry for Goldbar Game Jam \#1 here.](http://107.170.76.38/ttt.html) Please enjoy!
+[You can play our entry for Goldbar Game Jam \#1 here.](http://play.goldbargames.com/ttt.html) Please enjoy!
 
 Note: We will probably periodically update each mini-game as we continue working on them, but there's no harm in showing off our works in progress.
