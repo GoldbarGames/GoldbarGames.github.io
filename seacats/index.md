@@ -11,3 +11,18 @@ image:
 ---
 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/L3z39v_3KIk" frameborder="0" allowfullscreen></iframe>
+
+## [Download from Goldbar Games](http://play.goldbargames.com/downloads/When_the_Seacats_Cry.zip)
+
+### Credits
+
+| Developer | Position |
+|:--------|:-------:|
+| Kinjo   | Writing, Programming   |
+|----
+| Chocojax | Additional Art  |
+|----
+| Genji | Video Editing   |
+|----
+| Ozaki   | Quality Assurance   |
+{: rules="groups"}
