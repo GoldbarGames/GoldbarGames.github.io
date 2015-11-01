@@ -10,63 +10,10 @@ image:
   feature:
 date: 2015-10-31T15:44:16-05:00
 ---
-<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
-<script type="text/javascript">
-<!--
-var unityObjectUrl = "http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js";
-if (document.location.protocol == 'https:')
-  unityObjectUrl = unityObjectUrl.replace("http://", "https://ssl-");
-document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
--->
-</script>
-<script type="text/javascript">
-<!--
-  var config = {
-    width: 640,
-    height: 360,
-    params: { enableDebugging:"0" }
+<script type="text/javascript" src="https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js"></script>
+<script src="http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js"></script>
 
-  };
-  var u = new UnityObject2(config);
-
-  jQuery(function() {
-
-    var $missingScreen = jQuery("#unityPlayer").find(".missing");
-    var $brokenScreen = jQuery("#unityPlayer").find(".broken");
-    $missingScreen.hide();
-    $brokenScreen.hide();
-
-    u.observeProgress(function (progress) {
-      switch(progress.pluginStatus) {
-        case "broken":
-          $brokenScreen.find("a").click(function (e) {
-            e.stopPropagation();
-            e.preventDefault();
-            u.installPlugin();
-            return false;
-          });
-          $brokenScreen.show();
-        break;
-        case "missing":
-          $missingScreen.find("a").click(function (e) {
-            e.stopPropagation();
-            e.preventDefault();
-            u.installPlugin();
-            return false;
-          });
-          $missingScreen.show();
-        break;
-        case "installed":
-          $missingScreen.remove();
-        break;
-        case "first":
-        break;
-      }
-    });
-    u.initPlugin(jQuery("#unityPlayer")[0], "http://play.goldbargames.com/witch-doctor-kaneko/wdk_test.unity3d");
-  });
--->
-</script>
+{% include _unity-game.html link='http://play.goldbargames.com/witch-doctor-kaneko/wdk_test.unity3d' %}
 
 Happy Halloween! For tonight's update, we're pleased to show off our new engine for Witch Doctor Kaneko! That's right -- you can play it right here, in this blog post!
 
@@ -80,17 +27,4 @@ Controls: Arrow keys move; spacebar jumps.
 
 Enjoy!
 
-<div class="content">
-			<div id="unityPlayer">
-				<div class="missing">
-					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
-						<img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
-					</a>
-				</div>
-				<div class="broken">
-					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now! Restart your browser after install.">
-						<img alt="Unity Web Player. Install now! Restart your browser after install." src="http://webplayer.unity3d.com/installation/getunityrestart.png" width="193" height="63" />
-					</a>
-				</div>
-			</div>
-		</div>
+{% include _unity-missing.html %}
