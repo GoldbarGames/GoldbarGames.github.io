@@ -9,6 +9,8 @@ tags: []
 image:
   feature:
 date: 2015-08-31T23:02:22-05:00
+redirect_from:
+  - /2015/09/07/kinjos-jekyll-adventure/
 ---
 In other words, this is an explanation for what happened to the website over the past two months.
 
