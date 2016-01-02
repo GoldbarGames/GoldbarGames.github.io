@@ -1,0 +1,29 @@
+---
+layout: post
+title: End of 2015 Review
+modified:
+categories:
+comments: true
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-12-31T03:44:55-06:00
+---
+Happy Holidays! It seems appropriate to have one last blog post before the year ends. It has been a very productive year for Goldbar Games. To give a quick summary:
+
+We found artists for Detective Butler and Witch Doctor Kaneko. We attended two anime cons as panelists, which were major successes. We traveled to Chicago to meet Ryukishi07 in person and learn his secrets. We gained an additional 100+ followers on Twitter this year. We started our own series of game jams to promote productivity. We worked hard on art and music assets. We crashed the old website and made a better one. We created a serial VN system to easily upload new chapters. We created a map generator to build 3D maps from text files. We created our own unique battle system. We went from having a bare-bones VN engine to nearly a full cinematic experience.
+
+And on a personal level, I'm nearly finished with university, so my programming knowledge is the highest it's ever been. Next semester we'll be diving into artificial intelligence, which is a topic I've been looking forward to for a long time. I'll definitely put it to use in my games!
+
+My schedule has become increasingly packed and busy, so I apologize for not updating things very quickly. However, I do work on my games as often as I can (which tends to be at least several hours per week) . It just takes a lot of time to get anything substantial finished, especially with school. I will have about two weeks more of winter break before school resumes, but my schedule should be a bit lighter than the previous semester.
+
+On a side note, I am considering publishing some of my old games on here, for the sake of building up a portfolio. I have done quite a bit of work making games that are honestly probably worth playing; I just haven't published them because they were made so long ago. Another idea is to remake them with better programming and design, then re-release them at some point later on. They are mostly RPGs and platformers.
+
+Next year, I want to work on Witch Doctor Kaneko a lot more. The art has been coming along quite well, and I'm really liking the way it looks so far. I just need to fix up the programming and get some levels done (I've heard that if you're making a puzzle game, it usually takes several iterations before your puzzles make it into the final version). Indeed, it seems like the only projects I tend to work on are those that are very ambitious and take a long time to make.
+
+That said, I know I have been very secretive about most progress on Detective Butler 2. Most of my progress is documented through screenshots on Twitter; the reason is that I really only want to give away bits and pieces while working on it and nothing else. I want there to be a lot of surprise once you start playing. Originally I intended a release of Summer 2015 but I had to push that back until Summer 2016 in order to make sure the game is the best it can be.
+
+Personally, I am interested in knowing what people are hoping to see more of in Detective Butler 2, so I can focus on emphasizing those things as we near completion. So if anyone would like to let me know their thoughts, please do so in the comments or somewhere else where I can see it.
+
+I do have one final announcement: there is potentially a new game idea in the works. I've been working with a friend of mine on another puzzle game. I'm not entirely sure how much I should disclose at this time, but just saying it is enough of a teaser to keep you all excited for another whole year.
