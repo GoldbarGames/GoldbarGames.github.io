@@ -14,6 +14,8 @@ image:
 
 ## [Download from Goldbar Games](http://play.goldbargames.com/downloads/When_the_Seacats_Cry.zip)
 
+## [Download the Umineko Screenshot Generator] (http://play.goldbargames.com/downloads/[GG]UminekoScreenshot.zip)
+
 ### Credits
 
 | Developer | Position |
