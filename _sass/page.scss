@@ -315,6 +315,8 @@ $button-size: 1.5rem;
 	img {
 		display: block;
 		margin: 0 auto;
+		max-width: 100%;
+		height: auto;
 		-ms-interpolation-mode: bicubic;
 	}
 	.headline-wrap {
