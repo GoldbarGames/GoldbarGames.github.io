@@ -2,7 +2,7 @@
 layout: post
 title: Detective Butler Gameplay Overview
 modified:
-categories:
+categories: detective-butler
 comments: true
 excerpt: The gameplay of Detective Butler 2 is discussed.
 tags: []

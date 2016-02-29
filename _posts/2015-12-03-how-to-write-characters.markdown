@@ -2,7 +2,7 @@
 layout: post
 title: How to Write Characters
 modified:
-categories:
+categories: general
 comments: true
 excerpt: If you want to know how Kinjo writes his characters, read this.
 tags: []

@@ -2,7 +2,7 @@
 layout: post
 title: End of 2015 Review
 modified:
-categories:
+categories: general
 comments: true
 excerpt: Kinjo summarizes the year of 2015 and his plans for the future.
 tags: []
