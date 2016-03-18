@@ -14,6 +14,9 @@ image:
 
 ## [Download from Goldbar Games](http://play.goldbargames.com/downloads/When_the_Seacats_Cry.zip)
 
+## [Download the Closed Room Blitz: Arena](http://play.goldbargames.com/downloads/crb-arena.zip)
+[More information](http://www.goldbargames.com/seacats/closed-room-blitz-arena/)
+
 ## [Download the Umineko Screenshot Generator](http://play.goldbargames.com/downloads/[GG]UminekoScreenshot.zip)
 
 ### Credits
