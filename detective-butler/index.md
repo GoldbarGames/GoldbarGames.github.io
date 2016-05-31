@@ -21,13 +21,15 @@ __The Misadventures of Detective Butler__ is an interactive murder mystery game 
 
 | Developer | Position |
 |:--------|:-------:|
-| Kinjo Goldbar  | Programming, Story   |
+| Kinjo Goldbar  | Programming and Story   |
 |----
 | Captain Pharos | Character and GUI Art   |
 |----
 | TahYllis | Additional Art   |
 |----
-| Solo Acapello | Music and Sounds   |
+| Solo Acapello | Music and Sound   |
+|----
+| Weonix | Music and Sound   |
 |----
 | Ozaki   | Quality Assurance   |
 |----
