@@ -2,6 +2,7 @@ language: ruby
 rvm:
   - 2.2
 
+gemfile: Gemfile.ci
 script: bundle exec jekyll build && htmlproofer ./_site
 
 branches:
