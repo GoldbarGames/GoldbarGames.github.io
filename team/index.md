@@ -19,13 +19,11 @@ If you are interested in working with us, feel free to consider applying. You ma
 
 We are currently looking for:
 
+* 3D Modelers
 * 2D Sprite Artists
 * 2D Background Artists
-* 3D Modelers
 * Music Composers
 * Video Animators/Editors
-* Vocal Talent
-
 
 
 | Developer | Position |
