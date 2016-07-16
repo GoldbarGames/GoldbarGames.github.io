@@ -2,7 +2,7 @@
 
 title:            Goldbar Games
 locale:           en_US
-url: //www.goldbargames.com
+#url: //www.goldbargames.com
 
 
 # Jekyll configuration
@@ -61,4 +61,7 @@ owner:
   itchio: Kinjo-Goldbar
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "CNAME"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log",
+          "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace",
+          "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock",
+          "LICENSE", "README.md", "CNAME", "vendor"]
