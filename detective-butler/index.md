@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Detective Butler
+title: The Misadventures of Detective Butler
 date: 2015-10-04T13:18:41-05:00
 modified:
 comments: true
@@ -9,47 +9,13 @@ tags: []
 image:
   feature:
 ---
+<img src="db-logo.png" title="Logo" alt="Logo">
+__The Misadventures of Detective Butler__ is a murder mystery (mis)adventure game series featuring the titular character Detective Butler and his sidekick Gilligan solving various mysteries.
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/5bl0-VWTTGU" frameborder="0" allowfullscreen></iframe>
+The first game in the series, __Maiden Voyage Murder__, is a visual novel without choices, depicting the initial meeting between Butler and Gilligan during a summer cruise gone wrong.
 
+The second game, __The Serial Murders__, is a 3D exploration game where you can actively investigate, interrogate, and confront various culprits in a city filled with crime as Butler and Gilligan hunt down a dangerous serial killer.
 
-__The Misadventures of Detective Butler__ is an interactive murder mystery game series. The first game in the series, __Maiden Voyage Murder__, was completed in August 2013 and is available for download below. The second game has been in development since November 2014 and is on track to be released sometime during Summer 2016. Unlike the first game, the second game is significantly larger and will consist of a game client that the player will use to download new chapters to their existing game, which will be released over time. Features new to the second game include a full 3D map system, evidence collection, and debate system.
+## [Maiden Voyage Murder](butler1)
 
-## [Download from itch.io](http://kinjo-goldbar.itch.io/detective-butler)
-
-### Credits for The Misadventures
-
-| Developer | Position |
-|:--------|:-------:|
-| Kinjo Goldbar  | Programming and Story   |
-|----
-| Captain Pharos | Character and GUI Art   |
-|----
-| TahYllis | Additional Art   |
-|----
-| Solo Acapello | Music and Sound   |
-|----
-| Weonix | Music and Sound   |
-|----
-| Ozaki   | Quality Assurance   |
-|----
-| KotoMeanie   | Quality Assurance   |
-|----
-| Van Kadix   | Quality Assurance   |
-{: rules="groups"}
-
-
-### Credits for Maiden Voyage Murder
-
-| Developer | Position |
-|:--------|:-------:|
-| Kinjo   | Writing, Programming, Music   |
-|----
-| Shadilyn | Character and CG Art   |
-|----
-| Chocojax | Character Concept Art   |
-|----
-| Meta | Music Developer   |
-|----
-| Ozaki   | Quality Assurance   |
-{: rules="groups"}
+## [The Serial Murders](butler2) 

@@ -8,4 +8,4 @@ image:
   #creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-This site is currently under construction.
+Welcome to the official Goldbar Games development website!
