@@ -38,6 +38,8 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
 
 ## [Download from itch.io](http://kinjo-goldbar.itch.io/detective-butler)
 
+## [Download the OST](http://play.goldbargames.com/downloads/Butler1_OST.zip)
+
 ### Credits for Detective Butler: Maiden Voyage Murder
 
 | Developer | Position |
