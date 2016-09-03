@@ -1,15 +1,7 @@
-# Site navigation links
-- title: Team
-  url: /team/
+# main links links
+main:
+  - title: "Sample Navigation Link"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-- title: Detective Butler
-  url: /detective-butler/
-
-- title: When the Seacats Cry
-  url: /seacats/
-
-- title: Witch Doctor Kaneko
-  url: /witch-doctor-kaneko/
-
-- title: Posts
-  url: /posts/
+  - title: "Sample Navigation Link 2"
+    url: /
