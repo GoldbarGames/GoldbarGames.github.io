@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Kaneko Update 4 - Playable Engine
 modified:
 categories: witch-doctor-kaneko
@@ -13,8 +13,6 @@ date: 2015-10-31T15:44:16-05:00
 <script type="text/javascript" src="https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js"></script>
 <script src="http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js"></script>
 
-{% include _unity-game.html link='http://play.goldbargames.com/witch-doctor-kaneko/wdk_test.unity3d' %}
-
 Happy Halloween! For tonight's update, we're pleased to show off our new engine for Witch Doctor Kaneko! That's right -- you can play it right here, in this blog post!
 
 We're going to do something different from now on. We'll try to integrate actual gameplay into our blog posts (like the previous one) so that you can really get a feel for what we've been working on. As they always say -- show, don't tell! So we'll show you our latest works in progress by allowing you to play them yourself!
@@ -26,5 +24,3 @@ Since Witch Doctor Kaneko was technically the first game I tried to make on Unit
 Controls: Arrow keys move; spacebar jumps.
 
 Enjoy!
-
-{% include _unity-missing.html %}

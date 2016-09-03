@@ -1,8 +1,8 @@
 ---
-layout: post
+
 title: A Real Update
 modified:
-categories: 
+categories:
 comments: true
 excerpt: We've been pretty busy lately. Everyone's been hard at work!
 tags: []
@@ -24,4 +24,3 @@ Speaking of releasing the first chapter... Nah, not today! But soon. Earlier thi
 But wait, there's more! Our Witch Doctor Kaneko team of artists Osato and TahYllis are also doing a fantastic job. Osato's concept art is as imaginative as ever, and TahYllis has truly mastered the art of pixel animations. We've been doing the concept art and sprites for Kaneko's spells, and we're just over halfway finished with them. The next step is to devise some puzzles which utilize those spells and then code the best ones into the game.
 
 Again, I'll be sending my beta-testers a link to the prototype for Detective Butler as soon as I can. This game takes a lot of time to work on: it features a fully-explorable 3D environment, where you hunt for clues to aid you in the climactic debate against the culprit! Ah, did that spoil too much already?! I'll do a proper write-up (and hopefully a video demonstration) of all the gameplay in the near future. Until then, all aboard the hype train!
-

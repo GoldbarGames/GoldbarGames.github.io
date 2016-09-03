@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to Write Characters
 modified:
 categories: general

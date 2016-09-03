@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Visual Novel, or Adventure Game?
 modified:
 categories: detective-butler

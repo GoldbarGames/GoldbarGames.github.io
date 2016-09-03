@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Billions Upon Billions of Sprites
 modified:
 categories: detective-butler

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Kaneko Update 0 - Introduction
 modified:
 categories: witch-doctor-kaneko

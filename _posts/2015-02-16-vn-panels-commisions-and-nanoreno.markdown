@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: VN Panels, Commisions, and NaNoReNo
 modified:
 categories: general

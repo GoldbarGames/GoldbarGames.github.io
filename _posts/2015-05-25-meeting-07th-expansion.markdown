@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Meeting 07th Expansion
 modified:
 categories: general

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 excerpt: "Goldbar Games - Independent Game Developer"
 tags: [Jekyll, theme, responsive, blog, template]
 image:

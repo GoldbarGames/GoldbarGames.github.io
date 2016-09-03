@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Closed Room Blitz - Arena
 modified:
 categories: seacats

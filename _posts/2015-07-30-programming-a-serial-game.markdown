@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Programming a Serial Game
 modified:
 categories: detective-butler

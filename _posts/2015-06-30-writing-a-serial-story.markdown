@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Writing a Serial Story
 modified:
 categories: detective-butler

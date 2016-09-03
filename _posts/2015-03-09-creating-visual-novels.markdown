@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Creating Visual Novels
 modified:
 categories: general

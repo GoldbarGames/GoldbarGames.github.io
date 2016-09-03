@@ -11,16 +11,16 @@ title                    : "Goldbar Games"
 title_separator          : "-"
 name                     : "Goldbar Games"
 description              : "Independent game developer."
-url                      : http://goldbargames.com
+url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : GoldbarGames/GoldbarGames.github.io
+repository               : "GoldbarGames/GoldbarGames.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "GoldbarGames" 
+    shortname            : "GoldbarGames"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:

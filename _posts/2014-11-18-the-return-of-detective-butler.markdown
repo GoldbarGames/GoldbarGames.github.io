@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The Return of Detective Butler
 modified:
 categories: detective-butler

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Goldbar Game Jam 1 - Tic-Tac-Toe
 modified:
 categories: goldbar-game-jam

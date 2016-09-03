@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: On Fairness in Games
 modified:
 categories: seacats

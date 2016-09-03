@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Kinjo's Jekyll Adventure
 modified:
 categories: general
