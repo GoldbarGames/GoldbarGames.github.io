@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: How to Write Characters
 modified:
 categories: general

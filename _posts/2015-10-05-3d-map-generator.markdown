@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: 3D Map Generator
 modified:
 categories: detective-butler

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Team
 date: 2015-10-08T21:06:20-05:00
 modified:

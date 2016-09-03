@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Closed Room Blitz - Arena
 modified:
 categories: seacats

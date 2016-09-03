@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "News"
+    url: /posts/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Team"
+    url: /team/
+
+  - title: "Seacats"
+    url: /seacats/
+
+  - title: "Detective Butler"
+    url: /detective-butler/
+    
+  - title: "Witch Doctor Kaneko"
+    url: /witch-doctor-kaneko/

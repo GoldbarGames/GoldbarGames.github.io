@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kaneko Update 4 - Playable Engine
 modified:
 categories: witch-doctor-kaneko

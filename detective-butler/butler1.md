@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Detective Butler - Maiden Voyage Murder
 date: 2015-10-04T13:18:41-05:00
 modified:

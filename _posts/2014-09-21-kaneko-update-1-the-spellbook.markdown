@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kaneko Update 1 - The Spellbook
 modified:
 categories: witch-doctor-kaneko

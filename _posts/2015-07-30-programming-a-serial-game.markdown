@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Programming a Serial Game
 modified:
 categories: detective-butler

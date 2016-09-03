@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Detective Butler Gameplay Overview
 modified:
 categories: detective-butler

@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kaneko Update 3 - Designing Game Mechanics
 modified:
 categories: witch-doctor-kaneko

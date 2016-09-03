@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: The Return of Detective Butler
 modified:
 categories: detective-butler

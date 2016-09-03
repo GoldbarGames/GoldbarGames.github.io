@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: When the Seacats Cry
 date: 2015-10-04T13:56:25-05:00
 modified:

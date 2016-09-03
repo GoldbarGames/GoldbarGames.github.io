@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Winter Progress Report
 modified:
 categories: general

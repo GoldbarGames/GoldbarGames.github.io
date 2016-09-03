@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: A Real Update
 modified:
 categories:

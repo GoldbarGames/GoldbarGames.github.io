@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Meeting 07th Expansion
 modified:
 categories: general

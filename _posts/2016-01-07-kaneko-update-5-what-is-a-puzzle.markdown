@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kaneko Update 5 - What Is a Puzzle?
 modified:
 categories: witch-doctor-kaneko

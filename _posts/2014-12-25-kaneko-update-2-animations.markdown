@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kaneko Update 2 - Animations
 modified:
 categories: witch-doctor-kaneko

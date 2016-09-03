@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Creating Visual Novels
 modified:
 categories: general

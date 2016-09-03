@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Kinjo's Jekyll Adventure
 modified:
 categories: general

@@ -1,5 +1,5 @@
 ---
-
+layout: single
 title: Our DB2 Distribution Model
 modified:
 categories:
