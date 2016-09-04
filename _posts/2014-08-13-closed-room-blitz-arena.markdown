@@ -29,3 +29,5 @@ Lastly, any spectators may enter or leave the room while the game is going on. T
 
 
 If there are any questions or issues running the game, please comment. Have fun!
+
+## [Download the Closed Room Blitz: Arena](http://play.goldbargames.com/downloads/crb-arena.zip)
