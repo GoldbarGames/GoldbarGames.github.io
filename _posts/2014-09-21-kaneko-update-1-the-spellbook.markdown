@@ -4,6 +4,7 @@ title: Kaneko Update 1 - The Spellbook
 modified:
 categories: witch-doctor-kaneko
 comments: true
+share: true
 excerpt: We'll talk about the basic gameplay design behind Kaneko's Spellbook
 tags: []
 image:

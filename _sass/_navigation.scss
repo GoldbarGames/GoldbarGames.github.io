@@ -169,14 +169,12 @@
 
 
 /*
-   Priority plus navigation
+   Priority plus navigation (navbar)
    ========================================================================== */
 
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
-
   a {
     display: block;
     margin: 0 1rem;

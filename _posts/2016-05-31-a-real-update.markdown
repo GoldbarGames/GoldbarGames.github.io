@@ -4,6 +4,7 @@ title: A Real Update
 modified:
 categories:
 comments: true
+share: true
 excerpt: We've been pretty busy lately. Everyone's been hard at work!
 tags: []
 image:

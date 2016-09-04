@@ -4,6 +4,7 @@ title: Kaneko Update 0 - Introduction
 modified:
 categories: witch-doctor-kaneko
 comments: true
+share: true
 excerpt: Introducing our new game concept, Witch Doctor Kaneko!
 tags: []
 image:

@@ -4,6 +4,7 @@ title: Billions Upon Billions of Sprites
 modified:
 categories: detective-butler
 comments: true
+share: true
 excerpt: Kinjo describes his sprite process for Detective Butler 2.
 tags: []
 image:

@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "News"
-    url: /posts/
-
   - title: "Team"
     url: /team/
 

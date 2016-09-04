@@ -4,6 +4,7 @@ title: Kaneko Update 3 - Designing Game Mechanics
 modified:
 categories: witch-doctor-kaneko
 comments: true
+share: true
 excerpt: Kinjo discusses some of his thought processes on designing games.
 tags: []
 image:

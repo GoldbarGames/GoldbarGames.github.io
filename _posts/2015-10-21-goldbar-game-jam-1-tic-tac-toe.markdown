@@ -4,6 +4,7 @@ title: Goldbar Game Jam 1 - Tic-Tac-Toe
 modified:
 categories: goldbar-game-jam
 comments: true
+share: true
 excerpt: Announcing the results of the first Goldbar Game Jam.
 tags: []
 image:

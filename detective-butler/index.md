@@ -9,20 +9,14 @@ tags: []
 image:
   feature:
 feature_row:
-  - #image_path: unsplash-gallery-image-2-th.jpg
-    #alt: "placeholder image 2"
-    title: "Maiden Voyage Murder"
-    url: "butler1"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+  - url: "butler1"
+    btn_label: "Maiden Voyage Murder"
+    btn_class: "btn"
   - title: ""
     excerpt: ""
-  - #image_path: unsplash-gallery-image-2-th.jpg
-    #alt: "placeholder image 2"
-    title: "The Serial Murders"
-    url: "butler2"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+  - url: "butler2"
+    btn_label: "The Serial Murders"
+    btn_class: "btn"
 ---
 <img src="db-logo.png" title="Logo" alt="Logo">
 __The Misadventures of Detective Butler__ is a murder mystery (mis)adventure game series featuring the titular character Detective Butler and his sidekick Gilligan solving various mysteries.

@@ -4,6 +4,7 @@ title: Meeting 07th Expansion
 modified:
 categories: general
 comments: true
+share: true
 excerpt: Kinjo writes his thoughts about meeting his biggest inspiration.
 tags: []
 image:

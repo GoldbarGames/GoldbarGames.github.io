@@ -4,6 +4,7 @@ title: Closed Room Blitz - Arena
 modified:
 categories: seacats
 comments: true
+share: true
 excerpt: Enter the arena of truth to solve your friends' mysteries while defending your own!
 tags: []
 image:

@@ -23,9 +23,9 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
+  text-align: center;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -33,9 +33,10 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin: 1.414em 0 0;
+  padding-bottom: 0.5em;
   font-family: $sans-serif-narrow;
-
+  text-align: center;
   a + a {
     opacity: 0.5;
   }
@@ -51,9 +52,10 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
+  margin: 1.414em 0 0;
+  padding-bottom: 0.5em;
   font-size: $type-size-6;
-
+  text-align: center;
   & + p {
     text-indent: 0;
   }
@@ -84,15 +86,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 0;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding-right: 0;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: 0;
   }
 
   .page__meta {

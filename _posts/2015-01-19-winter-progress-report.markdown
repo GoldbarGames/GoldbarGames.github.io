@@ -4,6 +4,7 @@ title: Winter Progress Report
 modified:
 categories: general
 comments: true
+share: true
 excerpt: Kinjo explains a few things he got done over winter break.
 tags: []
 image:

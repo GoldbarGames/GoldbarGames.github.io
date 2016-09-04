@@ -4,6 +4,7 @@ title: Kaneko Update 5 - What Is a Puzzle?
 modified:
 categories: witch-doctor-kaneko
 comments: true
+share: true
 excerpt: How can you design a puzzle before knowing what one is?
 tags: []
 image:

@@ -4,6 +4,7 @@ title: Kaneko Update 4 - Playable Engine
 modified:
 categories: witch-doctor-kaneko
 comments: true
+share: true
 excerpt: Play a bit of our new game engine for Witch Doctor Kaneko!
 tags: []
 image:

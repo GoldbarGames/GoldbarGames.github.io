@@ -4,6 +4,7 @@ title: Creating Visual Novels
 modified:
 categories: general
 comments: true
+share: true
 excerpt: Our first panel was a major success, and we look forward to doing more.
 tags: []
 image:

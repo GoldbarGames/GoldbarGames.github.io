@@ -4,6 +4,7 @@ title: Kinjo's Jekyll Adventure
 modified:
 categories: general
 comments: true
+share: true
 excerpt: Kinjo talks about his exciting new website.
 tags: []
 image:

@@ -4,6 +4,7 @@ title: How to Write Characters
 modified:
 categories: general
 comments: true
+share: true
 excerpt: If you want to know how Kinjo writes his characters, read this.
 tags: []
 image:

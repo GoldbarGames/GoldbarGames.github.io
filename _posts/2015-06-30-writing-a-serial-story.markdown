@@ -4,6 +4,7 @@ title: Writing a Serial Story
 modified:
 categories: detective-butler
 comments: true
+share: true
 excerpt: How does writing a serial narrative differ from a contained story?
 tags: []
 image:

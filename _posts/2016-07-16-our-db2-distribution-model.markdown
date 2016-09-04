@@ -4,6 +4,7 @@ title: Our DB2 Distribution Model
 modified:
 categories:
 comments: true
+share: true
 excerpt: Learn about our game client for Detective Butler 2.
 tags: []
 image:

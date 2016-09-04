@@ -4,6 +4,7 @@ title: Programming a Serial Game
 modified:
 categories: detective-butler
 comments: true
+share: true
 excerpt: What kind of decisions go into coding a game with a serial storyline?
 tags: []
 image:

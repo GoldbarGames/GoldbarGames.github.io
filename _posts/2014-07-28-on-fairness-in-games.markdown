@@ -4,6 +4,7 @@ title: On Fairness in Games
 modified:
 categories: seacats
 comments: true
+share: true
 excerpt: The worst (or best?) game design choice Kinjo ever made.
 tags: []
 image:
