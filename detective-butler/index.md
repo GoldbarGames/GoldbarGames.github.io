@@ -9,12 +9,12 @@ tags: []
 image:
   feature:
 feature_row:
-  - url: "/butler1/"
+  - url: "/detective-butler/butler1/"
     btn_label: "Maiden Voyage Murder"
     btn_class: "btn"
   - title: ""
     excerpt: ""
-  - url: "/butler2/"
+  - url: "/detective-butler/butler2/"
     btn_label: "The Serial Murders"
     btn_class: "btn"
 ---
