@@ -400,7 +400,7 @@
   text-transform: uppercase;
 }
 
-article.page {
+article.page, article.splash, .archive {
   background-color: $article-page-color;
   border-radius: 10px;
   padding: 1em;
