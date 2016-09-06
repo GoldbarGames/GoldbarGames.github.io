@@ -10,6 +10,8 @@ header:
   cta_url: "/team/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Independent Game Developer"
+intro:
+  - excerpt: 'Welcome to the official Goldbar Games website!'
 feature_row:
 
  - title: "Witch Doctor Kaneko"
@@ -18,7 +20,7 @@ feature_row:
    excerpt: "Cast spells to fix the environment in this magical puzzle-platformer!"
    image_path: "thumb1.jpg"
    alt: "Witch Doctor Kaneko"
-    
+
  - title: "Detective Butler 2"
    url: "/detective-butler/butler2/"
    btn_label: "Coming Soon"
@@ -35,5 +37,5 @@ feature_row:
 
 ---
 
-{{paginator}}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
