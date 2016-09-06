@@ -4,11 +4,13 @@
 
 .masthead {
   position: relative;
+  border-bottom: 1px solid lighten($masthead-color, 10%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background-image: url("bg-gray.jpg");
 
   &__inner-wrap {
     @include container;

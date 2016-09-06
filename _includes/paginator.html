@@ -6,7 +6,7 @@
     {% comment %} Link for previous page {% endcomment %}
     {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <li><a href="{{ base_path }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
+        <li><a href="{{ base_path }}/posts/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
       {% else %}
         <li><a href="{{ base_path }}/posts/page{{ paginator.previous_page }}/">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a></li>
       {% endif %}
@@ -18,7 +18,7 @@
     {% if paginator.page == 1 %}
       <li><a href="#" class="disabled current">1</a></li>
     {% else %}
-      <li><a href="{{ base_path }}/">1</a></li>
+      <li><a href="{{ base_path }}/posts/">1</a></li>
     {% endif %}
 
     {% assign page_start = 2 %}
