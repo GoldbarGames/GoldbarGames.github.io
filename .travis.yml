@@ -3,7 +3,7 @@ rvm:
   - 2.2
 
 gemfile: Gemfile.ci
-script: bundle exec jekyll build && htmlproofer ./_site --check-html
+script: bundle exec jekyll build && htmlproofer ./_site --check-html --allow-hash-href
 
 branches:
   only:
