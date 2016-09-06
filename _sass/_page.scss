@@ -399,3 +399,9 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+article.page {
+  background-color: $article-page-color;
+  border-radius: 10px;
+  padding: 1em;
+}
