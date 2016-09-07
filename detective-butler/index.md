@@ -19,6 +19,7 @@ feature_row:
     btn_class: "btn"
 ---
 <img src="db-logo.png" title="Logo" alt="Logo">
+
 __The Misadventures of Detective Butler__ is a murder mystery (mis)adventure game series featuring the titular character Detective Butler and his sidekick Gilligan solving various mysteries.
 
 The first game in the series, __Maiden Voyage Murder__, is a visual novel without choices, depicting the initial meeting between Butler and Gilligan during a summer cruise gone wrong.
