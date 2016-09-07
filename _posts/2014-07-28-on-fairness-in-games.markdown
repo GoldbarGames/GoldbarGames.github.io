@@ -12,7 +12,8 @@ image:
 date: 2014-07-28T14:56:27-05:00
 ---
 
-*Warning: Minor spoilers for When the Seacats Cry Episode 3 below.*
+Warning: Minor spoilers for When the Seacats Cry Episode 3 below.
+{: .notice--warning}
 
 I’ve considered discussing my own games in detail for a while now, and this topic seems like a good start. There’s a lot of time, effort, and meaning that goes into making games, and I’m not sure if every detail gets across to the players by the time they’ve finished. Sometimes post-mortems are necessary, not just to examine the development of what went right or wrong, but for learning from the nature of the game itself.
 
