@@ -10,15 +10,15 @@
  *  </div>
  */
 
-@mixin notice($notice-background-color) {
+@mixin notice($notice-color) {
   margin: 2em 0 !important;  /* override*/
   padding: 1em;
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
-  background-color: mix(#fff, $notice-background-color, 90%);
+  background-color: mix(#fff, $notice-color, 10%);
   border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba($notice-background-color, 0.25);
+  box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
   h4 {
     margin-top: 0 !important; /* override*/
@@ -44,15 +44,15 @@
   }
 
   a {
-    color: $notice-background-color;
+    color: $notice-color;
 
     &:hover {
-      color: mix(#000, $notice-background-color, 40%);
+      color: mix(#000, $notice-color, 40%);
     }
   }
 
   code {
-    background-color: mix(#fff, $notice-background-color, 95%)
+    background-color: mix(#fff, $notice-color, 95%)
   }
 
   ul {
@@ -65,7 +65,7 @@
 /* Default notice */
 
 .notice {
-  @include notice($light-gray);
+  @include notice($dark-gray);
 }
 
 /* Primary notice */
