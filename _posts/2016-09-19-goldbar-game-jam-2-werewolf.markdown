@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Goldbar Game Jam 2 - Werewolf
 modified:
 categories: goldbar-game-jam
