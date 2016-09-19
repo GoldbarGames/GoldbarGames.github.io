@@ -17,7 +17,7 @@ The theme was "You are the Monster" so in Werewolf you are a human with the abil
 
 As I previously mentioned a year ago, this game gave me the idea for a map generator (which was eventually scrapped because it was too complicated for practical use, but hey, it was fun) and that's because we use procedural generation to create each new level's map. Though, it's not the best because sometimes enemies can get boxed in so that you can't ever reach them, but I'm not too concerned about this game's overall quality.
 
-Just enjoy it, and have fun! I'll be posting more short and simple games whenever we make them. Use the arrow keys to move, and Enter to pause.
+Just enjoy it, and have fun! I'll be posting more short and simple games whenever we make them. Use the arrow keys to move, and Enter to pause. The music is some royalty-free BGM from the Japanese website SENTIVE.
 
 [Click here to play Werewolf!](http://play.goldbargames.com/ggjam/Werewolf.html)
 
