@@ -40,4 +40,4 @@ We are currently looking for:
 |----
 {: rules="groups"}
 
-Website developed with help from [Bryce Mehring](http://brycemehring.me)
+Website developed with help from [Bryce Mehring](http://www.brycemehring.me)
