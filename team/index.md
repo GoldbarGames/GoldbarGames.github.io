@@ -15,7 +15,7 @@ Goldbar Games is an independent game studio dedicated to creating fun and memora
 So far, we have released the first installment of the visual novel Detective Butler, and are currently in the process of programming and writing its sequel. We are simultaneously developing the puzzle-platformer game Witch Doctor Kaneko.
 
 
-If you are interested in working with us, feel free to consider applying. You may contact Kinjo via any of the social media links on this page. We are always looking for more talented individuals to collaborate with and bring our exciting visions to life.
+If you are interested in working with us, feel free to consider applying. We are always looking for more talented individuals to collaborate with and bring our exciting visions to life.
 
 We are currently looking for:
 
@@ -25,6 +25,7 @@ We are currently looking for:
 * Music Composers
 * Video Animators/Editors
 
+For any business-related questions or comments please e-mail kinjo@goldbargames.com.
 
 | Developer | Position |
 |:--------|:-------:|
