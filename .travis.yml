@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.3
+  - 2.3.1
 
 gemfile: Gemfile.ci
 script: bundle exec jekyll build && htmlproofer ./_site --check-html --allow-hash-href
