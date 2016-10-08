@@ -25,7 +25,7 @@ We are currently looking for:
 * Music Composers
 * Video Animators/Editors
 
-For any business-related questions or comments please e-mail [kinjo@goldbargames.com](mailto:kinjo@goldbargames.com).
+For any business-related questions or comments please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
 
 | Developer | Position |
 |:--------|:-------:|
