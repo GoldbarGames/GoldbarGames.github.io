@@ -18,7 +18,7 @@ feature_row:
     btn_label: "The Serial Murders"
     btn_class: "btn"
 ---
-<img src="db-logo.png" title="Logo" alt="Logo">
+<img src="db-logo.png" title="Logo" alt="Logo" class="center-image">
 
 __The Misadventures of Detective Butler__ is a murder mystery (mis)adventure game series featuring the titular character Detective Butler and his sidekick Gilligan solving various mysteries.
 

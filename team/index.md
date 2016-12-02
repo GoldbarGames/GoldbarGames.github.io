@@ -9,35 +9,25 @@ tags: []
 image:
   feature:
 ---
-Goldbar Games is an independent game studio dedicated to creating fun and memorable video games. Although we specialize in the adventure and puzzle game genres, we are interested in working on a wide variety of games in the future.
+![Goldbar Games Logo](/images/logo.jpg){: .center-image}
 
+Goldbar Games LLC is an independent company dedicated to creating fun and engaging video game experiences. 
 
-So far, we have released the first installment of the visual novel Detective Butler, and are currently in the process of programming and writing its sequel. We are simultaneously developing the puzzle-platformer game Witch Doctor Kaneko.
+The founder of the company, Anton M. Strickland, has a great passion for making video game, and recently graduated with a bachelor's degree in Computer Science. From 2010 to 2011, he released a positively-received series of fan-games under the alias Kinjo Goldbar, and his company was then named after the pseudonym that launched his career.
 
+At Goldbar Games, we're committed to raising the bar. We value quality in games and efficiency in making them. <br/>By working hard, working smart, and working together, anything can be achieved.
 
-If you are interested in working with us, feel free to consider applying. We are always looking for more talented individuals to collaborate with and bring our exciting visions to life.
+For any business-related questions or comments, please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
 
-We are currently looking for:
+Each game has its own individual page, with a full list of collaborators who worked on that game.
 
-* 3D Modelers
-* 2D Sprite Artists
-* 2D Background Artists
-* Music Composers
-* Video Animators/Editors
-
-For any business-related questions or comments please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
-
-| Developer | Position |
-|:--------|:-------:|
-| Kinjo Goldbar  | Team Lead / Programmer   |
+| Game Title | Genre | Release Date |
+|:--------|:-------:||:-------:|
+| [Detective Butler: Maiden Voyage Murder](https://www.goldbargames.com/detective-butler/butler1/)  | Visual Novel | August 2013 |
 |----
-| TahYllis | Sprite Artist  |
+| [Detective Butler: The Serial Murders](https://www.goldbargames.com/detective-butler/butler2/) | Adventure Game | COMING SOON  |
 |----
-| Solo Acapello | Music Composer  |
-|----
-| Ozaki | Quality Assurance / Editor   |
-|----
-| KotoMeanie   | Additional Testing   |
+| [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  |
 |----
 {: rules="groups"}
 

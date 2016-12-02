@@ -13,7 +13,7 @@ screenshots:
   title: Banner
 ---
 {% for i in page.screenshots %}
-  <img src="{{i.path}}" title="{{i.title}}" alt="{{i.title}}">
+  <img src="{{i.path}}" title="{{i.title}}" alt="{{i.title}}" class="center-image">
 {% endfor %}
 __The Serial Murders__ is the second game in the __Detective Butler__ series and is currently in development.
 
