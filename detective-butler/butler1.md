@@ -36,7 +36,7 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
   <li>Background photos of an authentic haunted cruise ship!</li>
 </ul>
 
-## [Download from itch.io](http://kinjo-goldbar.itch.io/detective-butler)
+## [Download from itch.io](http://goldbargames.itch.io/detective-butler)
 
 ## [Download the OST](http://play.goldbargames.com/downloads/Butler1_OST.zip)
 
