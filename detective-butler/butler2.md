@@ -31,7 +31,7 @@ __The Serial Murders__ is the second game in the __Detective Butler__ series and
   <li>Investigate 3D environments and save any clues you find to your inventory.</li>
   <li>Interrogate suspects and use their own words as evidence against them.</li>
   <li>Confront each culprit and prove them guilty in a unique debate system.</li>
-  <li>Play each chapter as soon as they are written using a single game client.</li>
+  <li>Play each chapter as soon as they are released using one game client.</li>
 </ul>
 
 The game will be broken down into many chapters you can read by downloading the Detective Butler Game Client. Each chapter contains its own stand-alone mystery, which when solved advances the main storyline. We will be releasing the chapters once per week, so you'll have enough time to play each mystery before moving on to the next one.
