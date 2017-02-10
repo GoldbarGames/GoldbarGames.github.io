@@ -31,10 +31,13 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
 <ul>
   <li>Ten chapters for a total of 40,000 words (about 5 hours long)</li>
   <li>9 event CGs, 26 background songs, and 3 textbox skins</li>
-  <li>Press F9 to save a screenshot to C:/ProgramData/Butler1/</li>
+  <li>Press F2 to save a screenshot to C:/ProgramData/Butler1/</li>
   <li>Journal system which updates information on each suspect</li>
   <li>Background photos of an authentic haunted cruise ship!</li>
+  <li>New ending and epilogue for the 2017-onward release.</li>
 </ul>
+
+<iframe src="http://steamcommunity.com/sharedfiles/widget/860939557" width="336" height="137" frameborder="0" scrolling="no"></iframe>
 
 ## [Download from itch.io](http://goldbargames.itch.io/detective-butler)
 
