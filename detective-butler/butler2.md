@@ -17,10 +17,6 @@ screenshots:
 {% endfor %}
 __The Serial Murders__ is the second game in the __Detective Butler__ series and is currently in development.
 
-The game will be broken down into many chapters, which the player can read by downloading the Detective Butler Game Client. Each chapter contains its own mystery, which when solved advances the main storyline. However, since these mysteries are entirely self-contained, the chapters may be completed in any order.
-
-One important distinction from other games is that each chapter will be uploaded as soon as it is written. After enough chapters have been released, they will be bundled together and commercially sold. Dedicated fans may read the story for free during this "early access" period, before the chapters are bundled together. Afterward, any new fans will need to pay the price to play the updated game, which will include technical fixes and graphical improvements.
-
 ## Release Info
 <ul>
   <li><b>Genre:</b> Adventure</li>
@@ -38,7 +34,7 @@ One important distinction from other games is that each chapter will be uploaded
   <li>Play each chapter as soon as they are written using a single game client.</li>
 </ul>
 
-
+The game will be broken down into many chapters you can read by downloading the Detective Butler Game Client. Each chapter contains its own stand-alone mystery, which when solved advances the main storyline. We will be releasing the chapters once per week, so you'll have enough time to play each mystery before moving on to the next one.
 
 ## Credits for Detective Butler: The Serial Murders
 
