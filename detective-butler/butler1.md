@@ -37,7 +37,7 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
   <li>New ending and epilogue for the 2017-onward release.</li>
 </ul>
 
-<iframe src="http://steamcommunity.com/sharedfiles/widget/860939557" width="336" height="137" frameborder="0" scrolling="no"></iframe>
+[Vote for this game on Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=860939557)
 
 ## [Download from itch.io](http://goldbargames.itch.io/detective-butler)
 
