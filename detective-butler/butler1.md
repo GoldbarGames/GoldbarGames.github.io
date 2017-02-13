@@ -37,7 +37,9 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
   <li>New ending and epilogue for the 2017-onward release.</li>
 </ul>
 
-[Vote for this game on Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=860939557)
+<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=860939557"><img src="https://www.goldbargames.com/images/thumb3.jpg" /></a>
+
+<a href="http://www.indiedb.com/games/detective-butler-maiden-voyage-murder" title="View Detective Butler: Maiden Voyage Murder on Indie DB" target="_blank"><img src="http://button.indiedb.com/popularity/medium/games/57975.png" alt="Detective Butler: Maiden Voyage Murder" /></a>
 
 ## [Download from itch.io](http://goldbargames.itch.io/detective-butler)
 
