@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Seacats Mobile
+title: Introducing Seacats Mobile
 modified:
 categories: seacats
 comments: true
