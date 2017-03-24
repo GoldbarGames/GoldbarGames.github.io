@@ -18,7 +18,7 @@ image:
 [More information](https://www.goldbargames.com/seacats/closed-room-blitz-arena/)
 
 ## [Download Seacats Mobile](https://play.goldbargames.com/downloads/seacats-mobile.apk)
-[More information](https://www.goldbargames.com/seacats/seacats-mobile/)
+[More information](https://www.goldbargames.com/seacats/introducing-seacats-mobile/)
 
 ## [Download the Umineko Screenshot Generator](http://play.goldbargames.com/downloads/[GG]UminekoScreenshot.zip)
 
