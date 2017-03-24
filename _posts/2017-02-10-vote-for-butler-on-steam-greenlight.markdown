@@ -8,7 +8,7 @@ excerpt: We're setting sail onto Steam! Help us get in!
 tags: []
 image:
   feature:
-date: 2017-01-02T00:45:30-06:00
+date: 2017-02-10T00:45:30-06:00
 ---
 
 Let's start off the new year strong with a big announcement, shall we?
