@@ -15,9 +15,10 @@ image:
 ## [Download from Goldbar Games](http://play.goldbargames.com/downloads/When_the_Seacats_Cry.zip)
 
 ## [Download the Closed Room Blitz: Arena](http://play.goldbargames.com/downloads/crb-arena.zip)
-[More information](http://www.goldbargames.com/seacats/closed-room-blitz-arena/)
+[More information](http://www.goldbargames.com/closed-room-blitz-arena/)
 
 ## [Download Seacats Mobile](https://play.goldbargames.com/downloads/seacats-mobile.apk)
+[More information](https://www.goldbargames.com/seacats-mobile/)
 
 ## [Download the Umineko Screenshot Generator](http://play.goldbargames.com/downloads/[GG]UminekoScreenshot.zip)
 
