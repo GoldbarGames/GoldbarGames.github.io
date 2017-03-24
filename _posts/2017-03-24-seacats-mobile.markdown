@@ -2,7 +2,7 @@
 layout: single
 title: Seacats Mobile
 modified:
-categories: 
+categories: seacats
 comments: true
 excerpt: Play /seacats/ gameboards on your phone!
 tags: []
