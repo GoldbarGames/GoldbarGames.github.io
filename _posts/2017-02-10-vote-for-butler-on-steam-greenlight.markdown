@@ -2,7 +2,7 @@
 layout: single
 title: Vote for Butler on Steam Greenlight
 modified:
-categories: 
+categories: detective-butler
 comments: true
 excerpt: We're setting sail onto Steam! Help us get in!
 tags: []
