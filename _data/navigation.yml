@@ -2,6 +2,10 @@
 main:
   - title: "News"
     url: /posts/
+    
+  - title: "Store"
+    url: /store/
+
   - title: "Team"
     url: /team/
 
