@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Store
-date: 2015-10-04T13:56:25-05:00
+date: 2017-06-17T13:56:25-05:00
 modified:
 comments: true
 excerpt:
@@ -11,3 +11,5 @@ image:
 ---
 
 [Goldbar Games Official Logo](https://teespring.com/goldbar-games-logo)
+
+[Goldbar Games Circle Logo](https://teespring.com/goldbar-games-circle-logo)
