@@ -1,0 +1,14 @@
+<div class="grid" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="grid-sizer"></div>
+  <div class="gutter-sizer"></div>
+  {% for item in site.data.store %}
+    <div class="grid-item">
+      <a href="{{item.link}}" target="_blank">
+        <figure>
+          <img src="{{item.image}}" alt="{{item.title}}">
+          <figcaption>{{item.title}}</figcaption>
+        </figure>
+      </a>
+    </div>
+  {% endfor %}
+</div>
