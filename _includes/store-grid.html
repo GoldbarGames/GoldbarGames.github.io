@@ -5,7 +5,7 @@
     <div class="grid-item">
       <a href="{{item.link}}" target="_blank">
         <figure>
-          <img src="{{item.image}}" alt="{{item.title}}">
+          <img src="{{item.image | absolute_url }}" alt="{{item.title}}">
           <figcaption>{{item.title}}</figcaption>
         </figure>
       </a>
