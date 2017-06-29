@@ -19,8 +19,6 @@ As I previously mentioned a year ago, this game gave me the idea for a map gener
 
 Just enjoy it, and have fun! I'll be posting more short and simple games whenever we make them. Use the arrow keys to move, and Enter to pause. The music is some royalty-free BGM from the Japanese website SENTIVE.
 
-[Click here to play Werewolf!](http://play.goldbargames.com/ggjam/Werewolf.html)
-
 ### Credits
 
 | Developer | Position |

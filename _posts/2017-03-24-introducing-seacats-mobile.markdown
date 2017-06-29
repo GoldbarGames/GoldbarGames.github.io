@@ -16,6 +16,6 @@ Firstly, I'd like to start this off by announcing that, after five weeks on Stea
 
 Aside from that, I want to mention a new Android app I've created called "Seacats Mobile." It allows you to easily view the website seacats.net, on which many Umineko fan-gameboards are hosted. I will be adding posting functionality later on, but right now it works great as a reader. Eventually it will have its own page, but for now you can download the APK file here on your device:
 
-## [Download Seacats Mobile](https://play.goldbargames.com/downloads/seacats-mobile.apk)
+## [Download Seacats Mobile](https://github.com/GoldbarGames/GoldbarGames.github.io/releases/download/sea/seacats-mobile.apk)
 
 Let me know if you have any questions or comments! Enjoy!
