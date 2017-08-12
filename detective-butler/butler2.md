@@ -48,11 +48,7 @@ The game will be broken down into many chapters you can read by downloading the 
 |----
 | Solo Acapello | Music and Sound   |
 |----
-| Weonix | Music and Sound   |
-|----
 | Ozaki   | Quality Assurance   |
-|----
-| KotoMeanie   | Quality Assurance   |
 |----
 | Van Kadix   | Quality Assurance   |
 {: rules="groups"}
