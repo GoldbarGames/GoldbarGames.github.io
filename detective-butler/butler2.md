@@ -44,15 +44,11 @@ The game will be broken down into many chapters you can read by downloading the 
 |----
 | Captain Pharos | Character and GUI Art   |
 |----
-| TahYllis | Additional Art   |
-|----
 | Solo Acapello | Music and Sound   |
-|----
-| Weonix | Music and Sound   |
 |----
 | Ozaki   | Quality Assurance   |
 |----
-| KotoMeanie   | Quality Assurance   |
+| TahYllis | Quality Assurance   |
 |----
 | Van Kadix   | Quality Assurance   |
 {: rules="groups"}
