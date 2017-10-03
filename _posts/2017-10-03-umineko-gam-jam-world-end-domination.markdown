@@ -17,7 +17,9 @@ A few months ago I stumbled across the Umineko Game Jam on itch.io. I wasn't ent
 
 Ever since making my Umineko First Twilight 3D video I've been wanting to re-create the famous Rosa vs. Goats scene in 3D as well, because it is my favorite scene in the entire series. I thought this would be a short and relatively simple game to make within the time constraints of the game jam. Of course, I did my best to polish it up as much as possible, but I'd still like to go back and take some time to clean up a few things that couldn't be addressed before the deadline. Either way, it's not that big of a deal since it's just a fan-game and most of these issues are things the average player wouldn't even notice.
 
-I should also mention that this game uses the visual novel framework KINscripter we've been developing to create Detective Butler 2. Although the FPS sections of the game required a lot of new code, KINscripter significantly helped us to finish this game in time! So you'll be able to see some of the capabilities I've been talking about in previous programming-related blog posts.
+I should also mention that this game uses the visual novel framework KINScripter we've been developing to create Detective Butler 2. Although the FPS sections of the game required a lot of new code, KINScripter significantly helped us to finish this game in time! So you'll be able to see some of the capabilities I've been talking about in previous programming-related blog posts.
+
+Speaking of blog posts, we have at least two more planned for this month, so stay tuned for more!
 
 As for the game itself, there are two modes of play. In Story Mode, you will experience a faithful recreation of the original scene in 3D. In Survival Mode, you will take control of Rosa, and in the style of a first-person-shooter make your escape off the island! I've intentionally made it rather difficult to play, so those of you who enjoy a challenge should have some fun! Enjoy!
 
