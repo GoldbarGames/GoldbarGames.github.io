@@ -4,7 +4,7 @@ title: Pre-Release To-Do List
 modified:
 categories: detective-butler
 comments: true
-excerpt: What's left to do before we release the game in early-access.
+excerpt: What's left to do before we release the game.
 tags: []
 image:
   feature:
