@@ -11,9 +11,11 @@ image:
 date: 2017-10-18T00:45:30-06:00
 ---
 
-![Screenshot]({{ "images/mm_itch_thumbnail.png" | absolute_url }})
+## Buy on itch.io
+<iframe frameborder="0" src="https://itch.io/embed/185127?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"></iframe>
 
-# [Buy Now via Itch.io](https://goldbargames.itch.io/nekouzan-maze-miner)
+## Buy on GameJolt
+<iframe src="https://widgets.gamejolt.com/package/v1?key=mHA8uKPy" frameborder="0" width="500" height="245"></iframe>
 
 ## Overview
 
