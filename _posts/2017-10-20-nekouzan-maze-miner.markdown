@@ -8,7 +8,7 @@ excerpt: Procedural puzzle game. Play it now!
 tags: []
 image:
   feature:
-date: 2017-10-18T00:45:30-06:00
+date: 2017-10-20T00:45:30-06:00
 ---
 
 ## Buy on itch.io
