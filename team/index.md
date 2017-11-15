@@ -21,13 +21,15 @@ For any business-related questions or comments, please e-mail [{{site.author.ema
 
 Each game has its own individual page, with a full list of collaborators who worked on that game.
 
-| Game Title | Genre | Release Date |
+| Game Title | Genre | Release Date | Price | Notes |
 |:--------|:-------:||:-------:|
-| [Detective Butler: Maiden Voyage Murder](https://www.goldbargames.com/detective-butler/butler1/)  | Visual Novel | August 2013 |
+| [Detective Butler: Maiden Voyage Murder](https://www.goldbargames.com/detective-butler/butler1/)  | Visual Novel | August 2013 | Free | Released on Steam May 2017 |
 |----
-| [Detective Butler: The Serial Murders](https://www.goldbargames.com/detective-butler/butler2/) | Adventure Game | COMING SOON  |
+| [Nekouzan: Maze Miner](https://www.goldbargames.com/nekouzan-maze-miner/) | Puzzle | October 2017 | $0.99 | Developed in 12 days |
 |----
-| [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  |
+| [Detective Butler: The Serial Murders](https://www.goldbargames.com/detective-butler/butler2/) | Adventure Game | COMING SOON  | | |
+|----
+| [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  | | |
 |----
 {: rules="groups"}
 
