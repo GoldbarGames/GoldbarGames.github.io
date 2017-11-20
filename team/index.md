@@ -33,4 +33,4 @@ Each game has its own individual page, with a full list of collaborators who wor
 |----
 {: rules="groups"}
 
-Website developed with help from [Bryce Mehring](http://www.brycemehring.me)
+Website developed with help from [Bryce Mehring](http://www.brycemehring.com)
