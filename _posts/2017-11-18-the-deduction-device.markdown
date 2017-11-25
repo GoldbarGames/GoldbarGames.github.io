@@ -15,7 +15,7 @@ date: 2017-11-25T00:45:30-06:00
 
 Throughout most of the development of *Detective Butler 2* so far, I've been concerned with function over form. That is, I started working on the game by prototyping its gameplay. Early in development, the visuals don't really matter so much, because eventually they'll be replaced or improved. As a game reaches its final development stages, graphical improvements become more common.
 
-So, with all that said -- it's about time we start looking into graphical improvements, right? That includes ways of cleaning up the user interface. In today's blog post I'll be explaining what I've done during this past month to improve our graphics, user interface, and even bring down out filesize to less than a third of what it used to be!
+So, with all that said -- it's about time we start looking into graphical improvements, right? That includes ways of cleaning up the user interface. In today's blog post I'll be explaining what I've done during this past month to improve our graphics, user interface, and even bring down our filesize to less than a third of what it used to be!
 
 ## Graphical Enhancements
 
