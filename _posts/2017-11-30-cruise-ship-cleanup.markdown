@@ -47,7 +47,7 @@ Help Cecila do her job and ensure satisfied customers aboard Captain Jack's crui
 
 | Developer | Position |
 |:--------|:-------:|
-| Kinjo Goldbar  | Programming   |
+| Kinjo Goldbar  | Programming, Sprites   |
 |----
 | TahYllis | Sprites   |
 |----
