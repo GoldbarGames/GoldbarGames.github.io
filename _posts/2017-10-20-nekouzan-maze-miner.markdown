@@ -17,6 +17,11 @@ date: 2017-10-20T00:45:30-06:00
 ## Buy on GameJolt
 <iframe src="https://widgets.gamejolt.com/package/v1?key=mHA8uKPy" frameborder="0" width="500" height="245"></iframe>
 
+## Buy on Google Play
+<a href='https://play.google.com/store/apps/details?id=com.GoldbarGames.MazeMiner&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+
 ## Overview
 
 *Nekouzan: Maze Miner* is a top-down tile-based procedural puzzle game, developed within 12 days as a short side project.

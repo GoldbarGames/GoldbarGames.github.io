@@ -27,6 +27,8 @@ Each game has its own individual page, with a full list of collaborators who wor
 |----
 | [Nekouzan: Maze Miner](https://www.goldbargames.com/nekouzan-maze-miner/) | Puzzle | October 2017 | $0.99 | Developed in 12 days |
 |----
+| [Cruise Ship Cleanup](https://www.goldbargames.com/cruise-ship-cleanup/) | Puzzle | November 2017 | $0.99 | Spinoff from *Detective Butler*|
+|----
 | [Detective Butler: The Serial Murders](https://www.goldbargames.com/detective-butler/butler2/) | Adventure Game | COMING SOON  | | |
 |----
 | [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  | | |
