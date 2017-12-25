@@ -55,7 +55,7 @@
   p, li, dl {
     font-size: 1em;
   }
-
+  
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
@@ -102,6 +102,7 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+  
 }
 
 .page__hero {
@@ -401,6 +402,12 @@ article.page, article.splash, .archive {
   background-color: $article-page-color;
   border-radius: 10px;
   padding: 1em;
+}
+
+article.page {
+  img + img {
+   margin-top: 1em;
+  }
 }
 
 .center-image
