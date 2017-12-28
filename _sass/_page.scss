@@ -10,6 +10,10 @@ thead {
   background-color: #494e52;
 }
 
+.masthead {
+  border-bottom-color: #484848;
+}
+
 .masthead, .page__footer {
   background-image: url(bg-gray.jpg)
 }
@@ -19,7 +23,11 @@ thead {
 }
 
 .feature__wrapper {
-  margin-bottom: 0em;
+  margin-bottom: 0;
+}
+
+.greedy-nav .visible-links {
+  justify-content: center;
 }
 
 .page, .splash, .archive {
