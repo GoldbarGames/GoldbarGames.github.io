@@ -52,11 +52,12 @@ article {
   display: block;
 }
 
-.latest-posts {
+ul.latest-posts {
   time {
     display: block;
     font-size: $type-size-8;
   }
 
   list-style-type: none;
+  padding: 0;
 }
