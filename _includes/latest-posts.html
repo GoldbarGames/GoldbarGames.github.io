@@ -1,0 +1,13 @@
+<article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+  <section class="page__content text-center" itemprop="text">
+    <p><b>Latest News</b></p>
+    <ul class="latest-posts">
+    {% for post in site.posts limit:3 %}
+      <li>
+        <a href="{{post.url}}">{{post.title}}</a>
+        <time>{{post.date | date: "%B %d, %Y"}}</time>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+</article>
