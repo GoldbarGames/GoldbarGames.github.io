@@ -22,7 +22,7 @@ For any business-related questions or comments, please e-mail [{{site.author.ema
 Each game has its own individual page, with a full list of collaborators who worked on that game.
 
 | Game Title | Genre | Release Date | Price | Notes |
-|:--------|:-------:||:-------:|
+|:--------|:--------||:--------|
 | [Detective Butler: Maiden Voyage Murder](https://www.goldbargames.com/detective-butler/butler1/)  | Visual Novel | August 10 2013 | Free | Released on Steam May 26 2017 |
 |----
 | [Nekouzan: Maze Miner](https://www.goldbargames.com/nekouzan-maze-miner/) | Puzzle | October 20 2017 | $0.99 | Developed in 12 days |
@@ -35,7 +35,7 @@ Each game has its own individual page, with a full list of collaborators who wor
 |----
 | [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  | | |
 |----
-{: rules="groups"}
+{: class="tablesaw tablesaw-stack" data-tablesaw-mode="stack"}
 
 Website developed with help from [Bryce Mehring](http://www.brycemehring.com)
 
