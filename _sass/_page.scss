@@ -51,3 +51,12 @@ article {
   margin: 0 auto;
   display: block;
 }
+
+.latest-posts {
+  time {
+    display: block;
+    font-size: $type-size-8;
+  }
+
+  list-style-type: none;
+}
