@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: banner2016.jpg
+  overlay_image: "images/banner2016.jpg"
   cta_label: "About Us"
   cta_url: "/team/"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -14,46 +14,34 @@ intro:
   - excerpt: 'Welcome to the official Goldbar Games website!'
   
 feature_row:
-
  - title: "Snowball Saves Christmas"
    url: "/snowball-saves-christmas/"
    btn_label: "Play Now"
+   btn_class: "btn--primary"
    excerpt: "Launch and roll yourself through 50+ levels in our COOL new physics-based platformer!"
-   image_path: "thumb1a.jpg"
+   image_path: "images/thumb1a.jpg"
    alt: "Snowball"
    
  - title: "Detective Butler on Steam!"
    url: "http://store.steampowered.com/app/612620/Detective_Butler_Maiden_Voyage_Murder/"
    btn_label: "Play Now"
+   btn_class: "btn--primary"
    excerpt: "Can you solve the crime before Detective Butler reveals the truth? Get it FREE on Steam!"
-   image_path: "thumb3.jpg"
+   image_path: "images/thumb3.jpg"
    alt: "Play Detective Butler on Steam!"
    
  - title: "Cruise Ship Cleanup"
    url: "/cruise-ship-cleanup/"
    btn_label: "Play Now"
+   btn_class: "btn--primary"
    excerpt: "Tidy up each room without being seen. Cleaning has never been more fun!"
-   image_path: "thumb2b.jpg"
+   image_path: "images/thumb2b.jpg"
    alt: "Cruise Ship Cleanup"
 
 ---
 
-
 {% include feature_row id="intro" type="center" %}
 
-<div id="main" role="main">
-  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
-    <section class="page__content" itemprop="text">
-      <div align="center">
-      <p><b>Latest News</b></p>
-      {% for post in site.posts limit:3 %}
-      <a href="{{post.url}}">{{post.date | date: "%B %d, %Y"}} {{post.title}}</a><br>
-      {% endfor %}
-      </div>
-    </section>
-  </article>
-</div>
+{% include latest-posts.html %}
 
 {% include feature_row %}
-
-
