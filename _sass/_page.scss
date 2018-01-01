@@ -14,6 +14,10 @@ thead {
   border-bottom-color: #484848;
 }
 
+#site-nav {
+  background: rgba($color: #252a34, $alpha: .6);
+}
+
 .masthead, .page__footer {
   background-image: url(bg-gray.jpg)
 }
