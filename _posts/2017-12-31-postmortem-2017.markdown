@@ -1,0 +1,76 @@
+---
+layout: single
+title: Postmortem 2017
+modified:
+categories: general
+comments: true
+share: true
+excerpt: What we've learned this year, and our plans for 2018.
+tags: []
+image:
+  feature:
+date: 2017-12-31T03:44:55-06:00
+---
+
+![Screenshot]({{ "images/2017.jpg" | absolute_url }})
+
+## Overview
+
+2017 has been a very productive year for us. Let's take a closer look at some details that we didn't have time to talk about before.
+
+## [Detective Butler on Steam](http://store.steampowered.com/app/612620/Detective_Butler_Maiden_Voyage_Murder/)
+
+In order to prepare for the release of *Detective Butler 2*, I decided it would be a good idea to re-release *Detective Butler: Maiden Voyage Murder* on Steam. So in January we began by making long-needed revisions to the game. It only took a few weeks for us to eliminate all the typos, cut out the worst parts, fix a few plot holes, and add a brand new epilogue. In February we submitted our project to Steam Greenlight, coincidentally a few minutes before Valve announced it would be switching over to Steam Direct! So throughout February we campaigned by posting all over social media, various visual novel places, and so on. By mid-March, the Greenlight was successful, and so we were able to focus on putting the game onto Steam.
+
+Of course, nothing is ever so easy. *Detective Butler*'s game engine, ONScripter, had some trouble supporting Steam's features. So we had to dig deep and uncover the latest source code for ONScripter and re-compile the whole thing, making a few small changes and also a few major changes to get everything working properly. Honestly, this was quite possibly the hardest programming challenge I've ever faced, because the code was from 2011 and of course we wanted to integrate it with the latest Steam API on our modern hardware. We had to compile the dependencies using a compiler from 2011, then update the code to be compatible with C++11 so we could use a modern compiler. After that, we began making changes to ONScripter, this time using OpenGL to render images to the screen. At long last, Steam features were working, and we released the game in May. For those who are curious about the details, the Steam-compatible ONScripter build is [available on our GitHub.](https://github.com/GoldbarGames/ONScripter-EN-Steam)
+
+As this post is a postmortem (a post-postmortem?), I should probably mention a few things we learned and could have improved for this project. Firstly and most importantly, we learned how to get a game on Steam, as well as integrating the Steam Overlay, Steam Achievements, and Steam Cloud. We also learned how to market a product as well as a number of websites that were helpful in doing so. We learned what it's like to launch a game on Steam, particularly a free one, and so we now know that our reach is quite wide (tens of thousands of players around the whole world!) when releasing a free game. Thankfully, we also learned that people generally liked the game, as it now stands with a Very Positive rating and over 100 total reviews. Again, thank you all for playing!
+
+We've also been reading the many Steam reviews that discuss things they didn't like about the game. Most notably, people want interactivity, and they want a less angsty protagonist, so it's good we're heading in that direction with the sequel. Some also made vague complaints about the writing, and there's only so much I can do about that. But it got me thinking, because most of the game was written four or five years ago, and so it did make me want to get something a little more recent out there, so people could start to see how we've improved.
+
+## Summer Developments
+
+During the summer, we focused our work back to *Detective Butler 2* and *Witch Doctor Kaneko*. Most of these changes were already documented in a previous blog post, aptly named ["Summer Progress Report."](https://www.goldbargames.com/detective-butler/summer-progress-report/) 
+
+September marked the beginning of the Umineko Game Jam. Initially I wasn't sure if I would be able to create an entry, but my creative juices got the best of me and I created [*World End Domination*](https://www.goldbargames.com/seacats/umineko-gam-jam-world-end-domination/). I had been wanting to make a game like that for some time, and this really was the perfect opportunity. It was also a test drive to see if I could create a fun game within a short period of time. 
+
+In the past, we had attempted the "Goldbar Game Jams," but I now realize in retrospect that those games didn't really work because we had no schedule for making them. But if we were to create games every month, with the deadline being the end of that month, then we could hold ourselves accountable. These "monthly games" could be considered the evolved form of the Goldbar Game Jams.
+
+I mentioned the concept already in [another blog post,](https://www.goldbargames.com/the-game-of-all-games/) but I'd like to clarify it once more. One of the best parts about making a game is that as soon as you've solved a particular coding problem, you never have to solve it again. You can always re-use the same code to solve the same problem for another game. But games which take multiple months or even years to make could have a number of complicated problems that need to be solved. So you could be very efficient by making entire games around solving these problems, package them into a fun, self-contained experience, and then re-use them to make future games go faster.
+
+For example, suppose I want to make a typical RPG from scratch. I'd have to solve at least three main problems: tile-based movement, turn-based combat, and stats and menu navigation. We can also probably consider animation systems, sound systems, mobile development, and other tangential things to be other problems we need to solve. But we could think of the three main problems as games in and of themselves: a tile-based puzzle game, a turn-based strategy game, and a simulation or management game. You could make all three of those individual games and then take the code from each one and put them together into the RPG. Of course, you're still not even close to being finished, because you need to come up with the story, the maps, the enemies, the heroes, and so on... but it saves a lot of time and shows your incremental progress to the world.
+
+And so, I decided to take a slight detour and create a few of these monthly games, to see if this idea had any merit.
+
+## [Nekouzan: Maze Miner](https://www.goldbargames.com/nekouzan-maze-miner/)
+
+The first monthly game, developed in October. I tried to think of something simple, and I knew I had made a small tile-based movement engine in the past, so I dug it up (no pun intended!) and started adding some more complicated mechanics, to turn it into a full experience. The idea stemmed from the idea of movement itself: you move around in a maze, so let's make a game with procedurally generated mazes. But rather than just making it about going from start to finish, maybe there is some gold you can find along the way to increase your score. But that's too easy, so maybe there are some bombs that will reset your progress if you hit them. And with the addition of the Minesweeper-like way of detecting where the bombs are, *Nekouzan: Maze Miner* was born.
+
+This game taught us the full experience of making a game in under 30 days. We managed to do it in only twelve, starting a bit late into the month. We re-used the title screen from *World End Domination* and spruced it up a bit. Everything else was brand new. We learned how to procedurally generate mazes, including how to display the corresponding tile on the map (especially when the walls of the maze blow up). We learned how to read and write the data for each hand-crafted map, as well as what kinds of levels were more fun compared to others. Lastly, we delved a bit into mobile app development for Android. Although the game wasn't really meant to be played on a mobile device, we made it work and created some shortcuts to make future development a bit easier. The game would check to see what platform it's running on and make changes to the user interface accordingly.
+
+## [Cruise Ship Cleanup](https://www.goldbargames.com/cruise-ship-cleanup/)
+
+The November game came about from three sources of inspiration. Firstly, I wanted to directly re-use the tile-based movement engine from last month. Secondly, I wanted to connect the story to something fans were already familiar with: the world of *Detective Butler*. And third, I had recently played the game *A Hat in Time*, of which my favorite parts were the stealth segments in the second world. So a tile-based stealth game about Cecila it was!
+
+Perhaps the most obvious thing we learned was how to code the guest AI to spot Cecila whenever she isn't hiding. This involved some pathfinding algorithms and using raycasts to check the area in front of them. Toward the end of development, we added a way for the guests to look around when there were junctions in the path, making the game more intense. Maybe for a future stealth game we'll add in a more advanced way of detecting the player's movements, but for a short monthly game, this was good enough.
+
+We also had a much wider variety of objects on the maps in this game, and so that required the development of an in-game level editor. I talked about this subject in a [Kaneko-related blog post.](https://www.goldbargames.com/kaneko-update-6-level-editor/) So I applied the same idea to this game, and we made our very own in-game level editor! This made the process of creating each level significantly faster. In *Nekouzan* we had been editing the text files directly, but for the more complicated maps we were using now, it just wouldn't be possible.
+
+Lastly, we added a few more things for additional charm. A level selection screen, so you can instantly replay your favorite level, and a speedrun timer to keep track of your best times on each level. We also integrated the visual novel code from *Detective Butler 2* (which we had also done for *World End Domination*) so that there could be small cutscenes at the beginning and the ending. We didn't have much time to flesh them out, mostly due to real life circumstances as well as attempting to work on *Detective Butler 2* in the same month.
+
+## [Snowball Saves Christmas](https://www.goldbargames.com/snowball-saves-christmas/)
+
+*Snowball* is certainly our most polished monthly game so far. Even though we completely ditched the tile-based movement, this actually made the game far more suitable for mobile devices. So we primarily tested the game on mobile, with the PC release being second. As such, we also planned to integrate ads and in-app purchases with this game. We also integrated Unity Analytics to help us keep track of which levels are too easy or too hard.
+
+The idea for *Snowball* didn't take much thought. I just wanted a Christmas-themed game, and the first image that popped in my mind was a snowball rolling around. You'd launch yourself from platform to platform, relying on physics to help you stay where you'd landed. The story was once again minimal, Santa and Krampus originating from European folklore. And I was once again influenced by a recent game, *Getting Over It*.
+
+We were able to rapidly create and test levels within the second day of development thanks to a Unity Asset Store package called Ferr2D Terrain. We bought the package using the revenue generated from the previous two games, so we can already see our efforts bearing fruit! Without that package, we wouldn't have been able to make *Snowball* in time for Christmas. So thank you very much!
+
+I think it is hard to find places we could have improved in *Snowball*, but we'll focus our efforts on stronger level design, game design, and art design... basically, just making it all more polished and fleshed out and full of depth. I think we'll be revisiting the *Snowball* series again in the future, as it's a game that I genuinely enjoy playing myself, and I have a lot of ideas for future levels and mechanics.
+
+## Into 2018
+
+In January, our "game of the month" will be none other than *Detective Butler 2*. We'll be using the skills we learned to make significant progress on the writing and on the coding. We'll let you all know what happens by the end of the month!
+
+We also have some fun ideas in the works for future monthly games, new merchandise for the store page, website improvements, and other social media shenanigans. Stay tuned for more updates, and have a Happy New Year!
+
