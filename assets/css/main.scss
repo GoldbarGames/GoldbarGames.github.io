@@ -4,9 +4,9 @@ sitemap: false
 
 @charset "utf-8";
 
-@import "variables";
+@import "goldbar-games/variables";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "tablesaw";
-@import "page";
-@import "masonry-grid";
+@import "goldbar-games/masonry-grid";
+@import "goldbar-games/page";
