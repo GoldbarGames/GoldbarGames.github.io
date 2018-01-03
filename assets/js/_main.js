@@ -90,5 +90,4 @@ $(document).ready(function() {
     gutter: '.gutter-sizer',
     percentPosition: true
   });
-
 });
