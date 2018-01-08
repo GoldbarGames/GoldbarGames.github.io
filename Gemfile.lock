@@ -214,7 +214,7 @@ GEM
       i18n
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
-    sass (3.5.4)
+    sass (3.5.5)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -241,4 +241,4 @@ DEPENDENCIES
   wdm (>= 0.1.0)
 
 BUNDLED WITH
-   1.15.3
+   1.16.1
