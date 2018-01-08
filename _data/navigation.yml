@@ -4,7 +4,7 @@ main:
     url: /posts/
     
   - title: "Store"
-    url: /store/
+    url: "https://store.goldbargames.com"
 
   - title: "Team"
     url: /team/
