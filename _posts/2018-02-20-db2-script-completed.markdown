@@ -13,7 +13,7 @@ date: 2018-02-20T00:45:30-06:00
 
 ## Overview
 
-Today I am happy to announce that all chapters of DB2 have passed my "phase two" of testing. They can be read from start to finish, and thus I can also say the first official draft of DB2 has been completed. It clocks in right now at just about 50,000 words, roughly 10,000 more than the first game. I'll be going back and adding plenty more of optional dialogue and invesigation-related parts, so the wordcount will go even higher. But the bare minimum has been completed.
+Today I am happy to announce that all chapters of DB2 have passed my "phase two" of testing. They can be read from start to finish, and thus I can also say the first official draft of DB2 has been completed. It clocks in right now at just about 50,000 words, roughly 10,000 more than the first game. I'll be going back and adding plenty more of optional dialogue and investigation-related parts, so the wordcount will go even higher. But the bare minimum has been completed.
 
 ## A Look Back
 
