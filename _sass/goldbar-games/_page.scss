@@ -30,8 +30,15 @@ thead {
   margin-bottom: 0;
 }
 
-.greedy-nav .visible-links {
-  justify-content: center;
+.greedy-nav {
+  a {
+    &.site-title {
+      margin-left: 1rem;
+    }
+  }
+  .visible-links {
+    justify-content: center;
+  }
 }
 
 .page, .splash, .archive, .search-content__inner-wrap {
