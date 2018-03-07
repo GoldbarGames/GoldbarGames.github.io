@@ -8,5 +8,4 @@ sitemap: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "tablesaw";
-@import "goldbar-games/masonry-grid";
 @import "goldbar-games/page";
