@@ -20,7 +20,7 @@ __The Serial Murders__ is the second game in the __Detective Butler__ series and
 ## Release Info
 <ul>
   <li><b>Genre:</b> Adventure</li>
-  <li><b>Engine:</b> Unity 5</li>
+  <li><b>Engine:</b> Unity</li>
   <li><b>Platforms:</b> PC, Mac, Linux</li>
   <li><b>Release Date:</b> TBA</li>
 </ul>
@@ -28,13 +28,10 @@ __The Serial Murders__ is the second game in the __Detective Butler__ series and
 ## Features
 <ul>
   <li>Experience many self-contained stories all connected through an over-arching plot.</li>
-  <li>Investigate 3D environments and save any clues you find to your inventory.</li>
-  <li>Interrogate suspects and use their own words as evidence against them.</li>
-  <li>Confront each culprit and prove them guilty in a unique debate system.</li>
-  <li>Play each chapter as soon as they are released using one game client.</li>
+  <li>Investigate crime scenes and save clues to your inventory.</li>
+  <li>Interrogate suspects and look past their lies to find the truth.</li>
+  <li>Stop the serial killer from claiming their next victim!</li>
 </ul>
-
-The game will be broken down into many chapters you can read by downloading the Detective Butler Game Client. Each chapter contains its own stand-alone mystery, which when solved advances the main storyline. We will be releasing the chapters once per week, so you'll have enough time to play each mystery before moving on to the next one.
 
 ## Credits for Detective Butler: The Serial Murders
 
@@ -42,7 +39,7 @@ The game will be broken down into many chapters you can read by downloading the 
 |:--------|:-------:|
 | Kinjo Goldbar  | Programming and Story   |
 |----
-| Captain Pharos | Character and GUI Art   |
+| Captain Pharos | Concept Art   |
 |----
 | Solo Acapello | Music and Sound   |
 |----

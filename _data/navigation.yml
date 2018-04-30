@@ -9,14 +9,5 @@ main:
   - title: "Team"
     url: /team/
 
-  - title: "Seacats"
-    url: /seacats/
-
-  - title: "Detective Butler"
-    url: /detective-butler/
-    
-  - title: "Witch Doctor Kaneko"
-    url: /witch-doctor-kaneko/
-    
-  - title: "Other Games"
-    url: /other-games/
+  - title: "Games"
+    url: /games/
