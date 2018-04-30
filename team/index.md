@@ -17,26 +17,8 @@ The founder of the company, Anton M. Strickland, has a great passion for making 
 
 At Goldbar Games, we're committed to raising the bar. We value quality in games and efficiency in making them. <br/>By working hard, working smart, and working together, anything can be achieved.
 
-For any business-related questions or comments, please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
-
 Each game has its own individual page, with a full list of collaborators who worked on that game.
 
-| Game Title | Genre | Release Date | Price | Notes |
-|:--------|:--------||:--------|
-| [Detective Butler: Maiden Voyage Murder](https://www.goldbargames.com/detective-butler/butler1/)  | Visual Novel | August 10 2013 | Free | Released on Steam May 26 2017 |
-|----
-| [Nekouzan: Maze Miner](https://www.goldbargames.com/nekouzan-maze-miner/) | Puzzle | October 20 2017 | $0.99 | Developed in 12 days |
-|----
-| [Cruise Ship Cleanup](https://www.goldbargames.com/cruise-ship-cleanup/) | Stealth | November 30 2017 | $0.99 | Spinoff from *Detective Butler*|
-|----
-| [Snowball Saves Christmas](https://www.goldbargames.com/snowball-saves-christmas/) | Physics | December 24 2017 | Free*/$0.99 | Developed in 19 days |
-|----
-| [Detective Butler: The Serial Murders](https://www.goldbargames.com/detective-butler/butler2/) | Adventure Game | COMING SOON  | | |
-|----
-| [Witch Doctor Kaneko](https://www.goldbargames.com/witch-doctor-kaneko/) | Puzzle Platformer | COMING SOON  | | |
-|----
-{: class="tablesaw tablesaw-stack" data-tablesaw-mode="stack"}
+For any business-related questions or comments, please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
 
 Website developed with help from [Bryce Mehring](http://www.brycemehring.com)
-
-*Only on mobile devices, and contains ads
