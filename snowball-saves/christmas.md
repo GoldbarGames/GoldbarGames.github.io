@@ -6,10 +6,20 @@ categories:
 comments: true
 excerpt: Launch and roll yourself through 50+ levels to save Christmas!
 tags: []
+redirect_from: /snowball-saves-christmas/
+date: 2017-12-24T00:45:30-06:00
 image:
   feature:
-date: 2017-12-24T00:45:30-06:00
-redirect_from: /snowball-saves-christmas/
+gallery:
+  - url: /images/games/snowball1/sb_scr1.png
+    image_path: /images/games/snowball1/sb_scr1-thumbnail.jpg
+    alt: "Snowball Saves Christmas 1"
+  - url: /images/games/snowball1/sb_scr2.png
+    image_path: /images/games/snowball1/sb_scr2-thumbnail.jpg
+    alt: "Snowball Saves Christmas 2"
+  - url: /images/games/snowball1/sb_scr3.png
+    image_path: /images/games/snowball1/sb_scr3-thumbnail.jpg
+    alt: "Snowball Saves Christmas 3"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8esSj_-_6Q" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
@@ -83,10 +93,7 @@ Will you be the one to help Snowball save the day?</i>
 
 ## Screenshots
 
-![Screenshot]({{ "images/games/snowball1/sb_scr1.png" | absolute_url }})
-![Screenshot]({{ "images/games/snowball1/sb_scr2.png" | absolute_url }})
-![Screenshot]({{ "images/games/snowball1/sb_scr3.png" | absolute_url }})
-
+{% include gallery %}
 
 ## Credits
 
