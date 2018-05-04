@@ -24,7 +24,7 @@ image:
     {% for item in site.data.games %}
       <div class="grid-item">
         <tr>
-          <td><a href="{{item.link}}"><img src="{{item.image | absolute_url }}" alt="{{item.title}}"></a></td>
+          <td><a href="{{item.link | absolute_url}}"><img src="{{item.image | absolute_url }}" alt="{{item.title}}"></a></td>
           <td><p>{{item.description}}</p><p><b>Genre:</b> {{item.genre}}</p><p><b>Platforms:</b> {{item.platforms}}</p><p><b>Release Date:</b> {{item.releaseDate}}</p></td>
         </tr>
       </div>
@@ -45,7 +45,7 @@ image:
     {% for item in site.data.wip-games %}
       <div class="grid-item">
         <tr>
-          <td><a href="{{item.link}}"><img src="{{item.image | absolute_url }}" alt="{{item.title}}"></a></td>
+          <td><a href="{{item.link | absolute_url}}"><img src="{{item.image | absolute_url }}" alt="{{item.title}}"></a></td>
           <td><p>{{item.description}}</p><p><b>Genre:</b> {{item.genre}}</p><p><b>Platforms:</b> {{item.platforms}}</p><p><b>Release Date:</b> {{item.releaseDate}}</p></td>
         </tr>
       </div>
