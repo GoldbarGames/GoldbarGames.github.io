@@ -46,9 +46,9 @@ Help Cecila do her job and ensure satisfied customers aboard Captain Jack's crui
 
 ## Screenshots
 
-![Screenshot]({{ "images/csc_scr1.png" | absolute_url }})
-![Screenshot]({{ "images/csc_scr2.png" | absolute_url }})
-![Screenshot]({{ "images/csc_scr3.png" | absolute_url }})
+![Screenshot]({{ "images/games/cleanup/csc_scr1.png" | absolute_url }})
+![Screenshot]({{ "images/games/cleanup/csc_scr2.png" | absolute_url }})
+![Screenshot]({{ "images/games/cleanup/csc_scr3.png" | absolute_url }})
 
 
 ## Credits

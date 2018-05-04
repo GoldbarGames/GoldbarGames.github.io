@@ -29,7 +29,7 @@ Since the last Kaneko update, we moved our game engine from Unity to C++, using 
 
 Let me explain that last bullet point a bit more. Our levels in Kaneko utilize three layers: middle, back, and front. Using these layers allows us to draw complex-looking terrain (for example, grass behind a path, the path itself, and then the grass in front of the path). While the middle and back layers are drawn behind Kaneko, the front layer is drawn in front of Kaneko, creating an illusion of depth. You can see an example in the screenshow below:
 
-![Screenshot]({{ "images/wdk_editor_scr1.png" | absolute_url }})
+![Screenshot]({{ "images/blog/wdk_editor_scr1.png" | absolute_url }})
 
 Notice that a wide range of different sprites are used to represent each tile. For instance, there are the path tiles, the edge tiles, the upside-down edge tiles, and so on. When creating a level, it would be extremely time-consuming to pick each one of these sprites by hand. So a while back I was able to code it into the game itself! We simply specify that there is a tile in a certain location, and it checks adjacent tiles to see what kind of sprite it should have. So the level automatically carves its own graphics out.
 
@@ -43,7 +43,7 @@ We had reached a point where we had programmed in the basic game mechanics and s
 
 The answer turned out to make a lot of sense. We'll just program the level editor inside of our game engine! And so now we finally have one. It reads in the data files, and when you're finished editing exports them, too. With the press of a button you can add or delete objects and terrain, and can move them around by clicking and dragging with the mouse. Even better, you can test your level as you are creating it, so if you need to make any changes you can do so immediately. I'm sure we'll be adding a lot more to the level editor down the road, but it's a working start right now. And we'll be able to use this level editor for any future game we make in C++!
 
-![Screenshot]({{ "images/wdk_editor_scr2.png" | absolute_url }})
+![Screenshot]({{ "images/blog/wdk_editor_scr2.png" | absolute_url }})
 
 In conclusion, we'll be using this level editor to test puzzle ideas and experiment around with the game mechanics. The other members of my team can also very easily create levels using this editor, with no knowledge of programming necessary. Although there is still a lot of work to be done, we have made significant progress. And with multiple people helping create and test the levels, production should go a lot faster!
 

@@ -21,13 +21,13 @@ During these exploration periods, you will also be able to interrogate any chara
 
 There is a particular feature here tentatively-named the "Mind Map". We all know that Butler only solves mysteries for the fun of it. In other words, if it's boring, he won't bother to even try. Therefore, Gilligan may need to pique his interest in a case, and once he does so Butler will be able to use his mind-map vision to see the most valuable pieces of evidence in a room. The world turns into a wireframe sort of visual, and the evidence shines brightly to let you know where to find it. I'm still experimenting with how this mechanic can be best utilized, but it's a very cool feature on its own.
 
-![map-example](/images/mind-map.gif)
+![map-example](/images/blog/mind-map.gif)
 
 Finally, once the story nears its end, you'll be able to select a witness to accuse of being the culprit. Regardless of whether or not you are right, the two of you will engage in a battle. If you are correct, the battle should be a lot easier than if you are wrong. I'll leave the details of the battle mechanics for another blog post, when they're more finalized and balanced than they currently are. Right now, they're mostly ready -- I just need to run a few test cases to see how I can improve the flow.
 
 One more thing -- we've decided to add a difficulty selection to each chapter. It will work like this: you pick the difficulty setting, and if you choose an easier setting, more clues will be placed to guide you in the right direction. That way, people who aren't that good at mysteries can still enjoy the game, while those who want a challenge may do so as well. There will of course be an incentive for solving the mysteries at higher difficulties, but currently the exact nature of it is still up in the air.
 
-![map-example](/images/battle.gif)
+![map-example](/images/blog/battle.gif)
 
 All of these points have already been programmed into the game. Just in case you were thinking "this guy is out of his mind!" or "he'll never finish making all of that!", well, too bad! You can't stop me now! It is really a lot of fun to roam around the map and collect evidence. The speed at which I'm able to decorate a crime scene is considerably fast now. I just need ideas for maps and mysteries and maybe a better way to get some 3D models. The hardest part has been the writing -- I'm no longer writing just a single mystery but several of them, and making sure that ALL of them are solid takes a lot more effort than working on just one.
 

@@ -39,10 +39,12 @@ __The Serial Murders__ is the second game in the __Detective Butler__ series and
 |:--------|:-------:|
 | Kinjo Goldbar  | Programming and Story   |
 |----
-| Captain Pharos | Concept Art   |
+| Chocojax | Sprites |
 |----
 | Solo Acapello | Music and Sound   |
 |----
+|----
+| Captain Pharos | Concept Art   |
 | Ozaki   | Quality Assurance   |
 |----
 | TahYllis | Quality Assurance   |

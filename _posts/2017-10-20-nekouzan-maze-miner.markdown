@@ -49,9 +49,9 @@ Google Play and the Google Play logo are trademarks of Google LLC.
 
 ## Screenshots
 
-![Screenshot]({{ "images/mm_screen2.png" | absolute_url }})
-![Screenshot]({{ "images/mm_screen3.png" | absolute_url }})
-![Screenshot]({{ "images/mm_screen4.png" | absolute_url }})
+![Screenshot]({{ "images/games/mazeminer/mm_screen2.png" | absolute_url }})
+![Screenshot]({{ "images/games/mazeminer/mm_screen3.png" | absolute_url }})
+![Screenshot]({{ "images/games/mazeminer/mm_screen4.png" | absolute_url }})
 
 
 ## Credits

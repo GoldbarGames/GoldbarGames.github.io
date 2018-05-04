@@ -10,7 +10,7 @@ image:
   feature:
 ---
 
-![Witch Doctor Kaneko](/images/wdk_banner.jpg){: .center-image}
+![Witch Doctor Kaneko](/images/games/kaneko/wdk_banner.jpg){: .center-image}
 
 Witch Doctor Kaneko is a fantasy-themed puzzle-platformer game that began production in 2014 and is still in progress. The game is about a witch-doctor named Kaneko whose forest is one-day attacked by a mysterious swarm of bugs. She must cast her magical Debug spell to rid the forest of all the bugs and restore order.
 

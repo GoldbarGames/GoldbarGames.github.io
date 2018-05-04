@@ -25,7 +25,7 @@ Now, at this point in time I'm still not much of an expert on texture mapping, b
 
 You can see the difference. Compare to a screenshot of DB2 before and after texture mapping:
 
-![Screenshot]({{ "images/db2_mapping.jpg" | absolute_url }})
+![Screenshot]({{ "images/blog/db2_mapping.jpg" | absolute_url }})
 
 ## The New User Interface
 
@@ -45,7 +45,7 @@ All of these features are designed to make the mystery-solving process a lot mor
 
 Here's a work-in-progress screenshot of the Deduction Device, with some placeholder data inside:
 
-![Screenshot]({{ "images/db2_ddevice.jpg" | absolute_url }})
+![Screenshot]({{ "images/blog/db2_ddevice.jpg" | absolute_url }})
 
 ## File Size Reduction
 
@@ -53,7 +53,7 @@ Last but not least, despite improving the graphics and user interface, we've som
 
 In order to understand, we once again have to go over how I'm implementing the sprites. The characters each have a body, a head, and a face, each individual sprites. These parts are layered on top of each other in-game. As such, I had been storing them in files the same way I had been storing the sprites in the first game, like so:
 
-![Screenshot]({{ "images/db2_filesize.jpg" | absolute_url }})
+![Screenshot]({{ "images/blog/db2_filesize.jpg" | absolute_url }})
 
 This way, when layered on top of each other, the head and face would always be in the correct position. However, I didn't realize this was unnecessarily bloating the file size of the project. Because the height of each face file is 1024, despite the fact that each face is only about 200x200 pixels in area, the texture is treated as a 1024x1024 texture. This results in a lot of wasted space. By simply cropping the faces and heads, I was able to reduce a 2 MB file down to a 20 KB file. That's 1/100th of its previous size!
 

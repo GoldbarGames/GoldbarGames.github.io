@@ -21,7 +21,7 @@ Now, speaking of Detective Butler 2... where does our progress stand?
 
 Well, since we had to sink a lot of time earlier in the year into the Steam release of the first game, we've only been able to consistently work on Detective Butler 2 over the summer. In order to understand how much work has been put into the game over the summer, we first have to understand what kind of game we're trying to make. The game's design has slightly shifted since the previous blog posts were written, mostly in a way to make the development go faster. Let's go through these changes one at a time.
 
-![Screenshot]({{ "images/db2-13.png" | absolute_url }})
+![Screenshot]({{ "images/blog/db2-13.png" | absolute_url }})
 
 ## Changes to Detective Butler 2
 
@@ -31,13 +31,13 @@ Secondly, the writing has gone through some major changes, mostly in style. The 
 
 The next change is regarding the general presentation. You may have seen in some earlier screenshots that we made use of a lot of different camera angles to show sprites in a 3D world. Although I think that technique is still useful, I knew something important was missing: the three-sprite structure. Now, just like in the first game, you should be seeing screenshots of characters standing in the left, center, and right positions. Maybe every once in a while you'll still see characters blending into the background, but the foreground sprite structure allows for more versatility in the writing. For example, I can simply describe a character moving around than actually showing the character move in 3D space, which is obviously a lot more complicated. Also, the font has been changed to the same font used in the first game, for nostalgic reasons.
 
-![Screenshot]({{ "images/db2-17.png" | absolute_url }})
+![Screenshot]({{ "images/blog/db2-17.png" | absolute_url }})
 
 By that same token, we have decided to change the way the investigation sections will work as well. No longer will you use direct keyboard arrow keys to move throughout a 3D space -- again, that became too complicated and even unintuitive. Instead, you'll look around the crime scene by switching between camera angles with the mouse button. So the investigations will be a bit similar to point and click games, except the backgrounds aren't being drawn in 2D but are projected in 3D. Being able to view the crime scene from multiple perspectives will allow you to see certain clues you couldn't see otherwise. Knowing where to look, and how to look, will reveal the clues necessary to advance the story.
 
 The last big change is regarding the battle system. To be fair, we never properly explained how it worked in the first place, so it might not even sound like anything has been changed. But we noticed that the system became increasingly complex and hard to play, even for someone who knew what was going on. So we simplified the controls, and reduced the battles to its most interesting element. You will need to use the clues that you found during the investigation sections to prove your points during the battle with the culprit. The answer to the mystery will slowly be revealed throughout the battle, in a non-linear fashion depending on the choices you make. Additionally, it is entirely possible to lose to the culprit. The culprit will get away with the murder, and the game will move on to the next mystery. You'll be given a rank depending on how well you did, and if you did exceptionally well, you might just unlock something cool!
 
-![Screenshot]({{ "images/db2-29.png" | absolute_url }})
+![Screenshot]({{ "images/blog/db2-29.png" | absolute_url }})
 
 ## Current Status
 

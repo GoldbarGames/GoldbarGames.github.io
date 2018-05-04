@@ -31,7 +31,7 @@ I mean, it's not like they'll be that integral to the plot! It's not like people
 
 Keep in mind, a year ago when I conceived this idea, it was all just an idea. Then I was lucky enough to find an artist willing to indulge me, and she has since created 250,000 sprites!
 
-![generic-sprites](/images/generic-people.gif)
+![generic-sprites](/images/blog/generic-people.gif)
 
 W-what?! 250,000 sprites?! How the heck did she draw all of those?!
 
@@ -40,7 +40,7 @@ Well, think about it. If you've got 50 heads, 50 tops, and 50 bottoms, how many 
 You might still be skeptical. You might be asking yourself, how can they possibly create memorable characters just by playing mix and match? Surely sacrificing a little bit of quality in favor of speed and quantity won't work, right? Well, I've recreated a few memorable characters using our style of sprites below. See if you know who they are!
 I think they all look pretty good, especially for coincidence. If you make enough interchangeable parts then you can make pretty much anything! Even the nameless characters who I haven't come up with a reason for existing yet will look solid.
 
-![generic-sprites](/images/generic-characters.jpg)
+![generic-sprites](/images/blog/generic-characters.jpg)
 
 The implementation of these into the game is actually even easier than it was with ONScripter. Unity's interface allows me to parent objects together. So I simply create the parent object Character, with child objects Torso, Legs, and Head. Each one gets a sprite renderer, and I just drag and drop the sprite I want onto it. Literally playing dress-up!
 

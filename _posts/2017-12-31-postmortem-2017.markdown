@@ -12,7 +12,7 @@ image:
 date: 2017-12-31T03:44:55-06:00
 ---
 
-![Screenshot]({{ "images/2017.jpg" | absolute_url }})
+![Screenshot]({{ "images/blog/2017.jpg" | absolute_url }})
 
 ## Overview
 

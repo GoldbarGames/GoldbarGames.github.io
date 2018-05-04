@@ -82,9 +82,9 @@ Will you be the one to help Snowball save the day?</i>
 
 ## Screenshots
 
-![Screenshot]({{ "images/sb_scr1.png" | absolute_url }})
-![Screenshot]({{ "images/sb_scr2.png" | absolute_url }})
-![Screenshot]({{ "images/sb_scr3.png" | absolute_url }})
+![Screenshot]({{ "images/games/snowball1/sb_scr1.png" | absolute_url }})
+![Screenshot]({{ "images/games/snowball1/sb_scr2.png" | absolute_url }})
+![Screenshot]({{ "images/games/snowball1/sb_scr3.png" | absolute_url }})
 
 
 ## Credits

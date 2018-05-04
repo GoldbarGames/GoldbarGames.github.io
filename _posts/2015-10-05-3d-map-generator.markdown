@@ -63,7 +63,7 @@ Here is an example of a map:
 
 Yes, that's all. And here is what it looks like in-game:
 
-![map-example](/images/map-example.jpg)
+![map-example](/images/blog/map-example.jpg)
 
 Note that tile texture and height use their own individual files, and so each tile's texture and height can be unique. The final image shows multiple textures, as well as doors (represented by 'd' in the input file) that automatically rotate to align with each wall.
 

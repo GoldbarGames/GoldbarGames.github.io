@@ -18,7 +18,7 @@ During June we sent out a prototype of Detective Butler 2 for testing. It has si
 
 Upon the release of the game, players will have access to our free game client. This game client will be a small download that provides a user interface to download additional chapters of the story. Basically, you will require an Internet connection to read each chapter, as it will dynamically download that chapter for you to read, and will free all the associated memory as soon as you are done reading it. This makes it really convenient for both sides.
 
-![title](/images/db-title2.gif)
+![title](/images/blog/db-title2.gif)
 
 After the story reaches a good stopping point, we'll bundle together all of the chapters released so far into a single executable and sell it on various indie distribution platforms. Since all of the data for the chapters will be hosted on our server anyway, we will just remove access to it once we begin creating each volume. Meaning that, if you begin reading from the very start, you'll have access to every chapter for free. But if you wait, then you'll have to buy the bundle of chapters (otherwise known as a volume) in order to read the story from the beginning.
 
@@ -30,7 +30,7 @@ Keep in mind that the way our story is set up, you can pick up and start reading
 
 But ultimately we are hoping to recreate the fun experience of Umineko, in which readers had to wait periodically for more answers about the mystery to be revealed. We think that combining the suspense of one mystery with the satisfaction of solving lots of smaller ones along the way should provide for a really fun experience. So not only is it about pushing out content in a timely manner, but in doing so we can actually create a unique and memorable experience in and of itself, which may provide more merit than the typical early-access appeal.
 
-![city](/images/city4.jpg)
+![city](/images/blog/city4.jpg)
 
 As a quick aside: we've also started working on a new engine for Witch Doctor Kaneko. We've decided that Unity is not the best approach for 2D platformer games, so we're going to be coding WDK in C++ using SFML. We may switch to SDL if necessary, but for now SFML does the job. So far within a single week we've implemented all of the spell animations, collision detection, and basic movement. It has actually been quite relaxing to switch gears and learn how to code a video game in C++, especially one of much smaller scale.
 
