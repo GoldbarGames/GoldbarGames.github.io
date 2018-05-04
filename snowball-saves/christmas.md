@@ -9,6 +9,7 @@ tags: []
 image:
   feature:
 date: 2017-12-24T00:45:30-06:00
+redirect_from: /snowball-saves-christmas/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8esSj_-_6Q" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
