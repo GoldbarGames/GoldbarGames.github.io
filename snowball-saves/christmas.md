@@ -1,13 +1,13 @@
 ---
 layout: single
 title: Snowball Saves Christmas
-modified:
+
 categories:
 comments: true
 excerpt: Launch and roll yourself through 50+ levels to save Christmas!
 tags: []
 redirect_from: /snowball-saves-christmas/
-date: 2017-12-24T00:45:30-06:00
+date: 2018-05-03T00:45:30-06:00
 image:
   feature:
 gallery:
