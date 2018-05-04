@@ -58,7 +58,7 @@ We also had a much wider variety of objects on the maps in this game, and so tha
 
 Lastly, we added a few more things for additional charm. A level selection screen, so you can instantly replay your favorite level, and a speedrun timer to keep track of your best times on each level. We also integrated the visual novel code from *Detective Butler 2* (which we had also done for *World End Domination*) so that there could be small cutscenes at the beginning and the ending. We didn't have much time to flesh them out, mostly due to real life circumstances as well as attempting to work on *Detective Butler 2* in the same month.
 
-## [Snowball Saves Christmas](https://www.goldbargames.com/snowball-saves-christmas/)
+## [Snowball Saves Christmas](https://www.goldbargames.com/snowball-saves/christmas/)
 
 *Snowball* is certainly our most polished monthly game so far. Even though we completely ditched the tile-based movement, this actually made the game far more suitable for mobile devices. So we primarily tested the game on mobile, with the PC release being second. As such, we also planned to integrate ads and in-app purchases with this game. We also integrated Unity Analytics to help us keep track of which levels are too easy or too hard.
 
