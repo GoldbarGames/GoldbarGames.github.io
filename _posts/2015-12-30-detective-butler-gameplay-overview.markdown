@@ -27,8 +27,6 @@ Finally, once the story nears its end, you'll be able to select a witness to acc
 
 One more thing -- we've decided to add a difficulty selection to each chapter. It will work like this: you pick the difficulty setting, and if you choose an easier setting, more clues will be placed to guide you in the right direction. That way, people who aren't that good at mysteries can still enjoy the game, while those who want a challenge may do so as well. There will of course be an incentive for solving the mysteries at higher difficulties, but currently the exact nature of it is still up in the air.
 
-![map-example](/images/blog/battle.gif)
-
 All of these points have already been programmed into the game. Just in case you were thinking "this guy is out of his mind!" or "he'll never finish making all of that!", well, too bad! You can't stop me now! It is really a lot of fun to roam around the map and collect evidence. The speed at which I'm able to decorate a crime scene is considerably fast now. I just need ideas for maps and mysteries and maybe a better way to get some 3D models. The hardest part has been the writing -- I'm no longer writing just a single mystery but several of them, and making sure that ALL of them are solid takes a lot more effort than working on just one.
 
 Thanks for being patient. It will be worth the wait!

@@ -51,5 +51,5 @@ There is one more thing I want to mention in this post. On Friday, October 20th,
 
 So, please look forward to playing *Nekouzan: Maze Miner*!
 
-![Screenshot]({{ "images/blog/mm_scr1.jpg" | absolute_url }})
+![Screenshot]({{ "images/games/mazeminer/mm_scr1.jpg" | absolute_url }})
 

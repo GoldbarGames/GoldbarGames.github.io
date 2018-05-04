@@ -30,8 +30,6 @@ Keep in mind that the way our story is set up, you can pick up and start reading
 
 But ultimately we are hoping to recreate the fun experience of Umineko, in which readers had to wait periodically for more answers about the mystery to be revealed. We think that combining the suspense of one mystery with the satisfaction of solving lots of smaller ones along the way should provide for a really fun experience. So not only is it about pushing out content in a timely manner, but in doing so we can actually create a unique and memorable experience in and of itself, which may provide more merit than the typical early-access appeal.
 
-![city](/images/blog/city4.jpg)
-
 As a quick aside: we've also started working on a new engine for Witch Doctor Kaneko. We've decided that Unity is not the best approach for 2D platformer games, so we're going to be coding WDK in C++ using SFML. We may switch to SDL if necessary, but for now SFML does the job. So far within a single week we've implemented all of the spell animations, collision detection, and basic movement. It has actually been quite relaxing to switch gears and learn how to code a video game in C++, especially one of much smaller scale.
 
 So, again, we're hoping our strategy will allow us to do a lot of things in a timely and efficient manner. Lastly, as we have a lot of features planned that we want to show off, we've started work on a gameplay trailer to do just that. I've gotten in contact with some really good voice actors over the past couple of weeks and we'll be looking forward to creating a fantastic video that will demonstrate many of the exciting features of Detective Butler's sequel!

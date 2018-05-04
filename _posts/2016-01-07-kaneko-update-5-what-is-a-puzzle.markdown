@@ -22,7 +22,7 @@ But then, it's not enough to just have a solution, but to have MULTIPLE solution
 
 Is this the best definition we can come up with? Let's take another example, illustrated below:
 
-![map-example](/images/puzzle-example-1.png)
+![map-example](/images/blog/puzzle-example-1.png)
 
 Now, let's say the objective is to reach the flagpole at the right end of the level. Obviously, there is a very large block in our way. The apparent solution here would be to push the small block toward the large block, and then jump on each block until we reach the other side. This is because we cannot simply jump over the large block, but need to use the small block as a stepping stone. As a player in a video game, this solution would take only a few seconds to arrive at, and it would be fair to label this solution as "obvious." And by our definition of a puzzle, clearly some incorrect solutions exist (for example, pushing the small block all the way to the left and being unable to push it to the right anymore).
 
