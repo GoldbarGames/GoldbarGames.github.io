@@ -8,7 +8,17 @@ excerpt: Stealthily clean 25 rooms! Available to buy now!
 tags: []
 image:
   feature:
-date: 2017-11-30T00:45:30-06:00
+date: 2018-05-03T00:45:30-06:00
+gallery:
+  - url: /images/games/cleanup/csc_scr1.png
+    image_path: /images/games/cleanup/csc_scr1-thumbnail.jpg
+    alt: "Snowball Saves Christmas 1"
+  - url: /images/games/cleanup/csc_scr2.png
+    image_path: /images/games/cleanup/csc_scr2-thumbnail.jpg
+    alt: "Snowball Saves Christmas 2"
+  - url: /images/games/cleanup/csc_scr3.png
+    image_path: /images/games/cleanup/csc_scr3-thumbnail.jpg
+    alt: "Snowball Saves Christmas 3"
 ---
 
 ## Buy on itch.io
@@ -46,10 +56,7 @@ Help Cecila do her job and ensure satisfied customers aboard Captain Jack's crui
 
 ## Screenshots
 
-![Screenshot]({{ "images/games/cleanup/csc_scr1.png" | absolute_url }})
-![Screenshot]({{ "images/games/cleanup/csc_scr2.png" | absolute_url }})
-![Screenshot]({{ "images/games/cleanup/csc_scr3.png" | absolute_url }})
-
+{% include gallery %}
 
 ## Credits
 
