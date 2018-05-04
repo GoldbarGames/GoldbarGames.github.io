@@ -27,8 +27,8 @@ As for the game itself, there are two modes of play. In Story Mode, you will exp
 
 ## Screenshots
 
-![Screenshot]({{ "images/blog/wed_scr1.jpg" | absolute_url }})
+![Screenshot]({{ "images/games/seacats/wed_scr1.jpg" | absolute_url }})
 
-![Screenshot]({{ "images/blog/wed_scr2.jpg" | absolute_url }})
+![Screenshot]({{ "images/games/seacats/wed_scr2.jpg" | absolute_url }})
 
-![Screenshot]({{ "images/blog/wed_scr3.jpg" | absolute_url }})
+![Screenshot]({{ "images/games/seacats/wed_scr3.jpg" | absolute_url }})

@@ -30,7 +30,7 @@ But is this truly a puzzle?! No! Intuitively speaking, nobody would call somethi
 
 How can we know which solution is correct? If the correct solution is not obvious , then there must be something -- some methodical deduction -- that we can use to determine it. Let's take an example of a puzzle from one of my favorite indie games, Braid.
 
-![map-example](/images/puzzle-example-2.jpg)
+![map-example](/images/blog/puzzle-example-2.jpg)
 
 In this puzzle, the player is just trying to progress through the level, until they are stopped by a platform. This platform blocks their ladder, but luckily, they can flip the lever to move the platform. However, upon climbing the ladder, they realize that the moved platform now blocks their access to the puzzle piece. If they climb back down the ladder, the platform will be out of the way, but then the piece will also be out of reach. How do you reach the puzzle piece?
 
@@ -40,7 +40,7 @@ Therefore, it would seem that the solution of a puzzle relies on an intrinsic ga
 
 How can we teach the player to intrinsically know these mechanics? How can we be sure they are well-equipped with the tools needed to solve the puzzle? Let's look at an earlier puzzle from Braid:
 
-![map-example](/images/puzzle-example-3.jpg)
+![map-example](/images/blog/puzzle-example-3.jpg)
 
 By completing this puzzle, the player learns that green objects are immune to time-rewind. But it's not so much what the player learns, but how -- each step of the player is anticipated by the game. Watch closely: First, we know the goal is to get to the door on the other side of the pit. However, a lock is in our path, so we need a key. The key is being guarded by the monster in the pit, so we jump down into the pit and kill the monster. Now we have a key, but we can't get up out of the pit. So we rewind back in time to before we jumped into the pit -- and, wait a minute -- the key comes back with us! So we use the key to open the lock and proceed to the door.
 
@@ -56,4 +56,4 @@ Well, no matter which way you put it, I think the longer definition is more usef
 
 As a reward for reading this far, here's a fun GIF I made showing off some Witch Doctor Kaneko prototyping! Thanks for reading!
 
-![map-example](/images/wdk_gif.gif)
+![map-example](/images/blog/wdk_gif.gif)
