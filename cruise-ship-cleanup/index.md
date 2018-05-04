@@ -12,13 +12,13 @@ date: 2018-05-03T00:45:30-06:00
 gallery:
   - url: /images/games/cleanup/csc_scr1.png
     image_path: /images/games/cleanup/csc_scr1-thumbnail.jpg
-    alt: "Snowball Saves Christmas 1"
+    alt: "Cruise Ship Cleanup 1"
   - url: /images/games/cleanup/csc_scr2.png
     image_path: /images/games/cleanup/csc_scr2-thumbnail.jpg
-    alt: "Snowball Saves Christmas 2"
+    alt: "Cruise Ship Cleanup 2"
   - url: /images/games/cleanup/csc_scr3.png
     image_path: /images/games/cleanup/csc_scr3-thumbnail.jpg
-    alt: "Snowball Saves Christmas 3"
+    alt: "Cruise Ship Cleanup 3"
 ---
 
 ## Buy on itch.io
