@@ -11,7 +11,7 @@ image:
 date: 2018-05-03T00:45:30-06:00
 gallery:
   - url: /images/games/cleanup/csc_scr1.png
-    image_path: /images/games/cleanup/csc_scr1-thumbnail.jpg
+    image_path: /images/games/cleanup/csc_scr1-thumbnail.png
     alt: "Cruise Ship Cleanup 1"
   - url: /images/games/cleanup/csc_scr2.png
     image_path: /images/games/cleanup/csc_scr2-thumbnail.jpg
