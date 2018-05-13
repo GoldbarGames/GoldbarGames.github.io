@@ -11,3 +11,6 @@ main:
 
   - title: "Games"
     url: /games/
+    
+  - title: "Rewards"
+    url: /rewards/

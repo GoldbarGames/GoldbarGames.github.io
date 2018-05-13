@@ -1,0 +1,11 @@
+- name: Kinjo Plays
+  cost: 500 Gold Bars
+  description: Kinjo will stream himself playing a game of your choice. It must be a game he already owns, wants to buy, or is gifted.
+
+- name: Name in Credits
+  cost: 500 Gold Bars
+  description: You will be credited as a Twitch Supporter in the game we are currently working on.
+  
+- name: Free $1-Game
+  cost: 1000 Gold Bars
+  description: For your dedication, you've earned a FREE copy of one of our $1 or less games. You can browse our library and let us know which game you want, as well as your username, and we will generate a key for you.

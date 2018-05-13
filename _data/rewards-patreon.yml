@@ -1,0 +1,31 @@
+- name: Silent Supporter
+  cost: $1 per month
+  description: At this tier, you will receive a special thank-you from Goldbar Games and gain access to Patreon-exclusive posts, polls, and weekly updates. Every dollar counts!
+
+- name: Proud Supporter
+  cost: $2 per month
+  description: At this tier you will be given a special Patreon Supporter role in our Discord server for as long as your pledge is active. Includes all previous tiers.
+
+- name: Immortalized Supporter
+  cost: $3 per month
+  description: At this tier, you will be credited in-game as a Patreon Supporter for any game we release while your pledge is active. Includes all previous tiers.
+  
+- name: Store Discount 25% Off
+  cost: $4 per month
+  description: At this tier, you will receive a 25% discount off all merchandise in the Official Goldbar Games Store while your pledge is active. Includes all previous tiers. 
+  
+- name: Beta Tester
+  cost: $5 per month
+  description: At this tier, you will become a beta tester and have access to a FREE COPY of any game that enters beta testing phase while your pledge is active. Includes all previous tiers.
+  
+- name: Sneaky Peeker
+  cost: $7 per month
+  description: At this tier you will be able to see high-res previews of artwork and listen to music samples the moment they are created. Includes all previous tiers.
+  
+- name: Store Discount 40% Off
+  cost: $8 per month
+  description: At this tier, you will receive a 40% discount off all merchandise in the Official Goldbar Games Store while your pledge is active. Includes all previous tiers.
+  
+- name: Streamer Special
+  cost: $10 per month
+  description: At this tier you can decide what we'll code in one of our nightly livestreams per month while your pledge is active. Topics could range from an in-depth tutorial to an attempt at making your dream game. Includes all previous tiers.
