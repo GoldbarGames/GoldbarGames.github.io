@@ -8,23 +8,19 @@ excerpt:
 tags: []
 image:
   feature:
-screenshots:
-- path: /images/games/snowball2/scr1.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr2.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr3.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr4.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr5.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr6.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr7.jpg
-  title: Screenshot
-- path: /images/games/snowball2/scr8.jpg
-  title: Screenshot
+gallery:
+- url: /images/games/snowball2/scr1.jpg
+  image_path: /images/games/snowball2/scr1-thumbnail.jpg
+  alt: Screenshot
+- url: /images/games/snowball2/scr2.jpg
+  image_path: /images/games/snowball2/scr2-thumbnail.jpg
+  alt: Screenshot
+- url: /images/games/snowball2/scr3.jpg
+  image_path: /images/games/snowball2/scr3-thumbnail.jpg
+  alt: Screenshot
+- url: /images/games/snowball2/scr4.jpg
+  image_path: /images/games/snowball2/scr4-thumbnail.jpg
+  alt: Screenshot
 ---
 
 
@@ -50,16 +46,14 @@ You can watch our development of the game live on Twitch every week night. Video
 
 ## Screenshots
 
-{% for i in page.screenshots %}
-  <img src="{{i.path}}" title="{{i.title}}" alt="{{i.title}}" class="center-image">
-{% endfor %}
-
+{% include gallery %}
 
 ## Credits
 
 | Developer | Position |
 |:--------|:-------:|
-| Kinjo | Programming, Sprites, Testing   |
+| Kinjo | Programming, Sprites   |
 |----
-| TahYllis | Sprites, Music, Testing  |
-
+| TahYllis | Sprites  |
+|----
+| Solo Acapello | Music  |
