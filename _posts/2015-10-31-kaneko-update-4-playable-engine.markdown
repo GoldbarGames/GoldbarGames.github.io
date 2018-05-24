@@ -11,8 +11,6 @@ image:
   feature:
 date: 2015-10-31T15:44:16-05:00
 ---
-<script type="text/javascript" src="https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js"></script>
-<script src="http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js"></script>
 
 Happy Halloween! For tonight's update, we're pleased to show off our new engine for Witch Doctor Kaneko! That's right -- you can play it right here, in this blog post!
 
