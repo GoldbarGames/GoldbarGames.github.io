@@ -29,12 +29,15 @@ Snowball Saves Summer is the sequel to Snowball Saves Christmas. The North Pole 
 
 You can watch our development of the game live on Twitch every week night. Videos older than two weeks will be archived on YouTube.
 
+## Public Demo 1
+<iframe src="https://itch.io/embed/260802?bg_color=2f2f2f&amp;fg_color=ffffff&amp;link_color=fbac2a" height="167" frameborder="0" width="552"></iframe>
+
 ## Release Info
 <ul>
   <li><b>Genre:</b> Action, Arcade, Physics, Puzzle</li>
   <li><b>Engine:</b> Unity</li>
   <li><b>Platforms:</b> PC, Mac, Android</li>
-  <li><b>Release Date:</b> July or August 2018</li>
+  <li><b>Release Date:</b> August 2018</li>
 </ul>
 
 ## Planned Features
