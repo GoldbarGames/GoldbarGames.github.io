@@ -4,15 +4,6 @@ layout: archive
 
 {{ content }}
 
-<<<<<<< HEAD
-<ul class="taxonomy__index">
-  {% assign categories_max = 0 %}
-  {% for category in site.categories %}
-    {% if category[1].size > categories_max %}
-      {% assign categories_max = category[1].size %}
-    {% endif %}
-  {% endfor %}
-=======
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
   {% if category[1].size > categories_max %}
@@ -21,7 +12,6 @@ layout: archive
 {% endfor %}
 
 <ul class="taxonomy__index">
->>>>>>> minimal-mistakes/master
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
       {% if category[1].size == i %}
@@ -35,16 +25,6 @@ layout: archive
   {% endfor %}
 </ul>
 
-<<<<<<< HEAD
-{% assign categories_max = 0 %}
-{% for category in site.categories %}
-  {% if category[1].size > categories_max %}
-    {% assign categories_max = category[1].size %}
-  {% endif %}
-{% endfor %}
-
-=======
->>>>>>> minimal-mistakes/master
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
     {% if category[1].size == i %}
