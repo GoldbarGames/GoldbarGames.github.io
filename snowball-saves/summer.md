@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Snowball Saves Summer
-date: 2017-05-02T13:18:41-05:00
+date: 2018-08-28T13:18:41-05:00
 modified:
 comments: true
 excerpt:
@@ -37,15 +37,18 @@ You can watch our development of the game live on Twitch every week night. Video
   <li><b>Genre:</b> Action, Arcade, Physics, Puzzle</li>
   <li><b>Engine:</b> Unity</li>
   <li><b>Platforms:</b> PC, Mac, Android</li>
-  <li><b>Release Date:</b> August 2018</li>
+  <li><b>Release Date:</b> September 21, 2018</li>
 </ul>
 
-## Planned Features
-<ul>
-  <li>Simple controls: use the mouse to fly forward!</li>
-  <li>30+ challenging physics-based levels</li>
-  <li>Compete with your friends on Steam</li>
-</ul>
+## Features
+* Simple controls: use the mouse to fly forward!
+* 30 challenging physics-based levels
+* Explore to collect three Golden Snowflakes hidden in each level
+* Navigate diverse environments with unique mechanics
+* Fight tough monsters and even tougher bosses
+* Compete with your friends on Steam
+* Original soundtrack
+
 
 ## Screenshots
 
