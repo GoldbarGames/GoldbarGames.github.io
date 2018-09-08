@@ -1,5 +1,9 @@
+- name: Jukebox
+  cost: 25 Gold Bars
+  description: Can choose a song to play in the background of the stream (within reason).
+
 - name: Kinjo Plays
-  cost: 500 Gold Bars
+  cost: 250 Gold Bars
   description: Kinjo will stream himself playing a game of your choice. It must be a game he already owns, wants to buy, or is gifted.
 
 - name: Name in Credits

@@ -37,8 +37,7 @@ The CEO of a wealthy company takes his closest employees and son Gilligan on boa
   <li>14 Steam achievements!</li>
 </ul>
 
-<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=860939557"><img src="https://www.goldbargames.com/images/thumb3.jpg" alt="Vote for Detective Butler on Steam Greenlight!" /></a>
-
+<a href="https://store.steampowered.com/app/612620/Detective_Butler_Maiden_Voyage_Murder/"><img src="https://www.goldbargames.com/images/thumb3.jpg" alt="Vote for Detective Butler on Steam Greenlight!" /></a>
 <a href="http://www.indiedb.com/games/detective-butler-maiden-voyage-murder" title="View Detective Butler: Maiden Voyage Murder on Indie DB" target="_blank"><img src="http://button.indiedb.com/popularity/medium/games/57975.png" alt="Detective Butler: Maiden Voyage Murder" /></a>
 
 ## [Download from Steam](http://store.steampowered.com/app/612620/Detective_Butler_Maiden_Voyage_Murder/)
