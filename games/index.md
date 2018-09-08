@@ -1,7 +1,7 @@
 ---
 layout: single
 title: All Games
-date: 2018-4-30
+date: 2018-9-4
 modified:
 comments: true
 excerpt:
