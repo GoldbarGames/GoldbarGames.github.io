@@ -4,7 +4,7 @@
   genre: Physics Platformer
   platforms: Windows, Mac, Linux
   releaseDate: September 21, 2018
-  description: The sequel to Snowball Saves Christmas. The North Pole is melting during the hottest summer ever, and you must rescue Holda the Snow Queen from Krampus and his minions to bring back the cold!
+  description: The sequel to Snowball Saves Christmas. The North Pole is melting during the hottest summer ever, and you must rescue Snow Queen Holda to bring back the cold!
 
 - title: Detective Butler The Serial Murders
   link: "/detective-butler/butler2/"
@@ -14,17 +14,6 @@
   releaseDate: 2019
   description: The sequel to Detective Butler Maiden Voyage Murder. Butler and Gilligan hunt down a dangerous serial killer. Investigate each crime scene and interrogate each suspect. Can you unravel the truth before the serial killer strikes again?
 
-<<<<<<< HEAD
-- title: Snowball Saves Summer
-  link: "/snowball-saves/summer"
-  image: /images/games/snowball2/thumbnail.png
-  genre: Physics Platformer
-  platforms: Windows, Mac, Linux
-  releaseDate: September 21, 2018
-  description: The sequel to Snowball Saves Christmas. The North Pole is melting during the hottest summer ever, and you must rescue Snow Queen Holda to bring back the cold!
-
-=======
->>>>>>> 13691e5da39d64401bedf63bdd5c7181bac8f6da
 - title: Witch Doctor Kaneko
   link: "/witch-doctor-kaneko/"
   image: /images/games/kaneko/thumbnail.png
