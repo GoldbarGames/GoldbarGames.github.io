@@ -3,12 +3,10 @@
     <thead><th>Reward</th><th>Cost</th><th>Description</th></thead>
   </tr>
   {% for item in site.data[include.collection] %}
-    <div class="grid-item">
-      <tr>
-        <td><p>{{item.name}}</p></td>
-        <td><p>{{item.cost}}</p></td>
-        <td><p>{{item.description}}</p></td>
-      </tr>
-    </div>
+    <tr>
+      <td><p>{{item.name}}</p></td>
+      <td><p>{{item.cost}}</p></td>
+      <td><p>{{item.description}}</p></td>
+    </tr>
   {% endfor %}
 </table>
