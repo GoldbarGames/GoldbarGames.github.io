@@ -37,7 +37,7 @@ Snowball Saves Summer is the sequel to Snowball Saves Christmas. You can watch o
   <li><b>Genre:</b> Action, Platformer, Physics</li>
   <li><b>Engine:</b> Unity</li>
   <li><b>Platforms:</b> PC, Mac, Linux</li>
-  <li><b>Release Date:</b> September 21, 2018</li>
+  <li><b>Release Date:</b> September 26, 2018</li>
 </ul>
 
 ## Features
