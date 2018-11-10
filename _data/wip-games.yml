@@ -13,3 +13,11 @@
   platforms: Windows, Mac, Linux
   releaseDate: 2019
   description: This fantasy adventure follows the witch doctor Kaneko as she removes an infestation of bugs from her forest home.
+  
+- title: Space Racketeers
+  link: "/space-racketeers/"
+  image: /images/games/racketeers/thumbnail.png
+  genre: Strategy
+  platforms: Windows, Mac, Linux
+  releaseDate: 2019
+  description: Capture planets and conquer the galaxy. Features online fun for up to 4 players!
