@@ -36,7 +36,7 @@ Every time you capture a planet, you extort wealth from the population, and can 
   <li><b>Genre:</b> Strategy</li>
   <li><b>Engine:</b> Unity 5</li>
   <li><b>Platforms:</b> PC, Mac, Linux</li>
-  <li><b>Release Date:</b> Q1 2019</li>
+  <li><b>Release Date:</b> On Hold</li>
 </ul>
 
 ## Planned Features
