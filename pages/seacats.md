@@ -1,6 +1,7 @@
 ---
 layout: single
 title: When the Seacats Cry
+permalink: /seacats/
 date: 2015-10-04T13:56:25-05:00
 modified:
 comments: true

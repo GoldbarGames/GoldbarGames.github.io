@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Detective Butler - The Serial Murders
-permalink: /detective-butler/butler2
+permalink: /detective-butler/butler2/
 date: 2015-10-04T13:18:41-05:00
 modified:
 comments: true

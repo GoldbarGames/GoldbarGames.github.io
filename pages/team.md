@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Team
-permalink: team
+permalink: /team/
 date: 2015-10-08T21:06:20-05:00
 modified:
 comments: true

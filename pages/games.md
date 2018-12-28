@@ -1,7 +1,7 @@
 ---
 layout: single
 title: All Games
-permalink: /games
+permalink: /games/
 date: 2018-9-4
 modified:
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Detective Butler - Maiden Voyage Murder
-permalink: /detective-butler/butler1
+permalink: /detective-butler/butler1/
 date: 2015-10-04T13:18:41-05:00
 modified:
 comments: true

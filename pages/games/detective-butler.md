@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The Misadventures of Detective Butler
-permalink: /detective-butler
+permalink: /detective-butler/
 date: 2015-10-04T13:18:41-05:00
 modified:
 comments: true

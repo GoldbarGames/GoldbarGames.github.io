@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Witch Doctor Kaneko
-permalink: /witch-doctor-kaneko
+permalink: /witch-doctor-kaneko/
 date: 2015-10-04T14:01:14-05:00
 modified:
 comments: true

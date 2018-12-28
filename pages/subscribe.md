@@ -1,7 +1,7 @@
 ---
 title: "Goldbar Games Mailing List"
 layout: single
-permalink: /subscribe
+permalink: /subscribe/
 date: 2018-01-10T11:48:41-04:00
 excerpt: "Independent Game Developer"
 intro:

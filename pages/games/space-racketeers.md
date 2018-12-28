@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Space Racketeers
-permalink: /space-racketeers
+permalink: /space-racketeers/
 modified:
 categories:
 comments: true

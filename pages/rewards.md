@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Rewards
-permalink: /rewards
+permalink: /rewards/
 date: 2018-5-12
 modified:
 comments: true

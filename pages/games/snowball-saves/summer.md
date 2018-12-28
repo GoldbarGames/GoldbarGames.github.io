@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Snowball Saves Summer
-permalink: /snowball-saves/summer
+permalink: /snowball-saves/summer/
 date: 2018-08-28T13:18:41-05:00
 modified:
 comments: true

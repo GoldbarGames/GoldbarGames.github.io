@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cruise Ship Cleanup
-permalink: /cruise-ship-cleanup
+permalink: /cruise-ship-cleanup/
 modified:
 categories:
 comments: true
