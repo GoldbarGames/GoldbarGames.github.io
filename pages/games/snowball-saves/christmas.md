@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Snowball Saves Christmas
-
+permalink: /snowball-saves/christmas
 categories:
 comments: true
 excerpt: Launch and roll yourself through 50+ levels to save Christmas!

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Detective Butler - The Serial Murders
+permalink: /detective-butler/butler2
 date: 2015-10-04T13:18:41-05:00
 modified:
 comments: true
@@ -9,8 +10,8 @@ tags: []
 image:
   feature:
 screenshots:
-- path: /detective-butler/screenshots/db-promo.jpg
-  title: Banner
+  - path: /images/games/butler2/db-promo.jpg
+    title: Banner
 ---
 {% for i in page.screenshots %}
   <img src="{{i.path}}" title="{{i.title}}" alt="{{i.title}}" class="center-image">
