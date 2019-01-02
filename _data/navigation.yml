@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "News"
-    url: /posts/
+    url: /news/
     
   - title: "Store"
     url: "https://store.goldbargames.com"
