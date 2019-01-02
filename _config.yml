@@ -30,6 +30,8 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -46,6 +48,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
@@ -93,33 +96,26 @@ analytics:
 
 # Site Author
 author:
-  email            : kinjo@goldbargames.com
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : GoldbarGames
-  foursquare       :
-  github           : GoldbarGames
-  google_plus      :
-  keybase          :
-  instagram        : GoldbarGames
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  patreon          : goldbargames
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : GoldbarGames
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : seagullcrazy
+  email            : "kinjo@goldbargames.com"
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/GoldbarGames"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/GoldbarGames"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GoldbarGames"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/GoldbarGames/"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/goldbargames"
 
 # Reading Files
 include:
@@ -197,6 +193,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -206,6 +203,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
