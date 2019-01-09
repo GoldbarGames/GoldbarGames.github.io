@@ -1,0 +1,52 @@
+---
+layout: single
+title: Plans For 2019
+modified:
+categories:
+comments: true
+excerpt: Planning ahead for 2019
+tags: []
+image:
+  feature:
+date: 2019-01-09T00:45:30-06:00
+---
+
+# Overview
+
+Usually at the end of every year we do a reflection post to think about what we have accomplished and where we are going. But unfortunately, I never got around to it (sorry!), so you'll have to settle for a somewhat late post. We've got a lot to cover, so let's dive into it!
+
+# Snowball Saves Summer
+
+For most of 2018 we worked on the game Snowball Saves Summer. Initially I didn't really want to spend more than three months on the game, but it ended up taking six. Even with the extra time, sales weren't nearly as high as what I was hoping they would be, and I think that's mostly because we're having a hard time marketing the game. We're still not very well-known, so I'm sure if we just had more people who knew about our games, we'd be doing a little better. So we're just going to keep moving forward and learn from our mistakes -- which means building anticipation for our next game right from the start.
+
+# Space Racketeers
+
+After finishing Snowball, we briefly worked on an online turn-based multiplayer game called Space Racketeers. Primarily I just wanted to give myself something to work on while thinking about where to go next, and to take a break from all the single-player stuff I'd been making. For the longest time I've wanted to make a really fun multiplayer experience. Even the Detective Butler series had been envisioned as somewhat multiplayer in nature, with fans discussing their theories. Multiplayer games have always been special to me, since most of my best memories come from playing games with friends and family.
+
+While it was fun working on the project and learning all kinds of things about online multiplayer, in late November we decided to put the project on hold. Firstly because we began to realize that the game was getting too complicated and exceeded our current level of resources. But I think more importantly, I eventually realized that since (as mentioned above) we are hardly known, nobody would be interested in playing a multiplayer game without a dedicated online community. So before we can publish a multiplayer game, we need to grow bigger. So for right now, it would be better to start working on a game that can get more people interested in us.
+
+# Witch Doctor Kaneko
+
+So, here we are. I've started and rebooted this project so many times by now, but this will be the moneyshot. We're going to start Witch Doctor Kaneko again, but this time, it's going to be our main focus, and we're not going to stop until it's finished.
+
+Last year I finally understood what people meant when they said that you can't rely on games for income. Not because 'games are too childish' or anything like that, but because it's very hard to convince someone to buy your game. Unlike, say, a restaurant which can always sell food (because people will always need food to live), people don't really need video games to survive -- especially YOUR video game. So any game developer is has to go through two layers to convince anyone to buy their product. And desperately trying random ideas really isn't a good sales tactic.
+
+So why does anyone buy games, if they aren't really necessary? I think it's because they want to know what's unique to the author making them. To put it another way, I think about it like this:  "it's art because you're the one who made it, and nobody else can do it the way you do it, which makes it special."
+
+That's true for me, at least -- I want to understand the developer, and their creations (games, in this case) is a window into their psyche. The most interesting games usually have some sort of purpose, whether it's a story designed to make us cry, an endless dungeon of despair, or an exploration of otherworldly physics. And the more passionate a developer is about a project, the more that passion will be reflected in the game itself. That's how the best games really grab our attention.
+
+So with all that said, I can't wait to show off Witch Doctor Kaneko. I've been doing weekly recaps on Patreon (with the most recent week exclusive to Patrons!) but I'm also going to start posting them on Medium in order to gain more traction. And we'll be updating development logs on many other websites as well. Look forward to it!
+
+# Detective Butler
+
+So where does this leave Detective Butler 2? Well, we don't have nearly enough funding to pay for the art and music, so until we get that we have no choice but to put this game on hold as well. I've calculated the costs and realistically we could get by with just a couple hundred each month. After all, it takes time to make art and music, so even though the total cost might be several thousands, we don't need all of it right away. But it's still going to take even more time to accumulate those funds, especially because I need to be paying my own expenses in addition to development costs. I'll be working very hard this year to cover both expenses.
+
+That said, I don't want to leave fans of the detective waiting much longer. That's why we'll be releasing DLC for Detective Butler during the summer. It'll give the fans something new to read, and hopefully it can also generate some funding for the next game. More details on that will be revealed sometime during spring, once we finish writing the drafts.
+
+Speaking of the writing, I'll probably outsource most of it so that I can focus on programming Kaneko. I'm also going to be receiving some programming help thanks to a few volunteers. So it seems like things are starting to look up for us after all! Just need some more time -- please be patient!
+
+# Conclusion
+
+Last but not least, remember that we're streaming on Twitch every week night! Feel free to stop by and see how progress is coming along. And recently we just passed the 100 follower mark, so a huge thanks to all of our followers. I'm really proud of what we've accomplished so far!
+
+Thanks for reading, and have a wonderful 2019!
