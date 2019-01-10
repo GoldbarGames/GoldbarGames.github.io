@@ -43,7 +43,7 @@ So where does this leave Detective Butler 2? Well, we don't have nearly enough f
 
 That said, I don't want to leave fans of the detective waiting much longer. That's why we'll be releasing DLC for Detective Butler during the summer. It'll give fans something new to read, and hopefully it can also generate some funding for the next game. More details on that will be revealed sometime during spring, once we finish writing the drafts.
 
-Speaking of that, a few friends volunteered to help me with parts of the writing so that development can go by faster, and I can continue spending most of my time programming Kaneko. And I'm also going to be receiving some programming help thanks to a few volunteers. So it seems like things are starting to look up for us after all! Just need some more time -- please be patient!
+Speaking of the writing, you might already see the problem with having to write DLC while also keeping Kaneko our main project -- it's hard for me to focus on both. So a few writers I know have chosen to lend me some help with parts of the writing, so I don't have to completely abandon programming Kaneko (for the third time). And additionally, I'm going to be receiving some programming help on Kaneko thanks to a few volunteers. There's only so much I can do on my own, so having all these people helping will really allow us to deliver higher quality games. So it seems like things are starting to look up for us after all! Just need some more time -- please be patient!
 
 ## Conclusion
 
