@@ -43,9 +43,9 @@ So where does this leave Detective Butler 2? Well, we don't have nearly enough f
 
 That said, I don't want to leave fans of the detective waiting much longer. That's why we'll be releasing DLC for Detective Butler during the summer. It'll give fans something new to read, and hopefully it can also generate some funding for the next game. More details on that will be revealed sometime during spring, once we finish writing the drafts.
 
-Speaking of the writing, I'll be receiving some help with the writing so that I can continue spending most of my time programming Kaneko. And I'm also going to be receiving some programming help thanks to a few volunteers. So it seems like things are starting to look up for us after all! Just need some more time -- please be patient!
+Speaking of that, a few friends volunteered to help me with parts of the writing so that development can go by faster, and I can continue spending most of my time programming Kaneko. And I'm also going to be receiving some programming help thanks to a few volunteers. So it seems like things are starting to look up for us after all! Just need some more time -- please be patient!
 
-# Conclusion
+## Conclusion
 
 Last but not least, remember that we're streaming on Twitch every week night! Feel free to stop by and see how progress is coming along. And recently we just passed the 100 follower mark, so a huge thanks to all of our followers. I'm really proud of what we've accomplished so far!
 
