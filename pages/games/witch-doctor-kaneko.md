@@ -9,11 +9,26 @@ excerpt:
 tags: []
 image:
   feature:
+gallery:
+- url: /images/games/kaneko/scr_debug1.gif
+  image_path: /images/games/kaneko/scr_debug1.gif
+  alt: Screenshot
+- url: /images/games/kaneko/scr_push1.gif
+  image_path: /images/games/kaneko/scr_push1.gif
+  alt: Screenshot
+- url: /images/games/kaneko/scr_pop1.gif
+  image_path: /images/games/kaneko/scr_pop1.gif
+  alt: Screenshot
+- url: /images/games/kaneko/scr_return1.gif
+  image_path: /images/games/kaneko/scr_return1.gif
+  alt: Screenshot
 ---
 
 ![Witch Doctor Kaneko](/images/games/kaneko/wdk_banner.jpg){: .center-image}
 
 Witch Doctor Kaneko is a fantasy-themed platformer game about a witch-doctor named Kaneko.
+
+Explore a magical world, cast a variety of spells, and hunt down an infestation of bugs.
 
 You can watch us develop the game every week-night on [Twitch](https://twitch.tv/goldbargames).
 
@@ -22,8 +37,12 @@ You can watch us develop the game every week-night on [Twitch](https://twitch.tv
   <li><b>Genre:</b> Platformer</li>
   <li><b>Engine:</b> Unity</li>
   <li><b>Platforms:</b> PC, Mac, Linux</li>
-  <li><b>Release Date:</b> 2019?</li>
+  <li><b>Release Date:</b> TBA</li>
 </ul>
+
+## Screenshots
+
+{% include gallery %}
 
 ### Credits
 

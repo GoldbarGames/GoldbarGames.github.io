@@ -3,7 +3,7 @@
   image: /images/games/butler2/thumbnail.png
   genre: Adventure
   platforms: Windows, Mac, Linux
-  releaseDate: 2019
+  releaseDate: TBA
   description: The sequel to Detective Butler Maiden Voyage Murder. Butler and Gilligan hunt down a dangerous serial killer. Investigate each crime scene and interrogate each suspect. Can you unravel the truth before the serial killer strikes again?
 
 - title: Witch Doctor Kaneko
@@ -11,7 +11,7 @@
   image: /images/games/kaneko/thumbnail.png
   genre: Platformer
   platforms: Windows, Mac, Linux
-  releaseDate: 2019
+  releaseDate: TBA
   description: This fantasy adventure follows the witch doctor Kaneko as she removes an infestation of bugs from her forest home.
   
 - title: Space Racketeers
@@ -19,5 +19,5 @@
   image: /images/games/racketeers/thumbnail.png
   genre: Strategy
   platforms: Windows, Mac, Linux
-  releaseDate: 2019
+  releaseDate: TBA
   description: Capture planets and conquer the galaxy. Features online fun for up to 4 players!
