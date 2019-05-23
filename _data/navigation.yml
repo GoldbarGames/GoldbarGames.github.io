@@ -1,16 +1,16 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+    
   - title: "News"
     url: /news/
-    
-  - title: "Store"
-    url: "https://store.goldbargames.com"
-
-  - title: "Team"
-    url: /team/
 
   - title: "Games"
     url: /games/
+    
+  - title: "Store"
+    url: "https://store.goldbargames.com"
     
   - title: "Rewards"
     url: /rewards/
