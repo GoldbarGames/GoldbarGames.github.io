@@ -116,6 +116,12 @@ footer:
     - label: "Patreon"
       icon: "fab fa-fw fa-patreon"
       url: "https://www.patreon.com/goldbargames"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://twitch.tv/goldbargames"
+    - label: "SubscribeStar"
+      icon: ""
+      url: "https://www.subscribestar.com/goldbar-games"
 
 # Reading Files
 include:
