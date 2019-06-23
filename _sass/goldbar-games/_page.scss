@@ -23,11 +23,11 @@ th{
   border-bottom-color: #484848;
 }
 
-#site-nav {
-  background: rgba($color: #252a34, $alpha: .6);
+.masthead {
+  background-color: $background-color;
 }
 
-.masthead, .page__footer {
+.page__footer {
   background-image: url(bg-gray.jpg)
 }
 
@@ -95,4 +95,8 @@ table.tablesaw {
 
 #mc_embed_signup {
   margin-top: 1em;
+}
+
+iframe {
+  max-width: 100%;
 }
