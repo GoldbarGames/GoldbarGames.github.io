@@ -23,5 +23,3 @@ Each game has its own individual page, with a full list of collaborators who wor
 For any business-related questions or comments, please e-mail [{{site.author.email}}](mailto:{{site.author.email}}).
 
 Website developed with help from [Bryce Mehring](http://www.brycemehring.com)
-
-[Support us with Subscribestar](https://www.subscribestar.com/goldbar-games)
