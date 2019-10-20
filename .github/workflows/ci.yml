@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+
+      - name: Use Ruby
+        uses: actions/setup-ruby@v1
+          with:
+            ruby-version: '2.x'
+
+      - name: install, build, test
+        run: |
+          command -v bundler || gem install bundler
+          bundle install
+          bundle exec jekyll build && htmlproofer
+        env:
+          CI: true
