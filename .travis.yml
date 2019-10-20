@@ -5,7 +5,6 @@ rvm:
 before_install:
   - gem install bundler
 
-gemfile: Gemfile.ci
 script: bundle exec jekyll build && htmlproofer ./_site --check-html --allow-hash-href
 
 branches:
