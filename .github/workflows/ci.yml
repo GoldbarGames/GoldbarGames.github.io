@@ -15,8 +15,8 @@ jobs:
 
       - name: Use Ruby
         uses: actions/setup-ruby@v1
-          with:
-            ruby-version: '2.x'
+        with:
+          ruby-version: '2.x'
 
       - name: install, build, test
         run: |
