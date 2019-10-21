@@ -129,6 +129,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - CNAME
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -154,7 +155,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - CNAME
   
 keep_files:
   - .git
