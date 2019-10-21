@@ -19,7 +19,6 @@ jobs:
           ruby-version: '2.x'
 
       - name: install, build, test
-        continue-on-error: true
         run: |
           gem install bundler
           bundle install
