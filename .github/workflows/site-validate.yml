@@ -1,1 +1,32 @@
+name: validate
+on:
+  push:
+    branches: 
+      - master
+  schedule:
+    - cron:  '0 0 * * *'
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+          
+      - name: Use Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.x'
+
+      - name: install, test
+        run: |
+          gem install html-proofer
+          htmlproofer ./ --check-html --allow-hash-href
+          
+      - name: Success Notification
+        uses: Ilshidur/action-discord@a7cda45617e36f767b67b6c69cbfa045641c8620
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        with:
+          args: 'GoldbarGames/GoldbarGames.github.io has been successfully validated'
