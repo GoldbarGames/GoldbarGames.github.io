@@ -6,11 +6,13 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
+    "axios": "^0.19.0",
     "tablesaw": "~3.0.9",
     "uglify-js": "^3.5.15"
   },
   "scripts": {
     "uglify": "uglifyjs assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.ba-throttle-debounce.js assets/js/plugins/smooth-scroll.js assets/js/plugins/gumshoe.js node_modules/tablesaw/dist/stackonly/tablesaw.stackonly.jquery.js node_modules/tablesaw/dist/tablesaw-init.js assets/js/_main.js -c -m -o assets/js/main.min.js",
-    "build": "npm run uglify"
+    "build": "npm run uglify",
+    "discord": "node ./discord.js"
   }
 }
