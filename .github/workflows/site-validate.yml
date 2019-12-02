@@ -29,6 +29,6 @@ jobs:
           SUCCESS_MESSAGE: "GoldbarGames/GoldbarGames.github.io has been successfully validated"
           ERROR_MESSAGE: "GoldbarGames/GoldbarGames.github.io failed to failed to validate"
         run: |
-          npm i --save-dev axios
+          npm i -g axios && npm link axios
           gem install html-proofer
-          (htmlproofer ./ --check-html --allow-hash-href && DISCORD_MESSAGE=$SUCCESS_MESSAGE node ./discord.js) || DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js
+          htmlproofer ./ --check-html --allow-hash-href || DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js
