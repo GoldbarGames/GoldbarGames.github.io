@@ -7,26 +7,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: ruby:2.6
     steps:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 1
-          
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.x'
 
       - name: install, build, test
         run: |
           gem install bundler
-          bundle install
+          bundle install --jobs 2 --retry 3
           JEKYLL_ENV=production bundle exec jekyll build
           htmlproofer ./_site --check-html --allow-hash-href --disable-external
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@2.0.3
-        env:
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BASE_BRANCH: develop # The branch the action should deploy from.
           BRANCH: master # The branch the action should deploy to.
