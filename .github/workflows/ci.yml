@@ -20,6 +20,7 @@ jobs:
 
       - name: install, build, test
         run: |
+          bundle update --bundler
           gem list | grep bundler
           bundle install --deployment
           JEKYLL_ENV=production bundle exec jekyll build
