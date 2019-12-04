@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ruby:2.6
-      volumes: 
-        - my_docker_volume:/volume_mount
       env:
         LANG: C.UTF-8
     steps:
@@ -20,9 +18,8 @@ jobs:
 
       - name: install, build, test
         run: |
-          bundle update --bundler
-          gem list | grep bundler
-          bundle install --deployment
+          gem install bundler
+          bundle install
           JEKYLL_ENV=production bundle exec jekyll build
           htmlproofer ./_site --check-html --allow-hash-href --disable-external
 
