@@ -127,6 +127,7 @@ footer:
 
 # Reading Files
 include:
+  - .nojekyll
   - .htaccess
   - _pages
   - CNAME
@@ -156,7 +157,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  
+
 keep_files:
   - .git
   - .svn
