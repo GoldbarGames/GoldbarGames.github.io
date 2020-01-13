@@ -1,0 +1,44 @@
+PRIVACY POLICY
+----
+
+This privacy notice discloses the privacy practices for the video game Snowball Saves Christmas. This privacy notice applies solely to information collected by this game.
+
+SECTION 1 - CONSENT
+
+By continuing to play the game, you give your consent to this privacy policy. If you do not agree with these terms, you should immediately uninstall the game.
+
+SECTION 2 - DISCLOSURE
+
+We may disclose your personal information if we are required by law to do so.
+
+SECTION 3 - THIRD-PARTY SERVICES
+
+UNITY
+
+This game was built using Unity's game engine software, and includes features from Unity Analytics and Unity Ads.
+
+The Unity game engine collects some or all of the following information about your device: unique device identifers; IP address; country of install; device manufacturer and model platform type; and operating system and version running on your device; language; CPU information such as model, the number of CPUs present, frequency, and instruction set support flags; the graphics card type and vendor name; graphics card driver name and version; which graphics API is in use; amount of system and video RAM present; current screen resolution; version of the Unity Editor used to create the game; sensor flags; application or bundle identification of the game installed; unique advertising identifiers provided for iOS and Android devices; and a checksum of all the data that gets sent to verify that it transmitted correctly.
+
+Unity Analytics collects some or all of the following information: IP address; device identifiers; events completed or actions taken within the game (such as level completion rates, scores achieved, etc.); metadata about in-game communications and the value and details of purchases. The collection and use of this data makes it possible to redeem rewards you have purchased or earned, or to return to where you left off in a game. Some data collected by Unity Analytics may be used by Unity Ads for personalized advertising. Some gameplay data (such as deaths per level) may be collected to analyze trends among players so that we may understand how to improve future games. You may choose to opt-out of Unity Analytics data collection (to the extent that we, the developers, are able to control) by toggling the Report Analytics option.
+
+Unity Ads collects some or all of the following information: IP address; device identifiers; information regarding the deliver of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. For clarity, Unity collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised. All of this is for purposes of predicting the types of new games that you might like to download. Unity may track additional data about you in the future for purposes of making these types of predictions, and we will notify you prior to new data collection. If you have seen an ad, then Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. 
+
+The following paragraph, taken directly from the Unity privacy policy, explains how to opt-out of Unity ads information targeting:
+
+"If you are in the EU and do not wish to be targeted in this manner, the first Unity ad you see in an app (as of May 25, 2018) explains how you can opt-out of data collection in that particular game. You can opt-out then or at any time by clicking or tapping the “?” button (or Data Privacy icon) on any ad you see (the “?” button or Data Privacy icon will also allow you to access the data that is collected about you in that particular app). For example, you might see a summary   that includes information indicating that  we see that you are using an iPhone 8 and you are playing from Germany. In the past week we’ve seen you 5 times in this game and have shown you 27 ads. You have installed 0 games based on those ads. Additionally, all users, regardless of their location, may opt-out of all personalized advertising by enabling privacy features on their devices such as Limit Ad Tracking (iOS) and Opt Out of Ads Personalization (Android). See your device’s Help system for more information."
+
+We encourage you to also view Unity's privacy policy, which much of the above paragraphs was derived from, for further information: https://unity3d.com/legal/privacy-policy
+
+OTHER WEBSITES
+
+This game contains links to our social media webpages. Please be aware that we are not responsible for the content or privacy policies of such other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+SECTION 4 - CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately.
+
+QUESTIONS AND CONTACT INFORMATION
+
+If you have any questions or comments, you may contact us at support@goldbargames.com
+
+----

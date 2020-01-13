@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="//www.goldbargames.com/feed.xml" rel="self" type="application/atom+xml" /><link href="//www.goldbargames.com/" rel="alternate" type="text/html" /><updated>2020-01-13T23:48:51+00:00</updated><id>//www.goldbargames.com/feed.xml</id><title type="html">Goldbar Games</title><subtitle>Independent game developer.</subtitle><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><entry><title type="html">Plans for a New Decade</title><link href="//www.goldbargames.com/plans-for-a-new-decade/" rel="alternate" type="text/html" title="Plans for a New Decade" /><published>2020-01-12T06:45:30+00:00</published><updated>2020-01-12T06:45:30+00:00</updated><id>//www.goldbargames.com/plans-for-a-new-decade</id><content type="html" xml:base="//www.goldbargames.com/plans-for-a-new-decade/">&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;As you might’ve noticed, updates have been quite slow recently. It’s been hard to find time to make any progress, but I really do work on things every day. I should get better at posting updates and getting the word out, but I am doing everything I can to keep this train running without a hitch.&lt;/p&gt;
+
+&lt;h2&gt;General Updates&lt;/h2&gt;
+
+&lt;p&gt;So, I’ve gone back and added a few of the Patreon posts. I’d actually been posting there for the past few months, but this place looks too barren. Since I’d opened them up to public viewing anyway, I figured I might as well migrate them all here.&lt;/p&gt;
+
+&lt;p&gt;Also, my stream schedule has once again changed a bit. Tuesdays, Wednesdays, and Thursdays are for the C++ game engine, and Mondays and Fridays are for the Detective Butler DLC. Once we release the DLC, Mondays and Fridays will generally be reserved for other stuff I need to do, or other small side projects, just to keep things interesting. I’ve found that it’s probably not the best idea to completely switch what I’m working on, so I hope that streaming specific content on specific days will work out better.&lt;/p&gt;
+
+&lt;h2&gt;Witch Doctor Kaneko&lt;/h2&gt;
+
+&lt;p&gt;In June 2019’s blog post I mentioned a C++ game engine as a side project. Well, it took off quite a bit and replaced Kaneko as the main project. I’ll be using the C++ game engine to develop both Witch Doctor Kaneko and Detective Butler 2, as well as many other games in the future. Ultimately, I don’t want to be limited by any other game engines out there, and I also want to grow as a developer. So far, working on this engine has been an incredible learning experience. I’m happy to say that we’re at a point where we have the ability to build a game in our own engine and publish it to the world. Now we just need to go and do it!&lt;/p&gt;
+
+&lt;p&gt;As a quick side note, some people have asked me if I would open source the engine. I’m considering it, but I’d need to figure out the best license. I’m also considering releasing an engine exclusively for visual novel development, since I’d need to make one anyway for DB2 and there’s not a whole lot of competition out there.&lt;/p&gt;
+
+&lt;h2&gt;Detective Butler DLC&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, as you can tell, I wasn’t able to finish the DLC by summer 2019. But the good news is that I’m still working on it and it’s almost done. You can now view the &lt;a href=&quot;https://store.steampowered.com/app/1110930/Detective_Butler_Maiden_Voyage_Murder__Choices_DLC/&quot;&gt;Steam store page&lt;/a&gt; for the Detective Butler DLC. I’ve set the release date to April 3, 2020, so please look forward to it then! You can read some more details about the DLC in this &lt;a href=&quot;https://steamcommunity.com/gid/103582791458349982/announcements/detail/1699477947753373144&quot;&gt;Steam update.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That’s all for now. I have so many plans for 2020 and the coming years. The next post will likely be the release of the Detective Butler DLC, so please look forward to it! Thank you for reading, and see you next time!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Detective Butler DLC and our own custom game engine!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Getting Closer</title><link href="//www.goldbargames.com/getting-closer/" rel="alternate" type="text/html" title="Getting Closer" /><published>2019-11-29T06:45:30+00:00</published><updated>2019-11-29T06:45:30+00:00</updated><id>//www.goldbargames.com/getting-closer</id><content type="html" xml:base="//www.goldbargames.com/getting-closer/">&lt;p&gt;Once again, progress is kind of slow due to my day job, but fortunately I am still getting some pretty significant things accomplished. Here’s a quick rundown:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Snowball Saves Christmas has returned to Google Play and is now also available on the Amazon App Store!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Currently working on the Detective Butler DLC. I recovered a bunch of old documents and photos from way back in 2013 and that gives me a lot of material for new content. I will probably make a formal announcement in the next 2 weeks, but I really think I can release it before the end of the year. I can’t go a whole year without releasing anything new!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The C++ game engine has reached a point to where we have been designing levels on the streams. We fixed many bugs and now the physics system is feeling pretty great! The next step is to improve the graphics rendering stuff, but we can probably afford to put out a demo first. Still, I need to prioritize Detective Butler DLC, so this won’t happen until early next year.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I have continued uploading programming tutorials on YouTube and Bitchute. More content will be uploaded next year – I have so many ideas!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I have finally added merchandise to the Kaneko section of the Goldbar Games Store! Plus a few items in the other categories as well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We have still been getting purchases for Snowball Saves Summer, and will be nearing another payout soon… so thank you to everyone who has been playing it! It’s amazing to see  that people are still buying it even months after its release. I still see comments asking about Detective Butler, too. So I hear you, and I’m doing my best for you guys!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Our Twitch streams are gaining traction, as we are gaining more paying subscribers at a faster rate… so thank you to everyone who watches the streams!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As always, thanks for all your support!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Almost able to make a game in our own engine!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Slow Progress</title><link href="//www.goldbargames.com/slow-progress/" rel="alternate" type="text/html" title="Slow Progress" /><published>2019-10-01T06:45:30+00:00</published><updated>2019-10-01T06:45:30+00:00</updated><id>//www.goldbargames.com/slow-progress</id><content type="html" xml:base="//www.goldbargames.com/slow-progress/">&lt;p&gt;Currently, we have gotten the level editor to a point where it is being used to make levels, and our intent is to make some sort of playable prototype of Witch Doctor Kaneko. Hopefully, we can release something soon (within the next month or so).&lt;/p&gt;
+
+&lt;p&gt;Earlier this month, I finally started uploading video tutorials. If you want to learn how to code, check out Kinjo Codes on YouTube. I might even try other video content eventually, once I get better. My intent right now is to just get stuff out there and learn by doing, so I’m sure if quality seems amateurish right now, it’ll get better later.&lt;/p&gt;
+
+&lt;p&gt;I am also still working on the Detective Butler DLC, and getting Snowball Saves Christmas published on some more stores. This is in addition to everything I need to do IRL, so progress has been depressingly slow.&lt;/p&gt;
+
+&lt;p&gt;But, I generally have an optimistic view of the future. I have a lot of plans, and next year we’ll be able to start seeing them in motion. I am continuing to improve all of my skills, even the ones I didn’t know I had, and I literally can’t wait to bring all my ideas to life.&lt;/p&gt;
+
+&lt;p&gt;As always, thanks for all your support!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Slow and steady...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Level Editor is Ready</title><link href="//www.goldbargames.com/level-editor-is-ready/" rel="alternate" type="text/html" title="Level Editor is Ready" /><published>2019-09-02T06:45:30+00:00</published><updated>2019-09-02T06:45:30+00:00</updated><id>//www.goldbargames.com/level-editor-is-ready</id><content type="html" xml:base="//www.goldbargames.com/level-editor-is-ready/">&lt;p&gt;During the month of August, we worked mainly on improving and finishing Witch Doctor Kaneko’s level editor. We added buttons to place doors and ladders, and can switch between different grids and tilesets for a variety of sprites and placements.&lt;/p&gt;
+
+&lt;p&gt;We also fixed some memory leaks and learned how to optimize SDL’s textures for minimal memory consumption. While our previous build in Unity required nearly 250 MB of RAM, our custom C++ engine now only requires a little less than 50 MB! That means slower computers with less RAM will have an easier time running our game.&lt;/p&gt;
+
+&lt;p&gt;Additionally, our game engine also saves us some disk space – our Unity build was 322 MB versus our new size of only 58 MB (both sizes include graphics and music assets).&lt;/p&gt;
+
+&lt;p&gt;In September, we plan to return to designing levels in the new game engine. We’ll be making the cutscene system (also for talking with NPCs), creating the title screen, and saving game data.&lt;/p&gt;
+
+&lt;p&gt;Also, I will briefly mention that I’ve been working on a new video series for learning programming for beginners. We get a lot of people asking us during our streams for a tutorial like that, so I think it’s the perfect opportunity. That said,  I don’t have much time to dedicate to much of anything these days, but I’ve been working my hardest to get it off the ground as soon as possible.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I’ve also been doing some more work regarding Butler and Snowball, so… even if it might take a while, please understand that one person can only do so much. If I had more time I would be doing so many things, but that’s not an option right now. I’ve even asked a few others for help with the stuff I usually do alone, because I think I’ll need to be doing that in the future if I want to get everything done. But just know that I’m giving it my best.&lt;/p&gt;
+
+&lt;p&gt;As always, thank you for your support, and see you next time!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">We've developed an easy way to make levels in our game engine</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Too Long Without A Blog Post</title><link href="//www.goldbargames.com/too-long-without-a-blog-post/" rel="alternate" type="text/html" title="Too Long Without A Blog Post" /><published>2019-06-23T06:45:30+00:00</published><updated>2019-06-23T06:45:30+00:00</updated><id>//www.goldbargames.com/too-long-without-a-blog-post</id><content type="html" xml:base="//www.goldbargames.com/too-long-without-a-blog-post/">&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Well, it’s been way too long without a blog post, so first I’ll have to apologize for that. But the good news is that we have a lot of progress to share, and things are definitely heading in the right direction! A lot of things have happened so far in 2019, so let’s get started talking about them!&lt;/p&gt;
+
+&lt;h2&gt;General Updates&lt;/h2&gt;
+
+&lt;p&gt;Only about one month after the previous blog post was published, I accepted a full-time programming job. It’s been difficult (impossible) trying to pay the bills on my video games alone, so having this job was pretty much necessary at this point. While I’d still like Goldbar Games to be profitable, I can afford to take my time now, and I won’t need to compromise creativity in order to push out a new game. Additionally, any revenue that Goldbar Games makes will be immediately re-invested into making new games, so it should be a lot easier to grow the company this way, too.&lt;/p&gt;
+
+&lt;p&gt;Speaking of that, I’ve been taking a new approach with the Twitch streams, partially inspired by what other streamers have been doing. Every two weeks we put up a new ‘donation goal’ to reach, like for example ‘$50 for a new music track’ or ‘$100 for the Steam fee’.  We’ve actually had some moderate success with this method, so I hope it feels like the viewers are having an impact on the creation of the game this way. It’s through their (or your) donations that we’re able to fund more assets (and I think when we get into the later stages we can maybe put them toward viewer-inspired stretch goals). In other words, it works a lot like a Kickstarter, but continuously ongoing through Twitch. Even if we don’t reach the goal through viewer donations, I always pay the amount in full with my own money so that we can stay on top of development.&lt;/p&gt;
+
+&lt;p&gt;Also, regarding Twitch, my stream schedule has changed a bit. We now begin and end one hour earlier, from 7 PM to 9 PM CST. And we are only streaming on Tuesday, Wednesday, and Thursday. Friday will be occasionally used for playing video games, rather than development work. I’ve had to modify my schedule this way to avoid getting burned out too quickly from my day job, plus there are just some GG-related things I need to do that can’t be streamed and I need to make time for them.&lt;/p&gt;
+
+&lt;h2&gt;Witch Doctor Kaneko&lt;/h2&gt;
+
+&lt;p&gt;So at this point we’ve been working on Witch Doctor Kaneko for half a year, and we’ve made a lot of progress. The game’s basic physics are done, and about half the spells in the game have been implemented. We currently aim to release a free demo sometime later this year, so we’re focusing on really polishing everything we have so far. Sometimes on the stream I will show myself drawing level designs or even writing story elements, rather than just programming in Unity. There is also speculation that I may switch to an engine other than Unity, but I’m not really sure if that’s viable. There are some really good reasons to switch to our own custom game engine, but given how limited my time is right now, it’s still probably best to continue development in Unity.&lt;/p&gt;
+
+&lt;p&gt;Earlier this year I commissioned a short little &lt;a href=&quot;https://twitter.com/Osatosama/status/1118307245454974977&quot;&gt;animation&lt;/a&gt; from Osato, who also drew all of the promotional artwork for Witch Doctor Kaneko. I’d like to use that animation somewhere in the game trailer, though it’s too early for that right now. And if possible, I’d like to commission more of these animations, if possible, because I really think they’re cool and could be used for short scenes in the game. But that’s a long time from now, so we’ll focus on finishing the game first!&lt;/p&gt;
+
+&lt;p&gt;We’ve also started up production of Kaneko’s soundtrack, once again teaming up with Solo Acapello (who worked with us on Snowball Saves Summer’s soundtrack). Just like with Snowball, we’ll be posting short clips of the soundtrack on Patreon for early-access listening.&lt;/p&gt;
+
+&lt;h2&gt;Detective Butler DLC&lt;/h2&gt;
+
+&lt;p&gt;Regarding Detective Butler’s we’ve also started development of the DLC for Maiden Voyage Murder! Thankfully it requires no new programming, so it was super easy to get things up and running really quickly. I just need to dedicate enough time to writing it all out. And although I may have mentioned before that I was going to get assistance with the writing, I really don’t want to do that anymore and will just write all of it myself. Though I will still get proofreading help from a few people, just to be sure I’m on the right track.&lt;/p&gt;
+
+&lt;p&gt;All I will say about the contents, without spoiling too much, is that the DLC will be a totally optional experience. You will not need to play it in order to play the sequel, nor will there be any achievements or anything locked behind the DLC. It’s purely a collection of short stories that will give you more opportunities to see this cast of characters in action. These stories will take place during the story of MVM, but written from the perspectives of different characters. There won’t be as much mystery, so I’ll try to make each story as entertaining as possible in its own unique way.&lt;/p&gt;
+
+&lt;p&gt;My goal is to finish the DLC soon and release it later this summer, so wish me luck!&lt;/p&gt;
+
+&lt;h2&gt;Snowball Saves Summer&lt;/h2&gt;
+
+&lt;p&gt;Lastly I would like to mention that &lt;a href=&quot;https://www.goldbargames.com/snowball-saves/summer/&quot;&gt;Snowball Saves Summer&lt;/a&gt; will be on sale during Steam’s Summer Sale, so if you have not played it, now would be a good time to buy! Also, at the request of one of our Twitch viewers, we added an optional feature to invert the mouse controls, for people who want to play that way.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That’s all for now. We’ll keep you posted here for the major stuff, but if you’d like to keep in closer touch, you can follow us on Twitter, Patreon, SubscribeStar, Twitch, or Discord for more frequent updates. Thank you for reading, and see you next time!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">We've been silent, but hard at work!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Plans For 2019</title><link href="//www.goldbargames.com/plans-for-2019/" rel="alternate" type="text/html" title="Plans For 2019" /><published>2019-01-09T06:45:30+00:00</published><updated>2019-01-09T06:45:30+00:00</updated><id>//www.goldbargames.com/plans-for-2019</id><content type="html" xml:base="//www.goldbargames.com/plans-for-2019/">&lt;h1&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;Usually at the end of every year we do a reflection post to think about what we have accomplished and where we are going. But unfortunately, I never got around to it (sorry!), so you’ll have to settle for a somewhat late post. We’ve got a lot to cover, so let’s dive into it!&lt;/p&gt;
+
+&lt;h1&gt;Snowball Saves Summer&lt;/h1&gt;
+
+&lt;p&gt;For most of 2018 we worked on the game &lt;a href=&quot;https://www.goldbargames.com/snowball-saves/summer/&quot;&gt;Snowball Saves Summer&lt;/a&gt;. Initially I didn’t really want to spend more than three months on the game, but it ended up taking six. Even with the extra time, sales weren’t nearly as high as what I was hoping they would be, and I think that’s mostly because we’re having a hard time marketing the game. We’re still not very well-known, so I’m sure if we just had more people who knew about our games, we’d be doing a little better. So we’re just going to keep moving forward and learn from our mistakes – which means building anticipation for our next game right from the start.&lt;/p&gt;
+
+&lt;h1&gt;Space Racketeers&lt;/h1&gt;
+
+&lt;p&gt;After finishing Snowball, we briefly worked on an online turn-based multiplayer game called &lt;a href=&quot;https://www.goldbargames.com/space-racketeers/&quot;&gt;Space Racketeers&lt;/a&gt;. Primarily I just wanted to give myself something to work on while thinking about where to go next, and to take a break from all the single-player stuff I’d been making. For the longest time I’ve wanted to make a really fun multiplayer experience. Even the Detective Butler series had been envisioned as somewhat multiplayer in nature, with fans discussing their theories. Multiplayer games have always been special to me, since most of my best memories come from playing games with friends and family.&lt;/p&gt;
+
+&lt;p&gt;While it was fun working on the project and learning all kinds of things about online multiplayer, in late November we decided to put the project on hold. Firstly because we began to realize that the game was getting too complicated and exceeded our current level of resources. But I think more importantly, I eventually realized that since (as mentioned above) we are hardly known, nobody would be interested in playing a multiplayer game without a dedicated online community. So before we can publish a multiplayer game, we need to grow bigger. So for right now, it would be better to start working on a game that can get more people interested in us.&lt;/p&gt;
+
+&lt;h1&gt;Witch Doctor Kaneko&lt;/h1&gt;
+
+&lt;p&gt;So, here we are. I’ve started and rebooted this project so many times by now, but this will be the moneyshot. We’re going to start &lt;a href=&quot;https://www.goldbargames.com/witch-doctor-kaneko/&quot;&gt;Witch Doctor Kaneko&lt;/a&gt;again. We’ve started work on this project several times in the past, but had to start over again and again for a number of reasons. But this time, it’s going to be our main focus, and we’re not going to stop until it’s finished!&lt;/p&gt;
+
+&lt;p&gt;Last year I finally understood what people meant when they said that you can’t rely on games for income. Not because ‘games are too childish’ or anything like that, but because it’s very hard to convince someone to buy your game. Unlike, say, a restaurant which can always sell food (because people will always need food to live), people don’t really need video games to survive – especially YOUR video game. So any game developer is has to go through two layers to convince anyone to buy their product. And desperately trying random ideas really isn’t a good sales tactic.&lt;/p&gt;
+
+&lt;p&gt;So why does anyone buy games, if they aren’t really necessary? I think it’s because they want to know what’s unique to the author making them. To put it another way, I think about it like this:  “it’s art because you’re the one who made it, and nobody else can do it the way you do it, which makes it special.”&lt;/p&gt;
+
+&lt;p&gt;That’s true for me, at least – I want to understand the developer, and their creations (games, in this case) is a window into their psyche. The most interesting games usually have some sort of purpose, whether it’s a story designed to make us cry, an endless dungeon of despair, or an exploration of otherworldly physics. And the more passionate a developer is about a project, the more that passion will be reflected in the game itself. That’s how the best games really grab our attention.&lt;/p&gt;
+
+&lt;p&gt;So with all that said, I can’t wait to show off Witch Doctor Kaneko. I’ve been doing weekly recaps on &lt;a href=&quot;https://patreon.com/goldbargames&quot;&gt;Patreon&lt;/a&gt; (with the most recent week exclusive to Patrons!) but I’m also going to start posting them on Medium in order to gain more traction. And we’ll be updating development logs on many other websites as well. Look forward to it!&lt;/p&gt;
+
+&lt;h1&gt;Detective Butler&lt;/h1&gt;
+
+&lt;p&gt;So where does this leave &lt;a href=&quot;https://www.goldbargames.com/detective-butler/butler2/&quot;&gt;Detective Butler 2&lt;/a&gt;? Well, we don’t have nearly enough funding to pay for the art and music, so until we get that we have no choice but to put this game on hold as well. I’ve calculated the costs and realistically we could get by with just a couple hundred each month. After all, it takes time to make art and music, so even though the total cost might be several thousands, we don’t need all of it right away. But it’s still going to take even more time to accumulate those funds, especially because I need to be paying my own expenses in addition to development costs. I’ll be working very hard this year to cover both expenses.&lt;/p&gt;
+
+&lt;p&gt;That said, I don’t want to leave fans of the detective waiting much longer. That’s why we’ll be releasing DLC for &lt;a href=&quot;https://www.goldbargames.com/detective-butler/butler1/&quot;&gt;Detective Butler 1&lt;/a&gt; during the summer. It’ll give the fans something new to read, and hopefully it can also generate some funding for the next game. More details on that will be revealed sometime during spring, once we finish writing the drafts.&lt;/p&gt;
+
+&lt;p&gt;Speaking of the writing, you might already see the problem with having to write DLC while also keeping Kaneko our main project – it’s hard for me to focus on both. So a few writers I know have chosen to lend me some help with parts of the writing, so I don’t have to completely abandon programming Kaneko (for the third time). And additionally, I’m going to be receiving some programming help on Kaneko thanks to a few volunteers. There’s only so much I can do on my own, so having all these people helping will really allow us to deliver higher quality games. So it seems like things are starting to look up for us after all! Just need some more time – please be patient!&lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Last but not least, remember that we’re streaming on &lt;a href=&quot;https://www.twitch.tv/goldbargames&quot;&gt;Twitch&lt;/a&gt; every week night! Feel free to stop by and see how progress is coming along. And recently we just passed the 100 follower mark, so a huge thanks to all of our followers. I’m really proud of what we’ve accomplished so far!&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, and have a wonderful 2019!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Planning ahead for 2019</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Snowball Saves Summer Released</title><link href="//www.goldbargames.com/snowball-saves-summer-released/" rel="alternate" type="text/html" title="Snowball Saves Summer Released" /><published>2018-09-26T06:45:30+00:00</published><updated>2018-09-26T06:45:30+00:00</updated><id>//www.goldbargames.com/snowball-saves-summer-released</id><content type="html" xml:base="//www.goldbargames.com/snowball-saves-summer-released/">&lt;h1&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;It’s been a while since the last blog post, but that doesn’t mean we’ve been sitting around doing nothing. We’ve actually been posting weekly updates on our Patreon and daily updates on our Twitch channel. So check those out if you want some more frequent news… or just stick around here and wait for the important stuff!&lt;/p&gt;
+
+&lt;p&gt;As you might have guessed from the title, Snowball Saves Summer is released! We worked all summer on that game (a little bit of Spring and almost Fall too) so we’ve all put a lot of effort into it. Go and check it out if you haven’t already!&lt;/p&gt;
+
+&lt;h1&gt;Commissions&lt;/h1&gt;
+
+&lt;p&gt;We’ll be using the revenue from Snowball for a number of things, but a big one will be for funding our commissions for Detective Butler 2. Generally, we want to get into the habit of taking revenue from previous games and using them to fund new games. So hopefully we also get into the habit of turning a profit on each game, each one allowing us to make bigger and better games… almost like a snowball effect.&lt;/p&gt;
+
+&lt;p&gt;Additionally, I’ve been doing freelance programming work on the side, though that’s mainly gone to my personal finances. I’ve got a few things lined up for October on that front, so some of my time will be dedicated to that. But with any extra money I make, I’d love to invest it into my own business, so I’m looking forward to taking care of those commissions soon. Plus, it helps me develop skills that can be put toward my own games, so it’s a really useful side job.&lt;/p&gt;
+
+&lt;h1&gt;Our Next Game&lt;/h1&gt;
+
+&lt;p&gt;I’ve tossed around a bunch of ideas on stream for our next game. We need to aim at something a bit smaller this time – not 6 months, more like 3 at most. But we should also try to improve our skills a bit by going into unexplored territory. So my main concept is to have some sort of small multiplayer game. We’ve also had ideas for a shoot’em up game and survival horror, and honestly I think I’ve got an idea that can combine all of them together… but I’ll have to hold off until the next blog post before I announce the details. I want to talk it over with everyone first and see what we can come up with.&lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;If you’d like to be part of the discussion, feel free to join our Twitch streams or Discord channel and chat directly with us about it! Feedback is extremely useful during game development. I can certainly say that Snowball would be a very different (much worse) game without the feedback we received from our viewers and testers over the past few months. So thank you to everyone who has supported us thus far. We’re moving up, hopefully at a faster and faster pace, and who knows where we’ll go next!&lt;/p&gt;
+
+&lt;p&gt;(That’s enough talking… Just go and play Snowball already! Have fun!!!)&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Go play it now!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Plans For Summer</title><link href="//www.goldbargames.com/plans-for-summer/" rel="alternate" type="text/html" title="Plans For Summer" /><published>2018-05-14T06:45:30+00:00</published><updated>2018-05-14T06:45:30+00:00</updated><id>//www.goldbargames.com/plans-for-summer</id><content type="html" xml:base="//www.goldbargames.com/plans-for-summer/">&lt;h1&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;So unfortunately, we didn’t have any big updates during April. But we did update our &lt;a href=&quot;https://patreon.com/goldbargames&quot;&gt;Patreon&lt;/a&gt; feed every week, so if you want to read what we do on a weekly basis, feel free to pledge any amount and you will immediately be able to read them.&lt;/p&gt;
+
+&lt;p&gt;This announcement will be a long one, because there are a lot of things I want to cover in this post. So brace yourself, and let’s dig in!&lt;/p&gt;
+
+&lt;h1&gt;Snowball Saves Summer&lt;/h1&gt;
+
+&lt;p&gt;As mentioned in our previous post, we’ve been hard at work developing Snowball Saves Summer in order to raise funds for Detective Butler’s artwork and music. We’ve documented our progress by streaming on &lt;a href=&quot;https://twitch.tv/goldbargames&quot;&gt;Twitch&lt;/a&gt; and archiving the videos to &lt;a href=&quot;https://www.youtube.com/user/seagullcrazy/videos&quot;&gt;YouTube&lt;/a&gt;, so please feel free to stop by and watch as we code the game. I will often take suggestions from the audience and attempt to code it into the game during the stream, and if you have any questions I enjoy answering them.&lt;/p&gt;
+
+&lt;p&gt;Currently we’ve made about 30% of the total levels. We’ve reached the halfway point of the main game and just last week finished implementing the optional minigames. We’ll be adding lots of other features such as boss fights, Steam achievements, leaderboards, and of course the remaining levels in the weeks ahead.&lt;/p&gt;
+
+&lt;p&gt;My best estimate for a release date is late July to early August. As such, I also intend to open beta testing during June and July, so we’ll spend the rest of May preparing a beta demo, exclusive to certain Patreon backers. I’d also like to release a shorter public demo before the end of this month.&lt;/p&gt;
+
+&lt;p&gt;You can view the page with all the details of the game &lt;a href=&quot;https://goldbargames.com/snowball-saves/summer/&quot;&gt;right here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Detective Butler 2&lt;/h1&gt;
+
+&lt;p&gt;So with that said, we have a very exciting update to share for Detective Butler 2.&lt;/p&gt;
+
+&lt;p&gt;Since the writing and coding are mostly complete, my primary focus is gathering funds to pay for the art and music.  Though there are still some things I need to do, right now it’s more important to get the art and music assets up to speed with the story that’s been written.&lt;/p&gt;
+
+&lt;p&gt;While the artwork depicted in previous screenshots had served us well for building the prototype, the final game will be getting a graphical makeover. So I am happy to announce that I’ve recruited a new artist, chocojax, to draw the final sprites.&lt;/p&gt;
+
+&lt;p&gt;Here’s a small preview of the new artwork:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/cec-polite.png&quot; title=&quot;cec-polite&quot; alt=&quot;cec-polite&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes, that’s indeed Cecila Querida from the first game, now in a GG uniform! Some time has passed since the Maiden Voyage Murder, and she now works alongside Gilligan at the company… well, I won’t spoil anything other than that for now. The remainder of her already-made facial expressions can be seen on our &lt;a href=&quot;https://www.patreon.com/posts/18807206&quot;&gt;Patreon page.&lt;/a&gt; We’ll also be posting snippets of music over there, too.&lt;/p&gt;
+
+&lt;p&gt;Also, as you can see we’re returning to the cel-shaded style from the first game, as that was very positively received by most players. We’ll look into using cel shaders for the backgrounds too, since most players told us they disliked the blurry backgrounds.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to see more artwork and support our artist, then please consider buying our games or our products on the store, pledging to Patreon, or following on Twitch. I’m working very hard every day to accumulate the funds myself, but any amount will greatly help speed things up.&lt;/p&gt;
+
+&lt;h1&gt;New Website Pages&lt;/h1&gt;
+
+&lt;p&gt;You might have noticed our website is organized a little differently. Rather than each game being on the navigation bar, there’s simply one &lt;a href=&quot;https://goldbargames.com/games&quot;&gt;Games&lt;/a&gt; page that leads to a list of them all. This should be more informative for people just getting to know us, so they can easily find our completed games and our works in progress.&lt;/p&gt;
+
+&lt;p&gt;You’ll also see a &lt;a href=&quot;https://goldbargames.com/rewards&quot;&gt;Rewards&lt;/a&gt; page which gives a detailed explanation of all the rewards you can earn from Patreon and our Twitch streams.&lt;/p&gt;
+
+&lt;p&gt;One of the rewards lists access to a Discord server, so you’re probably wondering “Where can I find the Discord server?” We’ve added a link to that on our website as well, and you can also access the Discord server by clicking &lt;a href=&quot;https://discord.gg/5AenWrt&quot;&gt;right here.&lt;/a&gt; You can chat with other fans, discuss potential ideas for our games, and maybe we’ll even put them in. Who knows! Just have fun.&lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;I’m confident that 2018 will be a very productive year for us. We’ve launched a lot of new features for our website during this first half, and we’ll see the release of at least one game (maybe more, wouldn’t that be nice?) before the end of the year.&lt;/p&gt;
+
+&lt;p&gt;Also, I want to personally apologize for taking so long with everything. In many ways I feel like I have let down so many fans – I’ve allowed so many things to distract me from accomplishing my goals – but I’m thankful for the wave of support I’ve been getting lately. I’m working very hard to get everything back on track, and I really do think things are starting to look up for us again.&lt;/p&gt;
+
+&lt;p&gt;Probably the next big post will be announcing a new demo for Snowball. Or, if we get enough funds, I can commission some more art and we’ll do another character reveal. Either way, I’ve got a lot of work to do over the summer, so wish me luck!&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">We have a lot happening this summer!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Daily GameDev Streams</title><link href="//www.goldbargames.com/daily-gamedev-streams/" rel="alternate" type="text/html" title="Daily GameDev Streams" /><published>2018-03-22T06:45:30+00:00</published><updated>2018-03-22T06:45:30+00:00</updated><id>//www.goldbargames.com/daily-gamedev-streams</id><content type="html" xml:base="//www.goldbargames.com/daily-gamedev-streams/">&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Just a short post for today.&lt;/p&gt;
+
+&lt;p&gt;As the writing and gameplay elements for Detective Butler 2 are being finalized, we also need to secure funds to commission the remaining art and music assets. So, we’re going to release a short project on Steam: the sequel to Snowball Saves Christmas. We plan to release it as quickly as we can without rushing it, so it will likely be during summer.&lt;/p&gt;
+
+&lt;p&gt;We’re also going to be livestreaming its development, so be sure to tune in to our &lt;a href=&quot;https://www.twitch.tv/goldbargames&quot;&gt;Twitch channel&lt;/a&gt; every weeknight (Monday through Friday) at 8 PM Central Standard Time. We’ll go for at least two hours per night. Some parts of the game will likely be coded off-stream as well, but at least this way you can share the excitement of watching the game come to life.&lt;/p&gt;
+
+&lt;p&gt;Lastly, don’t forget you can speed the process up by donating to our &lt;a href=&quot;https://patreon.com/goldbargames&quot;&gt;Patreon&lt;/a&gt; or buying merchandise from the &lt;a href=&quot;https://store.goldbargames.com&quot;&gt;Goldbar Games Store.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for your support. And remember to have fun!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Tune in to watch us make games live!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Goldbar Games Store and Patreon</title><link href="//www.goldbargames.com/goldbar-games-store-and-patreon/" rel="alternate" type="text/html" title="Goldbar Games Store and Patreon" /><published>2018-03-06T06:45:30+00:00</published><updated>2018-03-06T06:45:30+00:00</updated><id>//www.goldbargames.com/goldbar-games-store-and-patreon</id><content type="html" xml:base="//www.goldbargames.com/goldbar-games-store-and-patreon/">&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;During the latter half of last year, we tried developing some smaller games to test the waters on mobile devices. While these games were insightful from a development perspective, it still seemed apparent that people want more of Detective Butler 2 than anything else. Therefore, we’ve been spending all of 2018 working on Detective Butler 2 thus far, and we will continue doing so until the game is finished.&lt;/p&gt;
+
+&lt;p&gt;However, as development will likely take several more months, it only makes sense that we need some other means of funding development. Otherwise, development could slow down to a crawl because of taking on other responsibilities. We do need to pay the bills and put food on the table, after all.&lt;/p&gt;
+
+&lt;p&gt;So after months of consideration, and weeks of preparation, we are excited to reveal the new and improved &lt;a href=&quot;https://store.goldbargames.com/&quot;&gt;Goldbar Games Store&lt;/a&gt;, as well as our brand-new &lt;a href=&quot;https://www.patreon.com/goldbargames&quot;&gt;Patreon account&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;The Store&lt;/h2&gt;
+
+&lt;p&gt;The Goldbar Games Store is where you will find all kinds of fun merchandise related to your favorite Goldbar Games title. As of right now we have a small but varied selection of items. We plan to add many more items over time. Let us know what else you’d like to see, we’ll put it up on the storefront!&lt;/p&gt;
+
+&lt;p&gt;Each page on the store groups items together by game. So at the moment we have sections dedicated to Detective Butler and Snowball Saves Christmas. We also have a general section for the company logo, if you really like it that much. More sections will be added as we release more games.&lt;/p&gt;
+
+&lt;p&gt;By the way, make sure to subscribe to our mailing list to be alerted of any discounts or sales going on. There is also a button near the bottom of the store page that lets you view prices in your local currency (if it is not automatically detected). And if you do purchase something, don’t forget to leave a review to let other customers know what you think of it!&lt;/p&gt;
+
+&lt;h2&gt;Patreon&lt;/h2&gt;
+
+&lt;p&gt;Several blog posts ago, I mentioned that Patreon had been a consideration of mine. At the time, I felt like it would not be a wise decision, because I did not want to promise anything I couldn’t deliver. But now I am confident in a release date for Detective Butler 2 later this year, and I will be posting plenty of screenshots and videos to make joining Patreon worth your time.&lt;/p&gt;
+
+&lt;p&gt;I tried to make the Patreon perks things that wouldn’t detract from development time. Also, I generally dislike the idea of locking out content to fans, so I tried to come up with some perks that wouldn’t drive forth any sort of “elitism” in the community. However, these perks are well worth having, so let me go over them a bit here.&lt;/p&gt;
+
+&lt;p&gt;The smallest level (one dollar) is a simple thank-you, as well as access to anything I might post on Patreon. I don’t have any specific plans for what I might post, but I will likely run polls to determine plans for the near future, and so if you want a say in those polls then it’s only fair to make a small investment into our business.&lt;/p&gt;
+
+&lt;p&gt;At three dollars, your name will be placed in the credits of any game we release while your pledge is active. This rule is defined so that we can continue making monthly games (and so, if you want to be included in the credits of every monthly game, you should pledge on this level). However, as I said, due to the increased interest in Detective Butler 2, that is what we are currently focusing on right now. If you’re truly more interested in small monthly games, then let us know and we’ll make one happen.&lt;/p&gt;
+
+&lt;p&gt;At five dollars, you will earn a 25% discount at the Goldbar Games Store, regardless of the time of year. You can also earn a 40% discount at the 15-dollar tier. So if you really want to go on a shopping spree, it might be better to pledge on this tier before doing so!&lt;/p&gt;
+
+&lt;p&gt;At ten dollars, you will gain beta access to any game that enters the beta testing phase while your pledge is active. Again, this rule was primarily designed for monthly games, but if you are interested in playing the beta version of Detective Butler 2 then you might want to board this tier.&lt;/p&gt;
+
+&lt;p&gt;Finally, at the $20 tier you will gain access to a behind the scenes documentary video showing our progress over the past month. In these videos we will explain our design choices and how we implemented things into whatever game we were currently working on. These videos are intended to be interesting looks into game development as well as partial tutorials for those who are interested in learning about what we do.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;For the month of March we will continue to work on Detective Butler 2, and so we’ll do a write-up about it closer toward the end of the month. Primarily so far we have focused on integrating last month’s writing with the gameplay elements. It’s going to be fun!&lt;/p&gt;
+
+&lt;p&gt;Thank you very much for your support.  See you then!&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;kinjo@goldbargames.com&quot;}</name><email>kinjo@goldbargames.com</email></author><summary type="html">Learn how you can support the development of our games!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" /><media:content medium="image" url="//www.goldbargames.com/%7B%22feature%22=%3Enil%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
