@@ -1,7 +1,7 @@
 name: validate
 on:
   push:
-    branches: 
+    branches:
       - master
   schedule:
     - cron:  '0 0 * * 1'
@@ -14,7 +14,7 @@ jobs:
         with:
           fetch-depth: 1
           ref: master
-          
+
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: '2.x'
@@ -22,13 +22,13 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-        
+
       - name: install, test
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          SUCCESS_MESSAGE: "GoldbarGames/GoldbarGames.github.io has been successfully validated"
-          ERROR_MESSAGE: "GoldbarGames/GoldbarGames.github.io failed to failed to validate"
+          SUCCESS_MESSAGE: "GoldbarGames/GoldbarGames.github.io has been successfully validated."
+          ERROR_MESSAGE: "GoldbarGames/GoldbarGames.github.io failed to failed to validate. See https://github.com/GoldbarGames/GoldbarGames.github.io/actions?query=workflow%3Avalidate"
         run: |
           npm i -g axios && npm link axios
           gem install html-proofer
-          htmlproofer ./ --check-html --allow-hash-href || DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js
+          htmlproofer ./ --check-html --allow-hash-href || (DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js && exit 1)
