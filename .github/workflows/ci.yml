@@ -16,6 +16,7 @@ jobs:
 
       - name: install, build, test
         run: |
+          apt-get update && apt-get install -y rsync
           gem install bundler
           bundle install
           JEKYLL_ENV=production bundle exec jekyll build
