@@ -30,4 +30,4 @@ jobs:
         run: |
           npm i -g axios && npm link axios
           gem install html-proofer
-          htmlproofer ./ --check-html --http-status-ignore 403 --allow-hash-href || (DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js && exit 1)
+          htmlproofer ./ --check-html --http-status-ignore "403" --allow-hash-href || (DISCORD_MESSAGE=$ERROR_MESSAGE node ./discord.js && exit 1)
