@@ -248,4 +248,9 @@ var store = [{
         "excerpt":"Overview As you might’ve noticed, updates have been quite slow recently. It’s been hard to find time to make any progress, but I really do work on things every day. I should get better at posting updates and getting the word out, but I am doing everything I can to...","categories": [],
         "tags": [],
         "url": "//www.goldbargames.com/plans-for-a-new-decade/",
+        "teaser":null},{
+        "title": "Detective Butler Choices DLC",
+        "excerpt":"Overview Hey, everyone. It’s been another few months without any updates, so sorry for that. There’s been a lot going on in the recent months, which has made it difficult for us to accomplish much. Fortunately, the coronavirus pandemic has not really affected us negatively, but it has obviously changed...","categories": [],
+        "tags": [],
+        "url": "//www.goldbargames.com/detective-butler-choices-dlc/",
         "teaser":null}]
