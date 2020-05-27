@@ -1,1 +1,1 @@
-Sitemap: //www.goldbargames.com/sitemap.xml
+Sitemap: https://www.goldbargames.com/sitemap.xml
