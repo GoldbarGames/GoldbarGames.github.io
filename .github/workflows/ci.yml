@@ -12,7 +12,9 @@ jobs:
       env:
         LANG: C.UTF-8
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
       - name: install, build, test
         run: |
