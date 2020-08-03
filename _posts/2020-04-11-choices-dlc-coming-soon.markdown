@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Detective Butler Choices DLC
+title: Choices DLC Coming Soon
 modified:
 categories:
 comments: true
