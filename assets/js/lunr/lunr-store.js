@@ -299,9 +299,21 @@ var store = [{
         "url": "https://www.goldbargames.com/plans-for-a-new-decade/",
         "teaser": null
       },{
-        "title": "Detective Butler Choices DLC",
+        "title": "Choices DLC Coming Soon",
         "excerpt":"Overview Hey, everyone. It’s been another few months without any updates, so sorry for that. There’s been a lot going on in the recent months, which has made it difficult for us to accomplish much. Fortunately, the coronavirus pandemic has not really affected us negatively, but it has obviously changed...","categories": [],
         "tags": [],
-        "url": "https://www.goldbargames.com/detective-butler-choices-dlc/",
+        "url": "https://www.goldbargames.com/choices-dlc-coming-soon/",
+        "teaser": null
+      },{
+        "title": "Detective Butler Choices DLC Released",
+        "excerpt":"Overview At long last, the Detective Butler Choices DLC is available for purchase! This additional content adds choices and branching paths to the game, which ultimately reveal the answers to several mysteries that the original story left unresolved. We have also posted a discussion thread and walkthrough guide. We know...","categories": [],
+        "tags": [],
+        "url": "https://www.goldbargames.com/detective-butler-choices-dlc-released/",
+        "teaser": null
+      },{
+        "title": "Resuming Full-Time Development",
+        "excerpt":"Overview Hey everyone, This is a quick announcement to let you all know we are focusing 100% full-time on game development again. We have had too much to do and not enough time to get it done, so we are going to be spending significantly more time than before. We...","categories": [],
+        "tags": [],
+        "url": "https://www.goldbargames.com/resuming-full-time-development/",
         "teaser": null
       }]
